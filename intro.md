@@ -12,43 +12,49 @@ This module traces the history and contradictions of Japan's empire from the fir
 
 ### Overview and Readings
 
-+---------+------------------------------------------------------------------------------+
-| Date    | Topic                                                                        |
-+=========+==============================================================================+
-| 17.9    | **Introduction: Japanese History and the Transitions of the 19th Century**   |
-+---------+------------------------------------------------------------------------------+
-| 24.9    | **Japan: A Student of Imperialism**                                          |
-+---------+------------------------------------------------------------------------------+
-| 01.10   | **Taiwan after 1895: What to do with your new colony?**                      |
-+---------+------------------------------------------------------------------------------+
-| 08.10   | **Entering the World Stage: the Boxer expedition and the Russo-Japanese War** |
-+---------+------------------------------------------------------------------------------+
-| 15.10   | **Japan’s Changing Colonialism in Korea, Taiwan, and Okinawa**             |
-+---------+------------------------------------------------------------------------------+
-| 22.10   | **The Idea of Colonial Modernity and its Distortions**                       |
-+---------+------------------------------------------------------------------------------+
-| 29.10   | **Struggling to Build an AntiEmpire and Overcome Modernity**                 |
-+---------+------------------------------------------------------------------------------+
-| 05.11   | **The SinoJapanese Conflict and Japan’s Move to Total War**                |
-+---------+------------------------------------------------------------------------------+
-|         | * **Group Presentations**                                                    |
-+---------+------------------------------------------------------------------------------+
-| 12.11   | **The Double Occupations of Southeast Asia: Japan and Western Imperialism**  |
-+---------+------------------------------------------------------------------------------+
-|         | * **Essay Due**                                                              |
-+---------+------------------------------------------------------------------------------+
-| 19.11   | **The Cosmopolitics of Urban Space in the Japanese Empire**                  |
-+---------+------------------------------------------------------------------------------+
-|         | * **Group Presentations**                                                    |
-+---------+------------------------------------------------------------------------------+
-| 26.11   | **Decolonization, Retribution, and the Politics of Memory**                  |
-+---------+------------------------------------------------------------------------------+
-|         | * **Group Presentations**                                                    |
-+---------+------------------------------------------------------------------------------+
-| 0207.12 | **Revision**                                                                 |
-+---------+------------------------------------------------------------------------------+
-| 0920.12 | **Examination Period**                                                       |
-+---------+------------------------------------------------------------------------------+
+* 17.9     **Introduction: Japanese History and the Transitions of the 19th Century**   
+    * GORDON                                                          
+* 24.9     **Japan: A Student of Imperialism**                                          
+    * SOURCES 681-688
+    * 14:29-65
+    * 15:388-418
+    * 7
+* 01.10    **Taiwan after 1895: What to do with your new colony?**                      
+    * COLONIAL 111-140
+    * 1:323-360
+    * 26:37-61
+    * 31:38-77
+* 08.10    **Entering the World Stage: the Boxer expedition and the Russo-Japanese War** 
+    * 25: 
+    * 33:
+    * 29:
+* 15.10    **Japan’s Changing Colonialism in Korea, Taiwan, and Okinawa**             
+    * 26:97-121
+    * 6:
+    * 8:
+    * 32
+* 22.10    **The Idea of Colonial Modernity and its Distortions**                       
+    * 23:
+    * 28:
+    * 30:
+    * 31:
+* 29.10    **Struggling to Build an Anti-Empire and Overcome Modernity**                 
+    * 5:
+    * 12:
+* 05.11    **The Sino-Japanese Conflict and Japan’s Move to Total War**                
+    * **Group Presentations**                                                    
+    * 34:1-54; 17:133-180; 4: ; 16:1-24; 13
+* * 12.11 **The Double Occupations of Southeast Asia: Japan and Western Imperialism**  
+    * **Essay Due**                                                              
+    * GORDON; 21:36-95
+* 19.11    **The Cosmopolitics of Urban Space in the Japanese Empire**                  
+    * **Group Presentations**                                                    
+    * 11:1-24,101-134, 263-314; 18:110-154; 20:279-301, 325-345
+* 26.11    **Decolonization, Retribution, and the Politics of Memory**                  
+    * **Group Presentations**                                                    
+    * 3:423-456; 10:443-524,547-564; 24:15-46,47-77,172-191
+* 02-07.12  **Revision**                                                                 
+* 09-20.12  **Examination Period**                                                       
 
 ### Assessment
 
