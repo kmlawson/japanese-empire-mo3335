@@ -49,3 +49,10 @@ Group Presentation (15%)  - November 5, 19, or 26
 3 Short Essays (300-400 Words 15%) - May submit weeks 2-11  
 **40% Exam**  
 Take-Home Examination - Date TBD, 3/6 Questions, 24 Hours  
+
+### Learning Outcomes
+
+* Understand how imperialism was translated and transformed by Japan
+* Assess the role of colonialism on the development of China, Japan, and southeast Asia
+* Analyse the creative responses in Asia to ideas of modernity as seen through the rise of pan-Asianism and competing resistance nationalisms                             
+

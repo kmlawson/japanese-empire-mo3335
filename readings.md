@@ -1,17 +1,19 @@
+\newpage
+
 ## Readings
 
-### Basic Texts
+### Basic Texts and Primary Sources
 
-* Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*. (Oxford University Press, 2009).
+* GORDON: Andrew Gordon, *A Modern History of Japan: From Tokugawa Times to the Present*. (Oxford University Press, 2009).
 * Mark Peattie, ed., *The Japanese Colonial Empire, 1895-1945* (Princeton University Press, 1984).
-* Mark Caprio, *Japanese Assimilation Policies in Colonial Korea, 1910-1945*. (University of Washington Press, 2009).
+* Mark Caprio, *Japanese Assimilation Policies in Colonial Korea, 1910-1945*. (Univ. of Washington Press, 2009).
 * Louise Young, *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism*. (University of California Press, 1999).
 
 ### Primary Sources
 
 * Michele Mason and Helen Lee, eds., *Reading Colonial Japan: Text, Context, and Critique* (Stanford University Press, 2012).
 * Wm Theodore de de Bary, Carol Gluck, and Arthur Tiedemann, *Sources of Japanese Tradition: Volume 2, 1600 to 2000*, 2nd ed. (Columbia University Press, 2005).
-* Haruko Taya Cook and Theodore F. Cook, *Japan at War: An Oral History*, Reprint. (New Press, The, 1993).
+* Haruko Taya Cook and Theodore F. Cook, *Japan at War: An Oral History*, (New Press, 1993).
 * Timothy Brook, ed., *Documents on the Rape of Nanking* (University of Michigan Press, 1999).
 
 ### All Readings
@@ -32,7 +34,7 @@
 
 8. Leo T. S. Ching, *Becoming Japanese: Colonial Taiwan and the Politics of Identity Formation*, 1st ed. (University of California Press, 2001). 1-50.
 
-9. Haruko Taya Cook and Theodore F. Cook, *Japan at War: An Oral History*, Reprint. (New Press, The, 1993).
+9. Haruko Taya Cook and Theodore F. Cook, *Japan at War: An Oral History*, (New Press, 1993).
 
 10. John W. Dower, *Embracing Defeat: Japan in the Wake of World War II*, First edition. (W. W. Norton & Company, 2000). 443-524. 547-564.
 
@@ -83,3 +85,5 @@
 33. Robert B. Valliant, “The Selling of Japan. Japanese Manipulation of Western Opinion, 1900-1905,” *Monumenta Nipponica* 29, no. 4 (December 1, 1974): 415–438.
 
 34. Louise Young, *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism*. (University of California Press, 1999).
+
+\pagebreak

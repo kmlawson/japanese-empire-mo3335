@@ -1,3 +1,5 @@
+\pagebreak
+
 ## Marking
 
 Within the School of History all work is assessed on a scale of 1-20 with intervals of 0.5. Module outcomes are reported using the same scale but with intervals of 0.1. The assessment criteria set out below are not comprehensive, but are intended to provide guidance in interpreting grades and improving the quality of assessed work. Students should bear in mind that presentation is an important element of assessment and that failure to adhere to the guidelines set out in the School of History Style Sheet will be penalised.
@@ -48,7 +50,7 @@ Completion of a Self Certificate is not an acceptable substitute for contacting 
 
 If you are an international student (non-EEA nationals only), you will be affected by recent changes introduced by the UK in relation to immigration rules and visas.  The University is now legally bound to report to the United Kingdom Borders Agency any student who fails to enrol on a module or programme of study or who fails to attend or who discontinues their studies.
 
-See also the undergraduate handbook section on permission to proceed:
+See also the undergraduate handbook section on permission to proceed:  
 http://www.st-andrews.ac.uk/history/infoug/ptp.html
 
 ## Extensions
