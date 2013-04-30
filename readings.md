@@ -1,4 +1,4 @@
-## Readings: The Japanese Empire and its Aftermath
+## Readings
 
 ### Basic Texts
 

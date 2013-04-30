@@ -1,4 +1,4 @@
-### Marking
+## Marking
 
 Within the School of History all work is assessed on a scale of 1-20 with intervals of 0.5. Module outcomes are reported using the same scale but with intervals of 0.1. The assessment criteria set out below are not comprehensive, but are intended to provide guidance in interpreting grades and improving the quality of assessed work. Students should bear in mind that presentation is an important element of assessment and that failure to adhere to the guidelines set out in the School of History Style Sheet will be penalised.
 
@@ -30,7 +30,7 @@ Work so weak as to indicate that only a nominal attempt has been made to complet
 **Unclassifiable**: 0  
 No acceptable work presented.   
 
-### Absence from Classes
+## Absence from Classes
 
 Attendance is a basic assessment requirement for credit award, and failure to attend classes or meetings with academic staff may result in your losing the right to be assessed in that module. Please ensure that you are familiar with the Academic Alerts regulations.
 
@@ -51,6 +51,6 @@ If you are an international student (non-EEA nationals only), you will be affect
 See also the undergraduate handbook section on permission to proceed:
 http://www.st-andrews.ac.uk/history/infoug/ptp.html
 
-### Extensions
+## Extensions
 
 Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.

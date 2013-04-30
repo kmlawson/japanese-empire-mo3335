@@ -1,4 +1,4 @@
-# Academic Misconduct and Plagiarism
+## Academic Misconduct and Plagiarism
 
 Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree.
 
