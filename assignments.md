@@ -2,6 +2,25 @@
 
 The assessed portion of the coursework for this module consists of one essay, a presentation, and three short essays responding to weekly discussion questions. In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them.
 
+### Short Essays
+
+There are three short essays for this course which should be between 500-700 words in length, not including footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
+
+1. **Critical Review:** You may write a critical review of one secondary or primary source in the form of a book that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. It should also include at least a few sentences with your evaluation of the such as whether it is particularly effective or problematic as a source. Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses.
+
+2. **Prospectus:** Alternatively, you may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
+
+You may decide to write any combination of these approaches, but a common approach will be to write two critical reviews and one prospectus. Please indicate at the top of your short essay which you are selecting. If you change topic during the semester, writing a new prospectus for your new topic is a good way to make the adjustment and give me an opportunity to provide feedback on your new topic.
+
+Questions to consider as you write the short essay:
+
+* Was my short essay written in a coherent and highly focused manner, and avoid distraction or unnecessary information?
+* If I am writing a critical review, did I include a concise overview of what the source is about?
+* If I am writing a critical review, did I tie the arguments of the book to where I hope to go in the argument for my longer essay?
+* If I am writing a critical review, did I include an evaluation of the work with a specific example of its strong and/or problematic aspects?
+* If I am writing a prospectus, did I include a concise presentation of what I plan to argue in my coming long essay?
+* If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
+
 ### Long Essay
 
 The essay for the course is worth 30% of the total grade and should be between 4,000-4,500 words. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
@@ -114,22 +133,4 @@ Some questions to consider as you prepare:
 * Was the presentation well structured, organized, and focus on a few key points?
 * Was there a good balance of arguments and a few examples to support them?
 
-### Short Essays
-
-There are three short essays for this course which should be between 500-700 words in length, not including footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
-
-1. **Critical Review:** You may write a critical review of one secondary or primary source in the form of a book that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. It should also include at least a few sentences with your evaluation of the such as whether it is particularly effective or problematic as a source. Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses.
-
-2. **Prospectus:** Alternatively, you may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
-
-You may decide to write any combination of these approaches, but a common approach will be to write two critical reviews and one prospectus. Please indicate at the top of your short essay which you are selecting. If you change topic during the semester, writing a new prospectus for your new topic is a good way to make the adjustment and give me an opportunity to provide feedback on your new topic.
-
-Questions to consider as you write the short essay:
-
-* Was my short essay written in a coherent and highly focused manner, and avoid distraction or unnecessary information?
-* If I am writing a critical review, did I include a concise overview of what the source is about?
-* If I am writing a critical review, did I tie the arguments of the book to where I hope to go in the argument for my longer essay?
-* If I am writing a critical review, did I include an evaluation of the work with a specific example of its strong and/or problematic aspects?
-* If I am writing a prospectus, did I include a concise presentation of what I plan to argue in my coming long essay?
-* If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
 
