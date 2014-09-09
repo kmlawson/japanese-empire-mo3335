@@ -21,7 +21,7 @@ This module traces the history and contradictions of Japan's empire from the fir
 7. [ --- ] **The Sino-Japanese Conflict and Japan’s Move to Total War**                 
     * 31.10 - Short Essay Due
 8. 04.11 **Struggling to Build an Anti-Empire and Overcome Modernity**                
-9. 11.11 **The Double Occupations of Southeast Asia: Japan and Western Imperialism**  
+9. 11.11 **Southeast Asia and the US-Japan Pacific War**  
 10. 18.11 **Japan Under Occupation**                  
     * 21.11 - Long Essay Due
 11. 25.11 **Decolonization, Retribution, and the Politics of Memory**                  
