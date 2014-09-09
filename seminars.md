@@ -2,14 +2,18 @@
 
 Full references to the readings below can be found in the following section ordered by last name of the author. 
 
-###17.9 Week 1 - Introductions: Japanese History and the Transitions of the 19th Century
+For each week. Please read all of the primary source reading, all of the secondary reading, and at least one of the further readings. Be prepared to be called upon in class to introduce the further reading you have chosen and briefly summarize its argument or main points.
+
+###Week 1 - Introductions: Japanese History and the Transitions of the 19th Century
 
 **Reading:** 
 
 * GORDON Ch 4-8
-* Wikipedia pages for "History of Japan" and "Empire of Japan"
+* Wikipedia pages for "History of Japan" (from Tokugawa period on) and "Empire of Japan"
 
-###24.9 Week 2 - Japan: A Student of Imperialism
+* **Task:** Having read the wikipedia pages along with Gordon's account, what are some strengths and weaknesses you note in the wikipedia narrative of Japanese history?
+
+###Week 2 - Japan: A Student of Imperialism
 
 **Primary Source Reading:**
 
@@ -28,7 +32,7 @@ Full references to the readings below can be found in the following section orde
 
 * MASON p55-75 Ch 2: Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
 
-###01.10 Week 3 - Taiwan after 1895: What to do with your new colony?
+###Week 3 - Taiwan after 1895: What to do with your new colony?
 
 **Primary Source Reading:**
 
@@ -36,33 +40,40 @@ Full references to the readings below can be found in the following section orde
 
 **Secondary Source Reading:**
 
-* Liao, Taiwan Under Japanese Colonial Rule, 37-61
+* 
 * Tierney, Tropics of Savagery, 38-77
 * Barclay, Cultural Brokerage, 323-360
 
 **Further Reading:**
 
 * Continue reading in Liao and Wang's Taiwan Under Japanese Colonial Rule
- 
-###08.10 Week 4 - Entering the World Stage and the Russo-Japanese War
+
+**Questions:**
+
+1. Discuss at least two ways that our readings have highlighted the role of civilisation and savagery in Japanese colonialism in Taiwan?
+2. Evaluate, with examples from more than one reading, the importance of colonial knowledge in Japanese imperialism.
+
+###Week 4 - Entering the World Stage and the Russo-Japanese War
 
 **Secondary Source Reading:**
 
-* Kowner, Impact of the Russo-Japanese War (read 2/4)
-    * 1-26: Between a Colonial Clash and World War Zero 
-    * 29-46: The War as a Turning Point
-    * 91-108: Fragmenting of the Old World Order 
-    * 199-218: Ironies of History 
+* Kowner, Impact of the Russo-Japanese War, 1-26
 * Valliant, The Selling of Japan, 415-438
-* Partner, Peasants into Citizens, 179-209
-* Wolff, Russo-Japanese War in Global Perspective, Hashimoto Yorimitsu, White Hope or Yellow Peril?: Bushido, Britain, and the Raj, 379-403
+* Wolff ed., Russo-Japanese War in Global Perspective, Hashimoto Yorimitsu, White Hope or Yellow Peril?: Bushido, Britain, and the Raj, 379-403
 
 **Further Reading:**
 
 * Nitobe Inazō, Bushido: The Soul of Japan  
-    http://www.gutenberg.org/ebooks/12096
+    * http://www.gutenberg.org/ebooks/12096
+* Lecture by John Dower on Visualising the Russo-Japanese War
+    * http://video.mit.edu/watch/john-dower-visualizing-the-russo-japanese-war-3512-11920/
 
-###15.10 Week 5 - Japan's Changing Colonialism in Korea, Taiwan, and Okinawa
+**Questions:**
+
+1. Discuss some of differing or contrasting ways in which Japan was seen by the world around the time of the Russo-Japanese war and its early aftermath. How did discourse of Japan at the time point to ways that it would be seen by the world in later times and how did it sometimes differ from how it might have been seen in the Pacific War?
+2. Discuss the interaction between the transformations at the international versus the domestic level within Japan when it came to the impact of the Russo-Japanese war.
+
+###Week 5 - Japan's Changing Colonialism in Korea, Taiwan, and Okinawa
 
 **Primary Source Reading:**
 
@@ -82,7 +93,12 @@ Full references to the readings below can be found in the following section orde
 * Continue reading Caprio, Japanese Assimilation Policies
 * Continue reading Ching, Becoming Japanese
 
-###22.10 Week 6 - The Idea of Colonial Modernity and its Distortions
+**Questions:**
+
+1. Focusing in on one aspect or institution, how did Japanese administration of its colonies transform over time and how does this transformation reflect both reactions to the challenges of imperial rule as well as an evolving idea of what Japan’s role should be in its empire.
+2. Choosing either the case of Taiwan or Korea, what were the strengths and weaknesses of an evolving policy of assimilation?
+
+###Week 6 - The Idea of Colonial Modernity and its Distortions
 
 **Primary Source Reading:**
 
@@ -103,7 +119,31 @@ Full references to the readings below can be found in the following section orde
 
 * MASON 209-239 Ch 7: Manchu Girl, Imperializing Motherhood
 
-###29.10 Week 7 - Struggling to Build an Anti-Empire and Overcome Modernity
+**Questions:**
+
+1. Discuss at least two ways that our readings have highlighted the role of civilisation and savagery in Japanese colonialism in Taiwan?
+2. Evaluate, with examples from more than one reading, the importance of colonial knowledge in Japanese imperialism.
+
+
+###Week 7 - The Sino-Japanese Conflict and Japan's Move to Total War
+
+**Primary Source Reading:**
+
+* SKIM: Brook, Documents on the Rape of Nanking, 33-206
+* Aso, From Shanghai to Shanghai, pages TBD
+
+**Secondary Source Reading:**
+
+* Fogel, The Nanjing Massacre in History and Historiography, 133-180: The Challenges of the Nanjing Massacre
+* Young, Japan's Total Empire, 1-54: Part I - The Making of a Total Empire
+
+**Questions:**
+
+1. How did the Manchurian "experiment" differ from Japan's experience of imperialism in Korea or Taiwan?
+2. Discuss the differences or similarities in the portrayal of the Japanese as urban occupiers in the Documents on the Rape of
+Nanking with the depiction of the same in Aso's memoir From Shanghai to Shangai
+
+###Week 8 - Struggling to Build an Anti-Empire and Overcome Modernity
 
 **Primary Source Reading:**
 
@@ -119,19 +159,13 @@ Full references to the readings below can be found in the following section orde
 * Calichman, Overcoming Modernity, 1-41: Introduction
 * Najita, Japanese Revolt Against the West, 711-744
 
-###05.11 Week 8 - The Sino-Japanese Conflict and Japan's Move to Total War
+**Questions:**
 
-**Primary Source Reading:**
+1. What does “overcoming modernity” mean and how did Japanese intellectuals believe it could be accomplished? 
+2. Discuss two contrasting views on Japan’s role within Asia from among the De Bary readings.
 
-* SKIM: Brook, Documents on the Rape of Nanking, 33-206
-* Aso, From Shanghai to Shanghai, pages TBD
 
-**Secondary Source Reading:**
-
-* Fogel, The Nanjing Massacre in History and Historiography, 133-180: The Challenges of the Nanjing Massacre
-* Young, Japan's Total Empire, 1-54: Part I - The Making of a Total Empire
-
-###12.11 Week 9 - The Double Occupations of Southeast Asia: Japan and Western Imperialism
+###Week 9 - Southeast Asia and the US-Japan Pacific War
 
 **Primary Source Reading:**
 
@@ -144,29 +178,21 @@ Full references to the readings below can be found in the following section orde
 
 **Secondary Source Reading:**
 
-* Iriye, Power and Culture, 36-95: Abortive New Order
 
 **Further Reading:**
 
 * MASON 243-295 Ch 8: The Adventures of Dankichi, Popular Orientalism
 
-###Date TBD Week 10 - The Cosmopolitics of Urban Space in the Japanese Empire
+###Week 10 - Japan Under Occupation
 
 **Secondary Reading:**
 
-* Driscoll, Absolute Erotic, Absolute Grotesque 
-    * 1-24: Introduction
-    * 263-314: Japanese Lessons
-* Yeh, In the Shadow of the Rising Sun 
-    * 279-301: Back to Business as Usual
-    * 325-345: Fashioning Public Intellectuals
-* Fu, Passivity, Resistance, and Collaboration, 110-154: The Gujin Group
+* Review GORDON Ch 13: Occupied Japan
 
 **Further Reading:**
 
-* Eileen Chang's *Love in a Fallen City* or *Lust, Caution* novellas
 
-###26.11 Week 11 - Decolonisation, Retribution, and the Politics of Memory
+###Week 11 - Decolonisation, Retribution, and the Politics of Memory
 
 **Primary Reading:**
 
@@ -174,7 +200,6 @@ Full references to the readings below can be found in the following section orde
 
 **Secondary Reading:**
 
-* Review GORDON Ch 13: Occupied Japan
 
 **Choose one of the following three:**
 
