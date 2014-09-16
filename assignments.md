@@ -61,7 +61,7 @@ When you do not find enough through the above method of beginning your trail wit
     * Try adding filetype:pdf to limit results to PDF files
     * You can limit searches to a particular domain or top-level domain, e.g. including: site:st-andrews.ac.uk or site:.edu 
 
-The long essays should use at least half a dozen sources which are not websites and the inclusion of primary sources is strongly encouraged except in the case of an explicitly historiographical essay. An essay based on sources that are the results of a simple google search can be written in an evening or two of frantic last minute work, but rarely demonstrates much effort, research skill, or ability to isolate high-quality materials to support an argument. This is not because there are not excellent websites with overviews on a topic, excellent wikipedia entries, etc. but because there is still usually far greater quality material found in published articles and books on most historical topics, including those which are assigned above. It is wise to make use of online research skills to get oriented in a new topic, but use this course as an opportunity to explore the wealth of academic research on your topics. Your essays will be assessed, in part, on how effectively your sources demonstrate your research efforts. Of course, digitized primary (archival sources, documents) or secondary sources (e.g. articles in academic databases) found in digital collection are permitted and an online source or two in addition to your other sources beyond the minimum is fine if chosen carefully for quality. 
+The long essays should use at least ten sources which are not websites and the inclusion of primary sources is strongly encouraged except in the case of an explicitly historiographical essay. An essay based on sources that are the results of a simple google search can be written in an evening or two of frantic last minute work, but rarely demonstrates much effort, research skill, or ability to isolate high-quality materials to support an argument. This is not because there are not excellent websites with overviews on a topic, excellent wikipedia entries, etc. but because there is still usually far greater quality material found in published articles and books on most historical topics, including those which are assigned above. It is wise to make use of online research skills to get oriented in a new topic, but use this course as an opportunity to explore the wealth of academic research on your topics. Your essays will be assessed, in part, on how effectively your sources demonstrate your research efforts. Of course, digitized primary (archival sources, documents) or secondary sources (e.g. articles in academic databases) found in digital collection are permitted and an online source or two in addition to your other sources beyond the minimum is fine if chosen carefully for quality. 
 
 When you have found a good selection of a dozen or two sources through a process of skimming of footnotes and bibliographies etc., start your more detailed reading with something of broader coverage to give you some ideas of potential specific arguments or hypotheses. Then move swiftly and with more focus to search through the other sources in the specific sections that are likely to show whether your potential argument holds or not. In researching for an essay you rarely have to read an entire work, and even when you do so, you should skim less relevant sections. Unlike reading for pleasure, historical research involves reading as a hunt for answers to problems. If you find that your argument does not hold or has insufficient evidence to support it, zoom out again and restart the process. 
 
@@ -71,7 +71,7 @@ This circular movement is one very effective approach to historical research. St
 
 ### Headers and Formatting
 
-At the top of your written work, please include:
+At the top of all your written work, please include:
 
 * The date of submission
 * The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
@@ -117,6 +117,9 @@ Assessed work with word limits should be always submitted within those limits. W
 ### Feedback
 
 General feedback is provided directly on the mark sheet, which will usually be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
+
+
+\pagebreak
 
 ### Presentation
 

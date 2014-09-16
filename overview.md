@@ -2,7 +2,7 @@
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Meets:** Fall, 2014 - Tue 13:00-15:00 **Location:** TBD  
-**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 15:00-16:00  
+**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 11-12, 15:00-16:45   
 
 ### Description	
 
@@ -11,7 +11,7 @@ This module traces the history and contradictions of Japan's empire from the fir
 ### Overview
 
 1. 16.9 **Introduction: Japanese History and the Transitions of the 19th Century**
-2. [ --- ] **Japan: A Student of Imperialism**
+2. 23.9 **Japan: A Student of Imperialism**
 3. 30.9  **Taiwan after 1895: What to do with your new colony?**
     * 03.10 - Short Essay Due
 4. 07.10 **Entering the World Stage: the Boxer expedition and the Russo-Japanese War**
