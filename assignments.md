@@ -125,6 +125,8 @@ General feedback is provided directly on the mark sheet, which will usually be p
 
 Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. One such presentation for each student will be given more time and assessed formally. The assessed presentation should be 15-20 minutes in length and not longer. It may either focus on one or two books, or a collection of articles (3 articles to replace a book) from among the assigned required or supplementary readings for each week. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion.
 
+Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions. The new discussion questions by the student should try not to repeat or significantly overlap with any previously supplied discussion questions.
+
 Occasionally, there will also be non-assessed presentations that students will be asked to volunteer for in some weeks that are shorter (5-10 minutes) and do not require a handout to be prepared (though they are welcome).
 
 Some questions to consider as you prepare:

@@ -25,19 +25,21 @@ If you have a question that requires an answer with significant detail, please c
 
 In writing emails, please try to be clear about what you are asking, and keep in mind that your message is one among many from students of multiple classes and differing contexts. Please mention which course you are in and what specific matter you are referring to. As in class, feel free to address me by first name in emails.
 
+Finally, before hitting the send button, please confirm that the answer to your question is not found in the handbook, on official school websites, or other handouts provided to the class.
+
 ## Laptops in Class
 
 Recent studies are increasingly showing that, for whatever reasons, the handwriting of notes, and the reading of essays on physical paper as opposed to computers or other reading devices increases the quality of notes, significantly boosts recall, and better processing of content in general.
 
-There are, however, many strong benefits to using a laptop for notes, and keeping reading content in digital form, not the least ready access, easy distribution, ability to resort notes, searchability, and for those who have handwriting as poor as mine: simple readability. 
+There are, however, many strong benefits to using a laptop for notes, and keeping reading content in digital form, not the least ready access, easy distribution, ability to re-sort notes, searchability, and for those who have handwriting as poor as mine: simple readability. 
 
-You are welcome to bring a laptop to class and use it for notes and reading. If you do not, I ask that you bring printed copies of the reading every week so that you can easily refer to the readings as we discuss them. Not bringing them makes for very ineffective use of a seminar that is based on the discussion of reading. 
+You are welcome to bring a laptop to class and use it for notes and reading. If you do not, I ask that you bring printed copies of assigned reading that is made available every week so that you can easily refer to the readings as we discuss them. Not bringing them makes for very ineffective use of a seminar that is based on the discussion of reading. 
 
-Please do not to use applications not related to our class, including email applications and social media. It is not only that you are interfering with your own processing of content but it is a severe distraction to anyone sitting next to you.
+Please do not to use applications not related to our class, including email applications and social media. It is not only that you are interfering with your own learning and showing your tutor disrespect, but it is a severe distraction to anyone sitting next to you.
 
 ## Collective Notes
 
-I believe in the benefits of sharing notes, not only with your classmates, but with future potential students of the class. For this purpose, I have created, and will provide the link for a Google document where you can post readings, organize reference material and online links to info and sources, etc. throughout the semester. I will also provide a link to notes from previous years (which may include some different readings and seminar topics). Both present and past years should be treated as you might any historical source: you should not use them to replace your own investigation, and you should not treat content and notes provided by others as something you can uncritically accept as accurate. 
+I believe in the benefits of sharing notes, not only with your classmates, but with future potential students of the class. For this purpose, I have created, and will provide the link for a Google document where you can post readings, organize reference material and online links to info and sources, etc. throughout the semester. I will also provide a link to notes from previous years (which may include some different readings and seminar topics). Both present and past years should be treated as you might any historical source: you should not use them to replace your own reading and note taking, and you should not treat content and notes provided by others as something you can uncritically accept as accurate. Use them as a productive supplement, as an alternative perspective as you conduct your own studies.
 
 ## Exam
 
@@ -57,3 +59,5 @@ I strongly encourage you to attempt the following approach:
 Questions for the exam typically will strive to get you to think synthetically, to make observations and comparisons across the themes of the semester, and as such should show an ability to make sharp analytical arguments, combined with the ability to employ a few detailed empirical examples to support these arguments
 
 The exam uses a modified citation practice for the exam and does not need any footnotes. You should not have to do any outside reading for the exam. Indeed, doing outside reading beyond works listed show that you have not sufficiently digested our existing material. Thus, for citation, you need only indicate the author last name (when only one work by them, a short version of title if there are multiple works by same author) and a page number. Quotes should be kept to a very minimum but you should cite where you are taking arguments and ideas from, as in any essay.
+
+Previous versions of the examination are available, as with most classes at St Andrews, through the online portal for that purpose.
