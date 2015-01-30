@@ -154,9 +154,8 @@ For each week. Please read all of the primary source reading, all of the seconda
 
 **Questions:**
 
-1. Discuss at least two ways that our readings have highlighted the role of civilisation and savagery in Japanese colonialism in Taiwan?
-2. Evaluate, with examples from more than one reading, the importance of colonial knowledge in Japanese imperialism.
-
+1. How was colonial modernity distinct from that experienced elsewhere?
+2. Discuss the critical approach of colonial modernity in comparison with Duara’s idea of an East Asian Modern.
 
 ### Week 7 - The Sino-Japanese Conflict and Japan's Move to Total War
 
