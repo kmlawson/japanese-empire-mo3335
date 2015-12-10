@@ -9,7 +9,7 @@ http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
 
 **Outstanding First**: 19.0, 19.5, 20.0  
 **Clear First**: 18.0, 18.5  
-**Borderline First**: 16.5, 17.0, 17.5  
+**First**: 16.5, 17.0, 17.5  
 First Class work will be distinguished in some or all of the following ways: originality of thought or interpretation; independence of judgement; wide-ranging reading, often beyond that recommended; intelligent use of primary sources; historiographical awareness and criticism; clarity and rigour of argument and structure, well directed at the title; clarity and elegance of style; unusual and apt examples; comparison e.g. with themes and topics covered in other modules.  
 
 **Upper Second Class** 13.5, 14.0, 14.5, 15.0, 15.5, 16.0   
@@ -32,3 +32,6 @@ Work so weak as to indicate that only a nominal attempt has been made to complet
 **Unclassifiable**: 0  
 No acceptable work presented.   
 
+## Extensions
+
+Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.

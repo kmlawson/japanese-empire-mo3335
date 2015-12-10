@@ -2,11 +2,38 @@
 
 The assessed portion of the coursework for this module consists of one long essay, a presentation, and two short essays. In addition, students are required to come prepared each week having completed the assigned reading and ready to discuss them.
 
+### Headers and Formatting
+
+At the top of all your written work or on a cover page, please include:
+
+* The date of submission
+* The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
+* Your student number
+* A title, when appropriate
+* The total number of words (use the word count feature of your word processor)
+
+When formatting your assignments, please follow these guidelines:
+
+* Add page numbers
+* Use a minimum of 12 sized font
+* Use a serif font (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
+* Please double space your essays
+
+Other aspects of formatting are highlighted in the School of History style sheet. See the following section.
+
+### Footnotes and References
+
+Please carefully read the St Andrews School of History Style Sheet:
+
+http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
+
+This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination.
+
 ### Short Essays
 
 There are two short essays for this course which should be between 500-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
 
-1. **Critical Review:** You may write a critical review of one secondary or primary source in the form of a book that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. Your critical review should include your evaluation of the source. What are its strong points? Where does it fall short? Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses. 
+1. **Critical Review:** You may write a critical review of one secondary or primary source in the form of a book (which is a minimum of 150 pages in length) that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. Your critical review should include your evaluation of the work. What are its strong points? Where does it fall short? Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses rather than full footnotes. When writing a critical review, consider using book reviews in major academic journals as your model. 
 
 2. **Prospectus:** Alternatively, you may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
 
@@ -22,6 +49,8 @@ Questions to consider as you write the short essay:
 * If I am writing a prospectus, did I include some reference to the kinds of sources I will be using, or hope to use in making the argument?
 * If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
 
+\pagebreak
+
 ### Long Essay
 
 The essay for the course is worth 50% of the total coursework and has a limit of 5,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
@@ -32,7 +61,7 @@ Some class time in week four will be dedicated to discussing the essay. At that 
 
 The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay was written (to take an example from Chinese history) about some aspect of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
 
-The historical argument in your long essays, in particular, should be clearly and unambiguously stated in the span of 1-3 sentences somewhere in the opening third of the essay, preferably in the opening paragraph or two. If you are answering one of the questions rather than choosing one of the broader topics, this can usually be accomplished by giving a clear answer and adding at least some detail about how you will go on to support your answer. Your argument should be falsifiable, that is, it should be possible to meaningfully contradict the argument you make and demonstrate that it is false if the presented evidence is not sufficient or poorly deployed. It should not be obvious, trivial, or a well-known and rarely contested fact. Challenging as false an existing historian's argument that has become considered obvious and rarely contested, however, is one ambitious way to find your way to an interesting and original argument but only if your evidence is sufficient. Alternatively, if you have found evidence that supports the existing arguments of historians in a given area of research in a new set of sources, from a fresh perspective, or in greater depth, or in a comparative light, that also often yields a strong argument. If you have identified a debate in the historiography and wish to take a position on it without simply repeating all of the points made by one of the participants of the debate, that can also yield an essay with a strong argument but you should take care to acknowledge the position and evidence of the other side.
+The historical argument in your long essays, in particular, should be clearly and unambiguously stated in the span of 1-3 sentences somewhere in the opening third of the essay, preferably in the opening paragraph or two. It should not be obvious, trivial, or a well-known and rarely contested fact. Challenging as false an existing historian's argument that has become considered obvious and rarely contested, however, is one ambitious way to find your way to an interesting and original argument but only if your evidence is sufficient. Alternatively, if you have found evidence that supports the existing arguments of historians in a given area of research in a new set of sources, from a fresh perspective, or in greater depth, or in a comparative light, that also often yields a strong argument. If you have identified a debate in the historiography and wish to take a position on it without simply repeating all of the points made by one of the participants of the debate, that can also yield an essay with a strong argument but you should take care to acknowledge the position and evidence of the other side.
 
 **Presenting your Argument:** There are a number of different ways to write a strong essay and present the argument, but in this module, I would like to strongly encourage you to "front-load" your argument and do so clearly, that is, to present clearly early in the essay what it is you will argue and why it is important. For example, avoid sentences such as "I will explain..." or "I aim to understand..." or "I will explore..." unless these are immediately followed by the explanation, what you ended up understanding, or what the result of your exploration was. In other words, do not use the introduction to make predictions about what you will do, but tell the reader in very clear terms what you **have argued and shown** in the essay. There are many ways to do this in more or less subtle language but there is no harm in a very clear, "In this essay, I will argue that..." followed by a short overview of what kinds of evidence you will use, how your argument fits into a historiographical context (how your argument relates to what other historians have to say about the matter), and why you think it is important. 
 
@@ -58,6 +87,7 @@ Some other questions to ask yourself as you write the long essay:
 * Have I used a variety of appropriate sources?
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
+* Is my argument non-trivial? That is, does it go beyond a well-known historical consensus about a topic?
 * Does the essay consider alternative explanations, acknowledge inconvenient facts, and point out sources or historians who may have differing approaches?
 * Did I proofread my essay, check the spelling, and reread for sentences that are unclear?
 * Did I carefully follow the style guide for the School of History for all my footnotes?
@@ -90,32 +120,6 @@ This circular movement is one very effective approach to historical research. St
 
 **The Worst Possible Way to Proceed:** Perhaps the worst possible way to do research for your essay is to find a dozen or two works on your broad topic by title search. This usually results in you finding several very general and introductory works on your topic. Allow this collection of books and articles to rest comfortably on your shelf until the deadline nears, and then sit down and attempt to read all these works and hope that your essay will emerge from the vast knowledge you have gained in reading these books. 
 
-### Headers and Formatting
-
-At the top of your written work, please include:
-
-* The date of submission
-* The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
-* Your student number
-* A title, when appropriate
-* The total number of words (use the word count feature of your word processor)
-
-When formatting your assignments, please follow these guidelines:
-
-* Add page numbers
-* Use a minimum of 12 sized font
-* Use a serif (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
-* Please double space your essays
-
-Other aspects of formatting are highlighted in the School of History style sheet. See the following section.
-
-### Footnotes and References
-
-Please carefully read the St Andrews School of History Style Sheet:
-
-http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
-
-This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully.
 
 ### How your Long Essay is Evaluated
 
@@ -140,9 +144,7 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
 
-### Extensions and Late Work
-
-Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
+### Late Work
 
 This module follows the official School of History penalties for late work:
 
@@ -164,24 +166,25 @@ General feedback is provided directly on the mark sheet, which will be posted to
 
 ### Presentation
 
-Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. One such presentation for each student will be given more time and assessed formally. The assessed presentation should be 15 minutes in length and not longer. It may either focus on one book, a secondary source, or a collection of articles (3 articles or so) from among the supplementary readings for each week, or may focus on any part of the texts and primary sources among the required readings from beyond the page limits assigned. For example, if we read a part of a book for a week, the presentation can present the book as a whole. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, any key persons or dates, and, optionally a question to kick off our discussion. The presentations should ideally focus on connecting what is read and presented to our existing readings and the discussion of the day. Connecting the reading to past readings and discussions in the module is also a very welcome.
+**Shorter Presentations:** Most weeks of the semester one or more students will be given an opportunity to present a summary, critique, and raise some discussion questions related to one of the required or supplementary readings. These presentations are not formally assessed and need only be 5 minutes in length and the student may be cut off at any point after that. They should aim to clearly and succinctly summarise the main arguments of a text, its context, and what kinds of sources are used. If the presenting student has taken good notes on the reading, they are encouraged to share them on the class shared notes document. A handout is welcome but not required, and should be distributed via the class shared notes document.
 
-Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions. The new discussion questions by the student should try not to repeat or significantly overlap with any previously supplied discussion questions.
+**Assessed Long Presentation:** The shorter presentations serve as good practice for one presentation for each student that will be given more time and assessed formally. The assessed presentation should be 15 minutes in length and not longer. As in the shorter non-assessed presentations, the presentation will focus on an assigned text. 
 
-Occasionally, there will also be non-assessed presentations that students will be asked to volunteer for in some weeks that are shorter (5-10 minutes) and do not require a handout to be prepared (though they are welcome).
+The longer presentation should also briefly summarise the main arguments, and make 1-3 focused critiques or observations about the read material. The summary and setting of context should be less than half the total presentation. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, and any key sources, persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please also add (or link) the handout text to the class collaborative notes document. The presentations should ideally focus on connecting what is read and presented to our other readings and the discussion of the day and focus on engaging with the arguments and issues. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required, but if the student finds an interesting or problematic issue, they are welcome to bring in observations from an outside source. Please consult with the tutor if you choose to do this.
+
+Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
 
 Feedback for presentations will be sent to multiple students at two or three points during the semester, rather than on a rolling basis.
 
 Some questions to consider as you prepare:
 
 * Did the distributed handout of one or at most two pages accurately summarize the general points to be made in the presentation in the form of concise bullet points
-* If appropriate, did the handout include any important dates, sources, or a map for the discussion?
-* Did the handout include a discussion question?
+* Did the handout include any important dates, sources, or a map that serves as a useful reference?
 * Was the 15 minute limit strictly observed in the presentation?
 * Was the presentation well structured, organized, and focus on a only few key points?
 * Was there a good balance of arguments and a few examples to support them?
 * Did the presentation avoid being a presentation of a series of bullet-point style facts?
-* Did the presentation make an effort to connect to the required readings for the day or find ways to connect to the reading and discussion from previous weeks?
+* Did the presentation make an effort to connect the readings to other readings for the day or find ways to connect to the reading and discussion from previous weeks?
 
 
 
