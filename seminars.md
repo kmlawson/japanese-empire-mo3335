@@ -4,7 +4,7 @@
 
 Full references to the readings below can be found in the following section ordered by last name of the author. 
 
-For each week. Please read all of the primary source reading, all of the secondary reading, and at least one of the further readings. Be prepared to be called upon in class to introduce the further reading you have chosen and briefly summarize its argument or main points.
+For each week. Please read all of the primary source reading, all of the secondary reading, and please consider reading one of the further readings. 
 
 Abbreviations for readings:
 
@@ -16,20 +16,21 @@ Abbreviations for readings:
 
 **Reading:** 
 
-* GORDON Ch 4-8 (90 pages), and at some point in semester: Ch 9-13 (100 pages)
-* Wikipedia pages for "History of Japan" (from Tokugawa period on) and "Empire of Japan"
+* GORDON Ch 4-12 (p48-223, 175 pages) 
+    * *What to Look For*: These chapters, from a survey history of modern Japan, will be crucial for you to get the broad historical sweep for the course. Given the thematic emphasis of this course and its focus on empire, much of what is in this reading is the only reading you will have that covers some of the domestic developments in Japanese history and the only time that you will have a strictly chronological overview. If you have never studied East Asian or specifically Japanese history before, I would urge you to read this twice, once at the beginning of the semester, and again during the mid-semester break.
+    * I would tackle the reading in two or three sessions and read these pages closely, and take good notes to refer to throughout the semester. How long did it take you to read these 175 pages closely? Make a note of this as your "slow rate" - some texts will need slow reading to fully absorb them well, and others can be read twice as fast as you search for the main arguments, closely read difficult theoretical sections, make note of key case studies and evidence, and skim over sections you think are less relevant. This is the key to managing reading of 150-250 pages a week.
 
 **Preparation:**
 
 * I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole.
-* Having read the wikipedia pages along with Gordon's account, what are some strengths and weaknesses you note in the wikipedia narrative of Japanese history?
 * Bring a list of at least three themes or general areas related to the history of Japanese empire that interest you and be prepared to say something about why you find them interesting
 * Be ready to share some thoughts on how a module on Japanese empire might differ from a module entitled, for example, 'Modern Japanese History'
-* Look the readings in each of the weeks ahead and read the handbook section on assessed fifteen minute and shorter five minute unassessed presentations. Be prepared to sign up for the week you would like to do an assessed presentation, and two weeks when you are willing to do an unassessed presentation (you don't need to choose the specific readings yet). You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is less than two people doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone.
+* Look the readings in each of the weeks ahead and read the handbook section on assessed fifteen minute text guides. Be prepared to sign up for the week you would like to do an assessed presentation, and two weeks when you are willing to be a text guide. You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is only one person doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone.
 
 **Overview:**
 
 * Our first meeting will talk about the relationship between studying the history of Japan, and the history of Japanese empire. 
+* I will offer a short lecture, the only lecture of more than a few minutes you will receive during the semester which will take you on a tour through the course and what we will be covering. 
 * Group Exercise: We will evaluate the familiarity we have with the history of East Asia and the studies of empire. You will have an opportunity to share what aspects of this topic you find most interesting and want to learn about. 
 * We will discuss the assignments, and particularly emphasise the importance of beginning early and working consistently on your long essay. I will explain what the expectations are and urge you to make good use of this handbook which offers a lot of detailed advice. 
 * We will discuss the format of the final examination, and share tips for how to deal with the reading load from week to week. 

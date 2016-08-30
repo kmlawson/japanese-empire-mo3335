@@ -2,7 +2,7 @@
 
 ## Exam
 
-The final examination is a take-home exam worth 40% of your total grade. The questions (six, of which you choose three), will be made available online through our MMS at the appointed start time, and you will be required to submit the answers within 12 hours online to the MMS. The exam is still designed to only take you a few hours (3-5 hours, there are strict word limits) but to give you the freedom to complete it at a time that works for you, as well as other benefits such as: giving you the freedom to draft and initial answer and then review notes to strengthen areas you feel are weak before returning to complete the final version.
+The final examination is a take-home exam worth 40% of your total grade. The questions (six, of which you choose three), will be made available online through our MMS at the appointed start time, and you will be required to submit the answers within 12 hours online to the MMS. The exam is still designed to only take you a few hours (3-5 hours, there is a strict word limit of 3750 words total for all three answers combined) but to give you the freedom to complete it at a time that works for you, as well as other benefits such as: giving you the freedom to draft and initial answer and then review notes to strengthen areas you feel are weak before returning to complete the final version.
 
 Those who are not experienced with this format often make one critical mistake: They see the questions, and immediately begin a long and intensive process of reading and reviewing on the questions before beginning the writing process. This has never, in my experience, produced the strongest answers. You tend to become exhausted and produce poor quality answers, answer in great empirical detail but stray from the question, and sometimes find yourself critically short on time. I strongly encourage you to consider the following approach: 
 
@@ -21,6 +21,15 @@ The exam uses a modified citation practice for the exam and does not need any fo
 Previous versions of the examination are available, as with most classes at St Andrews, through the online portal for that purpose.
 
 If you have any problems submitting the exam through MMS, please email a copy of it to me before the deadline. It is critical that you get the exam submitted by the appointed time so please leave enough time to make sure you have uploaded the exam to MMS or at least emailed me a copy.
+
+Questions to ask yourself as you prepare for the exam throughout the semester:
+
+* Have I downloaded all PDFs of readings that I require for the exam before the exam starts?
+* Do have I have good notes for each of the readings?
+* Do have I have good "notes on notes" which further filters and reduces my notes down to more general points and arguments, and make it easier to refer to or look up more specific notes or text references?
+* Have I kept track of page numbers for key arguments or key evidence/examples so that I can easily find/cite them for the exam?
+* Have I worked together with some of my fellow classmates as I prepare, comparing notes, discussing past exam questions, and sharing reference information.
+* Have I thought about ways to connect readings to eachother and into larger themes that may bridge across weeks?
 
 Questions to ask yourself as you review over your answers on the examination:
 

@@ -17,3 +17,8 @@ Here I list some of the significant changes in this module over the years, after
 * Consolidated two of the colonialism weeks in order to make room for a new week on:
 * added a week on "Imperial innovation in Manchuria"
 * made adjustments to the assigned readings throughout all weeks
+
+## 2016.1 ##
+
+* shifted from unassessed short presentation to "text guide" role
+* removed marking table and referred to website

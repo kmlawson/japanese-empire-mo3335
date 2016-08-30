@@ -25,7 +25,7 @@ Other aspects of formatting are highlighted in the School of History style sheet
 
 Please carefully read the St Andrews School of History Style Sheet:
 
-http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
+[http://www.st-andrews.ac.uk/history/infoug/stylesheet.html](http://www.st-andrews.ac.uk/history/infoug/stylesheet.html)
 
 This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination.
 
@@ -33,11 +33,11 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 There are two short essays for this course which should be between 500-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
 
-1. **Critical Review:** You may write a critical review of one secondary or primary source in the form of a book (which is a minimum of 150 pages in length) that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. Your critical review should include your evaluation of the work. What are its strong points? Where does it fall short? Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses rather than full footnotes. When writing a critical review, consider using book reviews in major academic journals as your model. 
+1. **Prospectus:** You may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
 
-2. **Prospectus:** Alternatively, you may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
+1. **Critical Review:** If you are not willing to write a prospectus, or if you have already submitted one prospectus and are happy with the feedback, you mmay write a critical review of one secondary source in the form of a book (which is a minimum of 150 pages in length) that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. Your critical review should include your evaluation of the work. What are its strong points? Where does it fall short? Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses rather than full footnotes. When writing a critical review, consider using book reviews in major academic journals as your model. 
 
-You may decide to write one of each of these, or two of either. Please indicate at the top of your short essay which you are selecting. If you change topic during the semester, making both short essays a prospectus is a good way to make the adjustment and give me an opportunity to provide feedback on your new topic.
+You may decide to write one of each of these, or two versions of the prospectus. Writing two versions of the prospectus is recommended when you have significantly shifted the focus of your ideas for the long essay, or you have revised and improved your ideas on the basis of feedback and want to submit a significantly improved version. Please indicate at the top of your short essay which you are selecting, prospectus or critical review. 
 
 Questions to consider as you write the short essay:
 
@@ -48,6 +48,7 @@ Questions to consider as you write the short essay:
 * If I am writing a prospectus, did I include a concise presentation of what I plan to argue in my coming long essay, even if I'm not yet entirely sure if I can demonstrate the argument?
 * If I am writing a prospectus, did I include some reference to the kinds of sources I will be using, or hope to use in making the argument?
 * If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
+* If I am writing a second prospectus, have I either shifted my focus or made significant and substantive revisions and improvements on the first prospectus?
 
 \pagebreak
 
@@ -77,7 +78,7 @@ I will argue that the alarm clock sleep function is a major hindrance to our pro
 
 Some other questions to ask yourself as you write the long essay:
 
-* Does the essay have a clear introduction which articulates the argument I wish to make in the essay?
+* Does the essay have a clear introduction which articulates the argument I wish to make in the essay? Does it move beyond telling the reader what the essay is "about" and what the essay "will do" to tell the reader very clearly what *has been accomplished* in the essay and *what be specifically shown* in the essay, and not leave this only for the conclusion?
 * Does the essay have a clear conclusion which restates the main points and then makes some effort to contextualise the findings in the broader issues of the course?
 * Does the essay situate the argument being made in the context of the sources used, and its relevance to the study of our module topic?
 * Does the essay show a good understanding of the sources used, and use them effectively in supporting my argument with clear and specific examples to enforce my points?
@@ -88,6 +89,7 @@ Some other questions to ask yourself as you write the long essay:
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
 * Is my argument non-trivial? That is, does it go beyond a well-known historical consensus about a topic?
+* Has the long essay engaged with the historiography on the relevant issue effectively throughout?
 * Does the essay consider alternative explanations, acknowledge inconvenient facts, and point out sources or historians who may have differing approaches?
 * Did I proofread my essay, check the spelling, and reread for sentences that are unclear?
 * Did I carefully follow the style guide for the School of History for all my footnotes?
@@ -123,13 +125,14 @@ This circular movement is one very effective approach to historical research. St
 
 ### How your Long Essay is Evaluated
 
-Here are some of the features of a superb long essay that I look for as I mark your work:
+The points that follow should be fairly clear from the questions posed above but are restated from the perspective of the marker of a very strong long essay:
 
 - The essay gives a clear presentation of its argument in the introduction of the essay
 - The essay is written well and has a clear structure. 
 - The essay is within the word limit and of a sufficient length for its proposed scope.
 - The argument is well signposted, with different sub-arguments of the essay clearly introduced with clear topical sentences. 
 - The essay shows that extensive reading and research was done in order to write this essay. 
+- The School of History styleguide was carefully followed.
 - A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate quality and number.
 - Evidence is well cited in the footnotes and the footnotes are generally formatted well. 
 - This essay employs evidence based on its sources in an effective manner.
@@ -140,7 +143,7 @@ Here are some of the features of a superb long essay that I look for as I mark y
 
 ### Online Submission
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are requested and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are welcome and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
 
 If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
 
@@ -166,19 +169,17 @@ General feedback is provided directly on the mark sheet, which will be posted to
 
 ### Presentation
 
-**Shorter Presentations:** Most weeks of the semester one or more students will be given an opportunity to present a summary, critique, and raise some discussion questions related to one of the required or supplementary readings. These presentations are not formally assessed and need only be 5 minutes in length and the student may be cut off at any point after that. They should aim to clearly and succinctly summarise the main arguments of a text, its context, and what kinds of sources are used. If the presenting student has taken good notes on the reading, they are encouraged to share them on the class shared notes document. A handout is welcome but not required, and should be distributed via the class shared notes document.
+Being able to synthesise reading, and present ideas in class is a key skill. In our module this will take the form of serving as a guide to a text, a role that is not formally assessed, and a formally assessed longer presentation. 
 
-**Assessed Long Presentation:** The shorter presentations serve as good practice for one presentation for each student that will be given more time and assessed formally. The assessed presentation should be 15 minutes in length and not longer. As in the shorter non-assessed presentations, the presentation will focus on an assigned text. 
+**Text Guide:** Each week, two students will serve in the role as a guide to one of the assigned or supplementary readings. Most students will get a chance to do this twice. Some weeks I will ask that certain texts be chosen, while for others, a choice will be given. The "text guide" does not give a formal presentation but may be asked to answer questions about the text in some detail and to have a deeper familiarity with that particular reading. Although not assessed, when they can find time for it, they should consider bringing a handout no longer than a single piece of paper front and back (or emailing one to the tutor for distribution at least the day before class) which may include some general points, dates, terms, notes, or reference information about the text. Since there is no guarantee the student will be asked to comment on the text, this handout is also a good way to demonstrate your extra preparation. The guide should ideally have done at least a little bit of background research on the author and general context of the issue covered by the text, and generally serve as a "go-to" person when the discussion moves in the direction of the text. Sometimes, they will be asked to summarize key arguments, offer a critique, or otherwise comment. Occasionally, the student's guidance will not be explicitly requested but their handout can serve to help everyone.
 
-The longer presentation should also briefly summarise the main arguments, and make 1-3 focused critiques or observations about the read material. The summary and setting of context should be less than half the total presentation. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, and any key sources, persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please also add (or link) the handout text to the class collaborative notes document. The presentations should ideally focus on connecting what is read and presented to our other readings and the discussion of the day and focus on engaging with the arguments and issues. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required, but if the student finds an interesting or problematic issue, they are welcome to bring in observations from an outside source. Please consult with the tutor if you choose to do this.
-
-Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+**Assessed Long Presentation:** The assessed presentation should be 15 minutes in length and not longer. The longer presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the text, and make 1-3 focused critiques or observations about the read material. The summary and setting of context should be less than half the total presentation. A supplementary handout (one piece of paper front and back at most) should be brought that includes some bullet points from the summary, and any key sources, persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please also add (or link) the handout text to the class collaborative notes document. The presentations should ideally focus on connecting what is read and presented to our other readings and the discussion of the day and focus on engaging with the arguments and issues. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required, but if the student finds an interesting or problematic issue, they are welcome to bring in observations from an outside source. Please consult with the tutor if you choose to do this. Slides are not needed for the presentation, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
 
 Feedback for presentations will be sent to multiple students at two or three points during the semester, rather than on a rolling basis.
 
 Some questions to consider as you prepare:
 
-* Did the distributed handout of one or at most two pages accurately summarize the general points to be made in the presentation in the form of concise bullet points
+* Did the distributed handout of one or at most two sides of a piece of paper accurately summarize the general points to be made in the presentation in the form of concise bullet points
 * Did the handout include any important dates, sources, or a map that serves as a useful reference?
 * Was the 15 minute limit strictly observed in the presentation?
 * Was the presentation well structured, organized, and focus on a only few key points?

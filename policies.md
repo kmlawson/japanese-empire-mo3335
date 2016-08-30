@@ -1,6 +1,6 @@
 ## Emails
 
-If you have a question that requires an answer with significant detail, please consider asking during office hours, or at the beginning or end of class. If the email requires a particularly long answer, I may ask you to bring the question up again after our next class or in office hours. I will strive to offer a reply to emails received within 48 hours, whenever possible. Emails are usually not responded to over the weekend and may not even be read until Monday.
+If you have a question that requires an answer with significant detail, please consider asking during office hours, or at the beginning or end of class. If the email requires a substantive answer, I may ask you to bring the question up again after our next class or in office hours. I will strive to offer a reply to emails received within 48 hours, whenever possible. Emails are usually not responded to over the weekend and may not even be read until Monday.
 
 In writing emails, please try to be clear about what you are asking, and keep in mind that your message is one among many from students of multiple classes and differing contexts. Please mention which course you are in and what specific matter you are referring to. As in class, feel free to address me by first name in emails.
 

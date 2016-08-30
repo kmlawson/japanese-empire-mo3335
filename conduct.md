@@ -10,8 +10,8 @@ The University's policy covers the behaviour of both undergraduate and postgradu
 
 For more information: 
 
-https://www.st-andrews.ac.uk/students/rules/academicpractice/
+[https://www.st-andrews.ac.uk/students/rules/academicpractice/](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
 
 If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CAPOD, which provides an extensive range of training on Academic Skills.
 
-http://www.st-andrews.ac.uk/capod/
+[http://www.st-andrews.ac.uk/capod/](http://www.st-andrews.ac.uk/capod/)
