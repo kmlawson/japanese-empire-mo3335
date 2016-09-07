@@ -2,7 +2,7 @@
 
 ## Chronology
 
-Below are some of the major dates relevant to this course, mostly limited to political history. Note that this is not a timeline of Japanese history in general, but focuses more on those dates most relevant to the study of the development of its empire. Please become familiar with them as it will help to put our various readings into the context of other events around them:
+Below are some of the major dates relevant to this course, mostly limited to political history of the empire. 
 
 * 1853 - First arrival of Commodore Matthew Perry, who demands an opening of Japan
 * 1868 - New government established, the Meiji Restoration
@@ -26,7 +26,6 @@ Below are some of the major dates relevant to this course, mostly limited to pol
 * 1918 - Japan sends military forces to Siberia
 * 1919, Mar - March First Movement for independence in Korea
 * 1919, May - May Fourth movement and anti-Japanese protests in China
-* 1922 - Washington Conference establishes naval power ratios
 * 1923 - Great Kantō earthquake in Japan, leading to slaughter of minorities
 * 1925 - Universal suffrage and Peace Preservation Act in Japan
 * 1926 - Death of Taishō emperor, Shōwa period begins under Hirohito
@@ -34,7 +33,6 @@ Below are some of the major dates relevant to this course, mostly limited to pol
 * 1930 - Japan experiences deep deflation
 * 1931, Sep - The Japanese Invasion of Manchuria
 * 1932, Mar - Manchukuo (Manzhouguo) proclaimed independent state
-* 1932, Oct - Lytton report on Japan in Manchuria published
 * 1933 - Japan withdraws from the League of Nations 
 * 1933 - Japan occupies Rehe (Jehol) province in inner Mongolia
 * 1936 - Japan joins the Anti-Comintern Pact
@@ -59,7 +57,6 @@ Below are some of the major dates relevant to this course, mostly limited to pol
 * 1945, Jul - Potsdam Declaration
 * 1945, Aug - Hiroshima and Nagasaki atom bomb attack, Soviets invade Manchuria
 * 1945, Aug - Japanese surrender
-* 1946 - New Japanese constitution with peace clause
 * 1951 - San Francisco Peace Treaty
 * 1952 - End of allied occupation of Japan
 

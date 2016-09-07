@@ -53,11 +53,13 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t) 
 * [Press Translations, Japan 1945-1946](http://www.dartmouth.edu/~library/digital/collections/manuscripts/jpt/index.html?mswitch-redir=classic)
 * [Kobe University Newspaper Clippings Archive (Japanese)](http://www.lib.kobe-u.ac.jp/sinbun/e-index.html)
+* [Hsinhua News Agency 1977-Present (Nexis UK)](http://library.st-andrews.ac.uk/record=b1670850~S5)
 
 ### Government Documents
 
 * [Wilson Center Digital Archive](http://digitalarchive.wilsoncenter.org/)
     * Massive collection of Cold War period documents, many of them translated and transcribed
+* [Wilson Center Chinese Foreign Policy Database](http://digitalarchive.wilsoncenter.org/theme/chinese-foreign-policy-database)
 * [British Documents on the End of Empire](http://bdeep.org/)
 * [Cabinet Papers 1915-1984](http://www.nationalarchives.gov.uk/cabinetpapers/)
 * [Parliamentary Papers](http://parlipapers.chadwyck.co.uk/home.do)
@@ -67,11 +69,13 @@ Below are a selection of potential starting points for primary sources relevant 
     * The index is in Korean, but the language of the documents is English
 * [Japanese Diet Proceedings Archive](http://kokkai.ndl.go.jp/) (Japanese)
 * [日本外交文書デジタルアーカイブ](http://www.mofa.go.jp/mofaj/annai/honsho/shiryo/archives/mokuji.html)
-* [조선왕조실록](http://sillok.history.go.kr/main/main.do)
+* [帝国議会会議録](http://teikokugikai-i.ndl.go.jp/)
+* [朝鮮王朝實錄](http://sillok.history.go.kr/main/main.do)
 * [Truman Library Documents on Decision to Drop the Atomic Bomb](http://www.trumanlibrary.org/whistlestop/study_collections/bomb/large/index.php)
 * [The Gazette (British Government newspaper)](https://www.thegazette.co.uk/)
 * [Digital South Asia Library](http://dsal.uchicago.edu/)
 * [CIA National Intelligence Estimates on China](http://www.foia.cia.gov/collection/china-collection)
+* [Tokyo War Crimes Trial Digital Collection](http://lib.law.virginia.edu/imtfe/)
 * [Nineteenth Century Collections Online - Asia and the West](http://tinyurl.galegroup.com/tinyurl/KKyD0)
     * U.S. State Department Consular and Diplomatic Records - despatches from many US consuls in region
     * British Foreign Office Political Correspondence: Japan
@@ -153,6 +157,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Botanical and Cultural Images of Eastern Asia](http://www.arboretum.harvard.edu/library/image-collection/botanical-and-cultural-images-of-eastern-asia/)
 * [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
 * [British Pathe Historical Footage](http://www.britishpathe.com/)
+* [Everyday in Mao's China](http://everydaylifeinmaoschina.org/) - Use these photographs with care and note the source.
 * [Korean Movie Database](http://www.youtube.com/user/KoreanFilm/playlists)
     * Often with English subtitles
     * Includes full length Korean historical movies from earlier decades
@@ -196,6 +201,8 @@ Below are a selection of potential starting points for primary sources relevant 
     * Digitised books in Harvard-Yenching from 1860s-1940s
 * [LawPhil Philippine Laws and Jurisprudence](http://www.lawphil.net/) - Massive legal database for the Philippines with court rulings and case info on thousands of cases from recent Philippine history
 * [Philippine Diary Project](http://philippinediaryproject.com/) - Collection of digitised diaries from Filipinos from the past two centuries
+* [Report of the Philippine Commission to the Secretary of War](https://archive.org/details/reportphilippin01unkngoog)
+* [Digital Vatican Library](http://digi.vatlib.it/)
 
 #### Japan
 
@@ -215,6 +222,8 @@ Below are a selection of potential starting points for primary sources relevant 
     * pretty much every book published in the Meiji period is digitized here, Taisho period books increasingly available too
 * [Denshō Archive for Japanese-American internment](http://www.densho.org/)
 * [Japanese Historical Text Initiative](http://pnc-ecai.oiu.ac.jp/jhti/index.html)
+* [Japan Air Raids Historical Archive](http://www.japanairraids.org/)
+* [ジャパンアーカイブズ1850-2100](https://jaa2100.org/index.html)
 
 #### Korea
 
@@ -263,6 +272,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Chinese Civilization in Time and Space](http://ccts.ascc.net/)
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
 * [International Dunhuang Project: The Silk Road Online](http://idp.bl.uk/)
+* [Yale Nanjing Massacre Archival Project](http://web.library.yale.edu/divinity/nanking)
 
 ### See Me
 
@@ -273,13 +283,13 @@ Below are a selection of potential starting points for primary sources relevant 
 * US Intelligence Files on East Asia (mostly post-WWII)
 * Chinese Recorder - missionary journal from China
 
-* Shenbao (Chinese newspaper Shanghai)
-* Renmin Ribao (Communist newspaper)
-* Taiwan Nichi Nichi Shinbun (Taiwanese colonial newspaper in Japanese)
-* Keijo Nippo (Korean colonial newspaper in Japanese)
-* Choson Ilbo (Korean newspaper)
-* Tonga Ilbo (Korean newspaper)
-* Minbao (Taiwan newspaper, early postwar)
+* 申報 (Chinese newspaper Shanghai)
+* 人民日报 (Communist newspaper)
+* 台湾日日新聞 (Taiwanese colonial newspaper in Japanese)
+* 京城日報 (Korean colonial newspaper in Japanese)
+* 朝鮮日報 (Korean newspaper)
+* 東亞日報 (Korean newspaper)
+* 民報 (Taiwan newspaper, early postwar)
 
 ### Some Key Secondary Source Databases
 
@@ -297,5 +307,8 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Yale China Research Guide](http://guides.library.yale.edu/China)
 * [Yale Japan Research Guide](http://guides.library.yale.edu/japan)
 * [Yale Korea Research Guide](http://guides.library.yale.edu/korea)
+* [国立国会図書館アジア情報の調べ方案内](http://rnavi.ndl.go.jp/asia/entry/research-guide-asia.php)
 
+
+* Please get in touch if you find that this list contains any dead links, or you wish to suggest an addition
 

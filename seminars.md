@@ -2,9 +2,7 @@
 
 ## Seminars
 
-Full references to the readings below can be found in the following section ordered by last name of the author. 
-
-For each week. Please read all of the primary source reading, all of the secondary reading, and please consider reading one of the further readings. 
+Full references to the readings below can be found in the following section ordered by last name of the author. For each week. Please read all of the primary source reading, all of the secondary reading, and please consider reading one of the further readings. 
 
 Abbreviations for readings:
 
@@ -12,7 +10,7 @@ Abbreviations for readings:
 * SOURCES: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716)
 * MASON: Mason, Michele, and Helen Lee, eds. *Reading Colonial Japan: Text, Context, and Critique* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030)
 
-### Week 1 - Introductions: Japanese History and the Transitions of the 19th Century
+### Week 0 - Introductions: Japanese History and the Transitions of the 19th Century
 
 **Reading:** 
 
@@ -25,6 +23,7 @@ Abbreviations for readings:
 * I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole.
 * Bring a list of at least three themes or general areas related to the history of Japanese empire that interest you and be prepared to say something about why you find them interesting
 * Be ready to share some thoughts on how a module on Japanese empire might differ from a module entitled, for example, 'Modern Japanese History'
+* You will spend a significant portion of time in this module working on your own original research essay: bring at least 2 ideas of things that interest you for possible research on. 
 * Look the readings in each of the weeks ahead and read the handbook section on assessed fifteen minute text guides. Be prepared to sign up for the week you would like to do an assessed presentation, and two weeks when you are willing to be a text guide. You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is only one person doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone.
 
 **Overview:**
@@ -39,7 +38,7 @@ Abbreviations for readings:
 
 \pagebreak
 
-### Week 2 - Entering the World Stage and Building an Empire 
+### Week 1 - Entering the World Stage and Building an Empire 
 
 **Primary Source Reading:** 27 pages
 
@@ -83,10 +82,10 @@ Abbreviations for readings:
 
 **Preparation:**
 
+* Choosing one of the two long essay ideas from last week, spend 1-3 hours "blitz" researching your topic: who has written about it? What kinds of sources do they use? What kinds of arguments have historians made, write up a few paragraphs on a single page with a fake overview of your quickly researched essay and bring to class. This exercise is to help you start thinking about the broad topic for your long essay. Remember, the short essay (either a prospectus for the long essay or critical review) is due not before long.
 * The Moon and Eskildsen pieces will be discussed in depth, please read them closely
 * For many, the topics here are unfamiliar. When you run into unfamiliar territory review the survey text by Gordon, or get in the habit of looking up names, places, or people you are unfamiliar with. Note them down if they pop up and bring them up in class - you may not be the only one!
 * Review the page load of readings for the weeks ahead, start planning ahead to make time for your long essay research and writing. Take advantage of weeks with a lighter load to schedule time for the long essay. 
-* Start thinking about the broad topic for your long essay. Remember, the short essay (either a prospectus for the long essay or critical review) is due not before long.
 * Try to commit to memory the basic, mostly political, events in the "Chronology" section of this student handbook, for the years up to 1920. Note down one or two of these events that you know little or nothing about that you think might be interesting and look them up on Wikipedia.
 * The Beasley reading gives you a fairly straightforward political narrative that will add some depth to the survey provided by Gordon in his history of modern Japan
 
@@ -98,13 +97,13 @@ Abbreviations for readings:
 * The MIT exhibits have wonderful sources and we will discuss and analyse a few of those which you have found particularly interesting.
 * Between Gordon and Beasley, we now should have a basic skeleton of the major events in Japanese imperialism, we will review these
 * We will ask ourselves what commonalities and differences we see so far between Japan as a coloniser and those of other western empires at this time.
-* There may be unassessed or assessed presentations
-* Any time left over we will use to discuss topics for the long essay
+* There may be presentations
+* Any time left over we will use to discuss topics for the long essay and your overviews
 
 
 \pagebreak
 
-### Week 3 - Authority, Ethnography, and Assimilation
+### Week 2 - Authority, Ethnography, and Assimilation
 
 **Primary Source Reading:** 45 pages
 
@@ -148,7 +147,7 @@ Abbreviations for readings:
 * One way we might have examined the history of colonial territories under Japanese control is to examine the chronology of events in each place. We are taking another approach, one that is more thematic. Our readings today step back from the political events to the cultural realm and also the ways in which the Japanese empire attempted to form and change the peoples and places it colonised. In particular, we the world of folklore, cultural artefacts, and the field of anthropology are key. 
 * We will take a closer look at the Nitobe Inazo reading and discuss the ways that Japan is described as a colonial power.
 * We will set aside some time in class to talk about how your topics for the long essay, and your first prospectus or critical review is coming along. We will discuss this groups and then together.
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 
 **Questions:**
 
@@ -163,7 +162,7 @@ Abbreviations for readings:
 
 \pagebreak
 
-### Week 4 - The Idea of Colonial Modernity and its Distortions
+### Week 3 - The Idea of Colonial Modernity and its Distortions
 
 **Primary Source Reading:** 27 pages
 
@@ -197,7 +196,7 @@ Abbreviations for readings:
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * We'll start by jumping forward a bit to some of the ways that the unfortunately named idea of "colonial modernity" has been come to mean two things today - one thing in the hands of revisionist Japanese historians and politicians, as well as Korean nationalists who oppose them, and another within the scholarly world
 * We'll discussion the concepts of modernity, modernisation, the implicit progressivist narrative in these concepts, and the ways in which these are complicated by their place in a colonial setting.
 * Group task: We will set aside time again to ask you to reflect on the prospectus or critical review exercise. What did you learn from the process, what advice can you offer your fellow students. Where do you go from here?
@@ -220,7 +219,7 @@ Abbreviations for readings:
 
 \pagebreak
 
-### Week 5 - Settler Colonialism and Migration in the Empire
+### Week 4 - Settler Colonialism and Migration in the Empire
 
 **Primary Source Reading:** 69 pages
 
@@ -251,7 +250,7 @@ Abbreviations for readings:
 
 **Overview:**
  
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * Until the full-scale Sino-Japanese war in the 1930s most of the places we have been looking at were assumed to be permanent parts of the Japanese empire. This was a multi-ethnic empire and the strategies of the Japanese government, colonial officials, settlers, and others for what kind of relationships its constituent communities were to have with eachother evolved over time. We will focus our time on trying to unpack these relationships.
 * We will do a closer reading in class of some parts of the Kim Sa-ryang story and the MASON reading. 
 
@@ -269,7 +268,7 @@ Abbreviations for readings:
 
 \pagebreak
 
-### Week 6 - Imperial Innovation in Manchuria and the Development of Pan-Asianism
+### Week 5 - Imperial Innovation in Manchuria and the Development of Pan-Asianism
 
 **Primary Source Reading:** 59 pages
 
@@ -315,7 +314,7 @@ Abbreviations for readings:
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * We'll talk about your observations and thoughts regarding the Manchukuo film.
 * The class will dive roughly half way between a focus on the Japanese invasion and state building project in Manchuria, and the other half on Japan's evolving Pan-Asianist ideas.
 
@@ -333,6 +332,12 @@ Abbreviations for readings:
     * you can find this on YouTube or on Archive.org
 
 \pagebreak
+
+### Week 6 - Independent Learning Week
+
+This is an excellent time to really focus on your research for the long essay and start writing it! Come back having at least written a few paragraphs - even if they are just a stream of ideas and possible directions.
+
+If you have been falling behind on the reading, or are less than satisfied with your notes on our reading up until now, this would also be a good time to catch up on this. 
 
 ### Week 7 - The Sino-Japanese Conflict and the Kōminka Movement
 
@@ -372,7 +377,7 @@ Abbreviations for readings:
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * The Nanjing massacre is the most famous of Japan's atrocities in war, but unfortunately it was only part of one broader pattern of violence in occupied areas under Japanese forces in almost all parts of the empire, especially from 1937-1945. However, it is one pattern. We will try to evaluate some specific features of the Nanjing episode and then ask how it might have differed in scale and severity from some other areas and times.
 * We'll spend the other roughly half of our session on exploring the idea of Kōminka and discussing what this phase of Japanese empire means in relation to earlier periods.
 
@@ -445,7 +450,7 @@ Abbreviations for readings:
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * Group Task: We'll spend a good portion of our class today comparing notes with each other (hopefully we will have a good balance of students who read each of the primary sources) on the experience of Japan's "sudden rampage" as one book title calls it, through Southeast Asia.
 * Group Task: We will again meet and discuss the experience of working on the second prospectus or critical review, and discuss progress on the long essay. 
 * Time permitting we'll discuss conscription and colonial soldiering in general, and compare the case of Korean and Taiwanese fighting for Japan with the auxiliaries of Southeast Asia.
@@ -511,7 +516,7 @@ By this point in the semester, you should have made good progress on your long e
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be assessed presentations
 * Together we will explore the relationship between the Greater East Asia War and Japan's wartime struggle to, well, make sense of its place in the world, in time, and bestow, in the midst of its fight, meaning on the project of empire and nation as a whole. 
 
 **Questions:**
@@ -560,7 +565,7 @@ By this point in the semester, you should have made good progress on your long e
 
 **Overview:**
 
-* There may be unassessed or assessed presentations
+* There may be presentations
 * This week we will try to bring the course together. There is a lot of themes our readings give a taste of, and depending on your interests and the degree of your preparation, we will balance the discussion accordingly. 
 * We will set some time aside to review the handbook section on the final exam, discuss the plan for the review session next week, and strategies for preparing for the take-home exam.
 

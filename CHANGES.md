@@ -22,3 +22,17 @@ Here I list some of the significant changes in this module over the years, after
 
 * shifted from unassessed short presentation to "text guide" role
 * removed marking table and referred to website
+
+## Fall 2016
+
+* changed presentations to 10 minutes instead of 15
+* refined suggestions for research
+* refined instructions for text guide
+* refined instructions for presentations
+* refined exam instructions
+* refined laptop policies
+
+## Ideas for Future Changes
+
+* change week 9 back to a content week and either split week 11
+* get rid of overcoming modernity week

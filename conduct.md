@@ -1,4 +1,3 @@
-\newpage
 
 ## Academic Misconduct and Plagiarism
 

@@ -8,3 +8,9 @@ A work load of an average of fifteen hours a week (some weeks more, some weeks l
 Your weekly reading will usually consist of 180-220 pages of required reading, plus some reading that you should select from the further reading, or other supplementary reading chosen by yourself to address content you may have trouble understanding. Thus, working on an estimate of 250 pages a week total is a safe bet, or, at roughly 30 pages an hour (taking some limited notes), about 8.5 hours. 
 
 Obviously, it is not wise to do this reading in a single sitting, as your concentration will fade, so I suggest you split the readings into two or three, and read them across several days. You may want to "timebox" the readings, giving yourself a fixed period of time for a reading and, if it looks unlikely that you will have time to read something carefully, skim with general notes on the main arguments, events, and issues, as necessary. This is especially useful in weeks when you need to limit your reading preparation time in order to work more on your research for the long essay.
+
+You may find the readings on short loan in the library or in some cases in scanned versions or in digital databases online. You can find our module list through the University Library:
+
+[http://resourcelists.st-andrews.ac.uk/index.html](http://resourcelists.st-andrews.ac.uk/index.html)
+
+

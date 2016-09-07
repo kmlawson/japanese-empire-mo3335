@@ -1,4 +1,3 @@
-\pagebreak
 
 ## Marking
 
@@ -10,4 +9,4 @@ The marking scale can be found here:
 
 ## Extensions
 
-Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
+**Prior** permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
