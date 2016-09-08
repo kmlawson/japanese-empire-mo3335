@@ -23,7 +23,6 @@ Below are some of the major dates relevant to this course, mostly limited to pol
 * 1912 - Death of Meiji emperor, Taishō period beings
 * 1914-1918 - Japan fights in WWI as one of the Allies
 * 1915, Jan - Japan Issues the 21 Demands to China
-* 1918 - Japan sends military forces to Siberia
 * 1919, Mar - March First Movement for independence in Korea
 * 1919, May - May Fourth movement and anti-Japanese protests in China
 * 1923 - Great Kantō earthquake in Japan, leading to slaughter of minorities

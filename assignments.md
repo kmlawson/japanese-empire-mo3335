@@ -31,7 +31,7 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 ### Short Essays
 
-There are two short essays for this course which should be between 500-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
+There are two short essays for this course which should be between 600-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
 
 1. **Prospectus:** You may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come or discuss how you will use certain sources, or what new approach you will take. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
 
@@ -144,14 +144,6 @@ The points that follow should be fairly clear from the questions posed above but
 Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are welcome and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
 
 If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
-
-### Word Limits and Late Work
-
-It is important to work consistently through the semester and work around your other commitments and deadlines. Plan ahead and don't save your work until the last minute. Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. 
-
-The official School of Histories penalties for late work and short/long work are followed in this module:
-
-http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
 
 ### Feedback
 

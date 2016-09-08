@@ -105,7 +105,7 @@ Mitter, Rana. The Manchurian Myth: Nationalism, Resistance and Collaboration in 
 
 Sheila Miyoshi Jager and Rana Mitter, eds., *Ruptured Histories: War, Memory, and the Post-Cold War in Asia* (Harvard University Press, 2007). 15-46, 47-77, 172-191.
 
-Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910,” **The American Historical Review** 118, no. 1 (February 1, 2013): 20–44
+Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910,” *The American Historical Review* 118, no. 1 (February 1, 2013): 20–44
 
 Binghui Liao and Dewei Wang, *Taiwan Under Japanese Colonial Rule, 1895-1945: History, Culture, Memory* (Columbia University Press, 2006). 37-61, 141-159, 160-185.
 

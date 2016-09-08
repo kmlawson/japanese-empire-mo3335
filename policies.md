@@ -1,3 +1,23 @@
+## Marking
+
+Within the School of History all work is assessed on a scale of 1-20 with intervals of 0.5. Module outcomes are reported using the same scale but with intervals of 0.1. The assessment criteria set out below are not comprehensive, but are intended to provide guidance in interpreting grades and improving the quality of assessed work. Students should bear in mind that presentation is an important element of assessment and that failure to adhere to the guidelines set out in the School of History Style Sheet will be penalised.
+
+The marking scale can be found here:
+
+[https://www.st-andrews.ac.uk/history/infoug/markshons.html](https://www.st-andrews.ac.uk/history/infoug/markshons.html)
+
+## Extensions
+
+**Prior** permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
+
+## Word Limits and Late Work
+
+It is important to work consistently through the semester and work around your other commitments and deadlines. Plan ahead and don't save your work until the last minute. Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. 
+
+The official School of Histories penalties for late work and short/long work are followed in this module:
+
+[http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html](http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html)
+
 ## Absence from Classes
 
 Please see this document for more on Student Absence:
@@ -35,3 +55,19 @@ The collective notes document is one example of how communication can happen fro
 [http://muninn.net/teaching/](http://muninn.net/teaching/)
 
 There are also links to a repository containing the full history of changes to this handbook over time. The reflections on the course include some selections from student feedback. I value your evaluations a great deal and take them, both the formal evaluation at the end of the semester, and any feedback informally received during the course of the semester, very seriously. Please do not hesitate to share with me your concerns as well as suggestions for how you think the module might be improved in the future. I also encourage all students to consider including advice to future students of the module in the shared collective notes document, especially suggestions on the selection of topics, research, and the writing process.
+
+## Academic Misconduct and Plagiarism
+
+Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree.
+
+Academic misconduct includes *inter alia* the presentation of material as one's own when it is not one's own; the presentation of material whose provenance is academically inappropriate; and academically inappropriate behaviour in an examination or class test. Any work that is submitted for feedback and evaluation (whether formative or summative, at any point in the programme of study) is liable to consideration under this Good academic practice policy. All work submitted by students is expected to represent good academic practice.
+
+The University's policy covers the behaviour of both undergraduate and postgraduate students. The policies and practices described in this document do not cover misconduct by academic staff; other procedures exist to deal with these.
+
+For more information: 
+
+[https://www.st-andrews.ac.uk/students/rules/academicpractice/](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
+
+If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CAPOD, which provides an extensive range of training on Academic Skills.
+
+[http://www.st-andrews.ac.uk/capod/](http://www.st-andrews.ac.uk/capod/)
