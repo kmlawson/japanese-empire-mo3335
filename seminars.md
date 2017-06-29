@@ -16,15 +16,15 @@ Abbreviations for readings:
 
 * GORDON Ch 4-12 (p48-223, 175 pages) 
     * *What to Look For*: These chapters, from a survey history of modern Japan, will be crucial for you to get the broad historical sweep for the course. Given the thematic emphasis of this course and its focus on empire, much of what is in this reading is the only reading you will have that covers some of the domestic developments in Japanese history and the only time that you will have a strictly chronological overview. If you have never studied East Asian or specifically Japanese history before, I would urge you to read this twice, once at the beginning of the semester, and again during the mid-semester break.
-    * I would tackle the reading in two or three sessions and read these pages closely, and take good notes to refer to throughout the semester. How long did it take you to read these 175 pages closely? Make a note of this as your "slow rate" - some texts will need slow reading to fully absorb them well, and others can be read twice as fast as you search for the main arguments, closely read difficult theoretical sections, make note of key case studies and evidence, and skim over sections you think are less relevant. This is the key to managing reading of 150-250 pages a week.
+    * I would tackle the reading in two or three sessions and read these pages closely, and take good notes to refer to throughout the semester. How long did it take you to read these 175 pages closely, taking good notes along the way? Perhaps 8-12 hours? Make a note of this as your "slow rate" - some texts during the semester will require this slow reading to fully absorb them well, and others can be read or skimmed much faster (perhaps 50 pages an hour or more?) as you search for the main arguments, closely read a few of the difficult theoretical sections, make note of key case studies and evidence, and skim over sections you think are less relevant. This is the key to managing reading of 150-250 pages a week while working on your long essay research.
 
 **Preparation:**
 
-* I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole.
+* I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole. 
 * Bring a list of at least three themes or general areas related to the history of Japanese empire that interest you and be prepared to say something about why you find them interesting
 * Be ready to share some thoughts on how a module on Japanese empire might differ from a module entitled, for example, 'Modern Japanese History'
 * You will spend a significant portion of time in this module working on your own original research essay: bring at least 2 ideas of things that interest you for possible research on. 
-* Look the readings in each of the weeks ahead and read the handbook section on assessed fifteen minute text guides. Be prepared to sign up for the week you would like to do an assessed presentation, and two weeks when you are willing to be a text guide. You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is only one person doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone.
+* Look the readings in each of the weeks ahead and read the handbook section on presentations. Be prepared to sign up for the week you would like to do an assessed presentation. You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is only one person doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone. You do not need to contact me about this change, but it must be indicated on our online class presentation list.
 
 **Overview:**
 
@@ -34,26 +34,31 @@ Abbreviations for readings:
 * We will discuss the assignments, and particularly emphasise the importance of beginning early and working consistently on your long essay. I will explain what the expectations are and urge you to make good use of this handbook which offers a lot of detailed advice. 
 * We will discuss the format of the final examination, and share tips for how to deal with the reading load from week to week. 
 * We will discuss the collective notes and how it has helped students in past iterations of this module. 
+* We will sign up for presentations.
 * Finally, we will also have a chance to get to know each other a bit better.
 
 \pagebreak
 
 ### Week 1 - Entering the World Stage and Building an Empire 
 
-**Primary Source Reading:** 27 pages
+**Primary Source Reading:** ~30 pages
 
-* SOURCES:
-    * On Korea - Part V, Chapter 37 683-688 Letters from Saigō; Ōkubo Toshimichi's Reasons
-    * Fukuzawa Yukichi - Part VI, Chapter 38, 698-707
-    * Tokutomi Sohō - Part V, Chapter 41 798-806
-    * Konoe Fumimaro - Part V, Chapter 45, 983-986
-* Fukuzawa Yukichi - "Good-bye Asia" 
+* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716):
+    * Ch 37: Letters from Saigō Takamori to Itagaki Taisuke on the Korean Question
+    * Ch 37: Ōkubo Toshimichi’s Reasons for Opposing the Korean Expedition
+    * Ch 38: Fukuzawa Yukichi’s View of Civilization; An Outline of a Theory of Civilization
+    * Ch 38: Nakamura Masanao: China Should Not Be Despised; Japan’s Debt to China
+    * Ch 41: Tokutomi Sohō: A Japanese Nationalist's View of the West and Asia
+    * Ch 45: Konoe Fumimaro: Against a Pacificism Centered on England and America
+    * Fukuzawa Yukichi - "Good-bye Asia" 
 
 **Secondary Source Reading:** ~150 pages
 
+* Beasley *Japanese Imperialism* Ch 4-7 (60 pages) [Library ebook](http://dx.doi.org/10.1093/acprof:oso/9780198221685.001.0001)
+    * "Intervention in Korea, 1894-5, Peace Settlement with China 1894-6", "New Imperialism and the War with Russia 1895-1905", "Formal and Informal Empire in North-East Asia, 1905-1910"
+    * This is a survey text but will help deepen your understanding of the events. Compare this with your reading of GORDON for the same period.
 * Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291)
 * Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910” (25 pages) [Online](http://ahr.oxfordjournals.org/content/118/1/20.extract)
-* Beasley *Japanese Imperialism* Ch 4-8 (80 pages) [Library ebook](http://dx.doi.org/10.1093/acprof:oso/9780198221685.001.0001)
 * Please read and view carefully one of the following three MIT Visualizing Cultures exhibits, each of which has several sub-pages:
     * [Throwing Off Asia I: Westernization](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_vis_01.html))
     * [Throwing Off Asia II: Sino-Japanese War 1894-5](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_vis_01.html))
@@ -64,42 +69,40 @@ Abbreviations for readings:
 
 * Lecture by John Dower on [Visualising the Russo-Japanese War](http://video.mit.edu/watch/john-dower-visualizing-the-russo-japanese-war-3512-11920/) (1hr)
 * Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910*
-* Kowner, Impact of the Russo-Japanese War, 1-26
-* Valliant, The Selling of Japan, 415-438
-* Wolff ed., Russo-Japanese War in Global Perspective, Hashimoto Yorimitsu, White Hope or Yellow Peril?: Bushido, Britain, and the Raj, 379-403
-* MASON p55-75 Ch 2: Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
+    * This is a classic work now which goes into great depth on the lead up to annexation in Korea.
+* Kowner, *Impact of the Russo-Japanese War*, 1-26
+* Valliant, "The Selling of Japan", 415-438
+* Wolff ed., *Russo-Japanese War in Global Perspective*, Hashimoto Yorimitsu, "White Hope or Yellow Peril?: Bushido, Britain, and the Raj", 379-403
+* MASON p55-75 Ch 2: "Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
 * "Ainu Identity and the Meiji State" in David L. Howell, Geographies of Identity in Nineteenth-Century Japan 
 * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* Harvard University Press, 2009.  
 * Cassel, Pär Kristoffer. *Grounds of Judgment: Extraterritoriality and Imperial Power in Nineteenth-Century China and Japan*. Oxford University Press, 2012.
 * Paine, S. C. M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*. 
 * Naoko Shimazu, “Patriotic and Despondent: Japanese Society at War, 1904-5”
-* Rotem Kowner, ed., The Impact of the Russo-Japanese War, 1st ed. (Routledge, 2006).
-* David Wells and Sandra Wilson, The Russo-Japanese War in Cultural Perspective, 1904-05 (Palgrave Macmillan, 1999).
-* Hyman Kublin, “The Japanese Socialists and the Russo-Japanese War,” The Journal of Modern History 22, no. 4 (December 1, 1950): 322–39.
-* Simon Partner, “Peasants into Citizens? The Meiji Village in the Russo-Japanese War,” Monumenta Nipponica 62, no. 2 (July 1, 2007): 179–209.
-* David Schimmelpenninck Van Der Oye, “Rewriting the Russo-Japanese War: A Centenary Retrospective,” Russian Review 67, no. 1 (January 2008): 78–87.
+* Rotem Kowner, ed., *The Impact of the Russo-Japanese War*, 1st ed. (Routledge, 2006).
+* David Wells and Sandra Wilson, *The Russo-Japanese War in Cultural Perspective, 1904-05* (Palgrave Macmillan, 1999).
+* Hyman Kublin, “The Japanese Socialists and the Russo-Japanese War,” *The Journal of Modern History* 22, no. 4 (December 1, 1950): 322–39.
+* Simon Partner, “Peasants into Citizens? The Meiji Village in the Russo-Japanese War,” *Monumenta Nipponica* 62, no. 2 (July 1, 2007): 179–209.
+* David Schimmelpenninck Van Der Oye, “Rewriting the Russo-Japanese War: A Centenary Retrospective,” *Russian Review* 67, no. 1 (January 2008): 78–87.
 * Caprio, Mark [Neo-Nationalist Interpretations of Japan's Annexation of Korea: The Colonization Debate in Japan and South Korea](http://www.japanfocus.org/-Mark-Caprio/3438/article.html)
 
 **Preparation:**
 
 * Choosing one of the two long essay ideas from last week, spend 1-3 hours "blitz" researching your topic: who has written about it? What kinds of sources do they use? What kinds of arguments have historians made, write up a few paragraphs on a single page with a fake overview of your quickly researched essay and bring to class. This exercise is to help you start thinking about the broad topic for your long essay. Remember, the short essay (either a prospectus for the long essay or critical review) is due not before long.
-* The Moon and Eskildsen pieces will be discussed in depth, please read them closely
+* The primary sources, along with the Moon and Eskildsen pieces will be discussed in depth, please read them closely
 * For many, the topics here are unfamiliar. When you run into unfamiliar territory review the survey text by Gordon, or get in the habit of looking up names, places, or people you are unfamiliar with. Note them down if they pop up and bring them up in class - you may not be the only one!
 * Review the page load of readings for the weeks ahead, start planning ahead to make time for your long essay research and writing. Take advantage of weeks with a lighter load to schedule time for the long essay. 
 * Try to commit to memory the basic, mostly political, events in the "Chronology" section of this student handbook, for the years up to 1920. Note down one or two of these events that you know little or nothing about that you think might be interesting and look them up on Wikipedia.
-* The Beasley reading gives you a fairly straightforward political narrative that will add some depth to the survey provided by Gordon in his history of modern Japan
 
 **Overview:**
 
-* This week covers a lot of ground and could easily have been addressed in detail over the course of half a dozen weeks, rather than a single one. This period, from the early 1870s, until about 1920, represents a huge transformation for Japan, going from a relatively inward looking archipelago to a modern nation with colonial rule over places such as Okinawa, Karafuto (Sakhalin), Taiwan and Korea. It is a period which includes Japan's victory over the Qing dynasty in the first Sino-Japanese War, its inclusion among the imperial powers who intervened in the Qing's Boxer Rebellion, and its triumphant victory in the Russo-Japanese War 1904-5 that sealed its hegemony on the Korean peninsula and established its influence in Manchuria. It also includes World War I, in which Japan fought with the Allies, took over German interests in the Pacific and Shandong, and subjected China to its 21 Demands.
+* This period, from the early 1870s, until about 1920, represents a huge transformation for Japan, going from a relatively inward looking archipelago to a modern nation with colonial rule over places such as Okinawa, Karafuto (Sakhalin), Taiwan and Korea. It is a period which includes Japan's victory over the Qing dynasty in the first Sino-Japanese War, its inclusion among the imperial powers who intervened in the Qing's Boxer Rebellion, and its triumphant victory in the Russo-Japanese War 1904-5 that sealed its hegemony on the Korean peninsula and established its influence in Manchuria. It also includes World War I, in which Japan fought with the Allies, took over German interests in the Pacific and Shandong, and subjected China to its 21 Demands.
 * Our primary sources this week give you several Japanese perspectives on the international environment they face, from Fukuzawa's contemplations of civilisation and Japan's relationship with the West, to the growing frustrations of Tokutomi and Konoe about Japan's place in a world of Western empires. We will discuss and compare these perspectives.
 * We will spend some time on the arguments of Eskildsen and Moon in particular, which both complicate the narrative in various ways, and introduces new perspectives.
 * The MIT exhibits have wonderful sources and we will discuss and analyse a few of those which you have found particularly interesting.
 * Between Gordon and Beasley, we now should have a basic skeleton of the major events in Japanese imperialism, we will review these
 * We will ask ourselves what commonalities and differences we see so far between Japan as a coloniser and those of other western empires at this time.
-* There may be presentations
 * Any time left over we will use to discuss topics for the long essay and your overviews
-
 
 \pagebreak
 
@@ -107,9 +110,9 @@ Abbreviations for readings:
 
 **Primary Source Reading:** 45 pages
 
-* Nitobe Inazo, "Japan as Colonizer" in [*The Japanese Nation*](https://archive.org/details/japanesenationi00nitogoog), 231-258.
-* SOURCES, Part V, Chapter 41, 816-820 Yanagi Muneyoshi and the Kwanghwa Gate
-* MASON 109-123 Ch 4: Demon Bird, Violence, Borders, Identity
+* Nitobe Inazo, "Japan as Colonizer" in *The Japanese Nation* [Online at Archive.org](https://archive.org/details/japanesenationi00nitogoog), 231-258.
+* SOURCES, Ch 41: Yanagi Muneyoshi and the Kwanghwa Gate, For a Korean Architecture About to Be Lost
+* MASON 109-123 Ch 4: "Demon Bird, Violence, Borders, Identity"
 
 **Secondary Source Reading:** 143 pages
 
@@ -120,25 +123,25 @@ Abbreviations for readings:
 
 **Further Reading:**
 
-* Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45*
+* Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45* (P)
 * Peattie, *Japanese Colonial Empire*
 * Liao, *Taiwan Under Japanese Colonial Rule*
-* Kim Brandt, “Objects of Desire: Japanese Collectors and Colonial Korea,” Positions: East Asia Cultures Critique 8, no. 3 (2000): 711–46.
+* Kim Brandt, “Objects of Desire: Japanese Collectors and Colonial Korea,” *Positions: East Asia Cultures Critique* 8, no. 3 (2000): 711–46.
 * Chen, Ching-Chih. “The Japanese Adaptation of the Pao-Chia System in Taiwan, 1895-1945.” [Jstor](http://www.jstor.org/stable/2052755)
-* Ching, *Becoming Japanese*, 1-50: Introduction and Ch 1-2 [Library ebook](http://dx.doi.org/10.1525/california/9780520225510.001.0001)
+* Ching, *Becoming Japanese*, 1-50: Introduction and Ch 1-2 [Library ebook](http://dx.doi.org/10.1525/california/9780520225510.001.0001) (P)
 * [Through Formosa: an account of Japan's Island Colony](https://archive.org/details/throughformosaac00ruttuoft), Ch. 7, 11
 * Barclay, "Cultural Brokerage" 323-360 [Online](http://journals.cambridge.org/action/displayFulltext?type=1&fid=853792&jid=JAS&volumeId=64&issueId=02&aid=853784)
 * Antonio C. Tavares, “The Japanese Colonial State and the Dissolution of the Late Imperial Frontier Economy in Taiwan, 1886-1909,” The Journal of Asian Studies 64, no. 2 (May 1, 2005): 361–85 [Online](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=853796&fulltextType=RA&fileId=S0021911805000811)
-* Moon, Yumi. *Populist Collaborators: The Ilchinhoe and the Japanese Colonization of Korea, 1896-1910*. 1 edition. Cornell University Press, 2013.
-* Brandt, Kim. *Kingdom of Beauty: Mingei and the Politics of Folk Art in Imperial Japan*. Duke University Press Books, 2007.
-* Naoko Shimazu, *Japan, Race and Equality: The Racial Equality Proposal of 1919* (London: Routledge Press, 1998)
+* Moon, Yumi. *Populist Collaborators: The Ilchinhoe and the Japanese Colonization of Korea, 1896-1910*. 1 edition. Cornell University Press, 2013. (P)
+* Brandt, Kim. *Kingdom of Beauty: Mingei and the Politics of Folk Art in Imperial Japan*. Duke University Press Books, 2007. (P)
+* Naoko Shimazu, *Japan, Race and Equality: The Racial Equality Proposal of 1919* (London: Routledge Press, 1998) (P)
 
 **Preparation:**
 
 * Examine a map of the Korean peninsula and of the island of Taiwan. Familiarise yourself with the location of the major cities.
 * Robinson will give you the general background on the history of colonial Korea. You can use this chapter and the broader book to help you with the Korean context
 * Tierney is not all an easy read, make sure you understand what you are reading.
-* Look up Nitobe Inazo and read a little about him.
+* Look up Nitobe Inazo and read a little about him. Some of you may be interested in exploring his key role in popularising the idea of "Bushido"
 * Atkins and Tierney will form an important part of the discussion, as will the "Demon Bird" and the Nitobe readings.
 * You should be working on your first prospectus or critical review.
 
@@ -166,12 +169,12 @@ Abbreviations for readings:
 
 **Primary Source Reading:** 27 pages
 
-* MASON 77-104 Ch 3: Officer Ukama, Subaltern Identity in Okinawa, 77-89
+* MASON 77-104 Ch 3: "Officer Ukama, Subaltern Identity in Okinawa", 77-89
 
 **Secondary Source Reading:** 190 pages
 
 * Robinson, *Korea's Twentieth-century Odyssey*, Ch 4 Colonial Modernity, Assimilation, and War, 76-99 [Library ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
-* Todd A. Henry, “Sanitizing Empire: Japanese Articulations of Korean Otherness and the Construction of Early Colonial Seoul, 1905-1919,” The Journal of Asian Studies 64, no. 3 (August 1, 2005): 639–75 [Jstor](http://www.jstor.org/stable/25075828)
+* Todd A. Henry, *Assimilating Seoul* Ch 4 Civic Assimilation: Sanitary Life in Neighborhood Keijō [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1596987)
 * Matsutani, Motokazu 'A New Perspective on the 'Name-Changing Policy' in Korea" in *Gender and Law in the Japanese Imperium*, 240-266.
 * Shin, Colonial Modernity in Korea [Library ebook](http://hdl.handle.net/2027/heb.02416)
     * 1-20: Introduction
@@ -182,12 +185,18 @@ Abbreviations for readings:
 
 **Further Reading:**
 
-* Kikuchi, Yūko, ed. *Refracted Modernity: Visual Culture and Identity in Colonial Taiwan*
-* Henry, Todd. *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45*
+* Kikuchi, Yūko, ed. *Refracted Modernity: Visual Culture and Identity in Colonial Taiwan* (P)
+* rest of Henry, Todd. *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45* (P)
 * Oh, Se-Mi. “Consuming the Modern: The Everyday in Colonial Seoul, 1915-1937.” 
-* Tani E. Barlow, ed., *Formations of Colonial Modernity in East Asia*
-* Ming-cheng M. Lo, *Doctors within Borders: Profession, Ethnicity, and Modernity in Colonial Taiwan* 
-* Wang, Taisheng, *Legal Reform in Taiwan Under Japanese Colonial Rule, 1895-1945*
+* Tani E. Barlow, ed., *Formations of Colonial Modernity in East Asia* (P)
+* Ming-cheng M. Lo, *Doctors within Borders: Profession, Ethnicity, and Modernity in Colonial Taiwan* (P)
+* Wang, Taisheng, *Legal Reform in Taiwan Under Japanese Colonial Rule, 1895-1945* (P)
+* rest of *The Modern Girl Around the World* (P)
+* rest of *Gender and Law in the Japanese Imperium* (P)
+* Robinson, Michael *Cultural nationalism in colonial Korea, 1920-1925* (P)
+* Choi, Hyaeweol *New Women in Colonial Korea : a Sourcebook*
+* Kim, Janice *To Live to Work: Factory Women in Colonial Korea* (P)
+* Morris, Andrew *Colonial Project, National Game: A History of Baseball in Taiwan* (P)
 
 **Preparation:**
 
@@ -221,38 +230,39 @@ Abbreviations for readings:
 
 ### Week 4 - Settler Colonialism and Migration in the Empire
 
-**Primary Source Reading:** 69 pages
+**Primary Source Reading:** 39 pages
 
-* MASON 141-177 Ch 5: The Manual of Home Cuisine, Eating for the Emperor (30 pages)
-* Kim Sa-ryang "Into the Light" (39 pages)
+* Kim Sa-ryang "Into the Light" in Wender, Melissa L. ed., *Into the Light: An Anthology of Literature by Koreans in Japan* (39 pages)
 
-**Secondary Source Reading:** 137 pages
+**Secondary Source Reading:** ~210 pages
 
+* Mark R. Peattie *The Japanese Informal Empire in China, 1895-1937* Ch 6 "Japanese Treaty Port Settlements, 1895-1937" pp167-174, pp188-209
 * Caprio, Mark and Yu Jia "Occupations of Korea and Japan and the Origins of the Korean Diaspora in Japan" in Ryang, Sonia ed. *Diaspora without Homeland: Being Korean in Japan*, 21-38 [Library ebook](http://lib.myilibrary.com/?id=327696)
-* Uchida, Jun. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” [Online](http://past.oxfordjournals.org/content/220/1/217.extract)
+* Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972* Ch 2 "Expatriate Nationalists and the Politics of Mixed Residence, 1895-1911" Ch 1 pages from 23-41, Ch 2 pp72-80
 * Uchida, Jun, "A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea" [Online](http://journals.cambridge.org/abstract_S0021911811000878)
+* Uchida, Jun. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945* Ch 1 "The Growth of Settler Communities" p62-70, Ch 2 Settlers and the State p96-139
 * Young, *Japan's Total Empire* "The Migration Machine: Manchurian Colonization and State Growth" 352-398 [Library ebook](http://hdl.handle.net/2027/heb.00123)
 * Smith, W. Donald. “Beyond ‘The Bridge on the River Kwai’: Labor Mobilization in the Greater East Asia Co-Prosperity Sphere.” International Labor and Working-Class History, no. 58 (October 1, 2000): 219–38. [Online](http://www.jstor.org/stable/27672681)
 
 **Further Reading:**
 
-* Uchida, Jun. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*
-* Driscoll, Mark. *Absolute Erotic, Absolute Grotesque: The Living, Dead, and Undead in Japan’s Imperialism, 1895–1945*
-* Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972*
-* O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria*
+* Uchida, Jun. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” [Online](http://past.oxfordjournals.org/content/220/1/217.extract)
+* Driscoll, Mark. *Absolute Erotic, Absolute Grotesque: The Living, Dead, and Undead in Japan’s Imperialism, 1895–1945* (P)
+* O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria* (P)
+* Rest of Uchida's *Brokers of Empire* (P)
+* Rest of Han *Rise of a Japanese Chinatown* (P)
 
 **Preparation:**
 
 * The migrations described here exist on a spectrum of coercion. What are some of the differing ways the Japanese state became involved in the migrations described here
-* Uchida Jun is the leading historian of Japanese settlers. In her introduction to *Brokers of Empire* (in the further reading) she suggests some of the ways that Japanese settler colonialism can be compared fruitfully with other cases elsewhere. Can you think of what some of these might be and what parallels might exist?
-* We will spend some time looking closely at the Kim Sa-ryang piece in light of the secondary sources. 
+* Think about ways of tying the Kim Sa-ryang piece to our readings in the secondary sources. 
 * Look for connections across our readings for this week.
 
 **Overview:**
  
 * There may be assessed presentations
 * Until the full-scale Sino-Japanese war in the 1930s most of the places we have been looking at were assumed to be permanent parts of the Japanese empire. This was a multi-ethnic empire and the strategies of the Japanese government, colonial officials, settlers, and others for what kind of relationships its constituent communities were to have with eachother evolved over time. We will focus our time on trying to unpack these relationships.
-* We will do a closer reading in class of some parts of the Kim Sa-ryang story and the MASON reading. 
+* We will do a closer reading in class of some parts of the Kim Sa-ryang story
 
 **Questions:**
 
@@ -270,13 +280,13 @@ Abbreviations for readings:
 
 ### Week 5 - Imperial Innovation in Manchuria and the Development of Pan-Asianism
 
-**Primary Source Reading:** 59 pages
+**Primary Source Reading:** ~60 pages
 
 * SOURCES 
-    * Part V, Chapter 41, 811-815 Okakura Kakuzō
-    * Part V, Chapter 42, 859-869 Ishibashi Tanzan - Fantasy of Greater Japanism
-    * Part V, Chapter 45, 986-989 Plan to occupy Manchuria - Ishiwara Kanji
-* MASON 209-224 Ch 7: Manchu Girl, Imperializing Motherhood
+    * Ch 41 Okakura Kakuzō: Aesthetic Pan-Asianism; "The Ideals of the East"
+    * Ch 42 Ishibashi Tanzan - "Fantasy of Greater Japanism"; "Before Demanding the Abolition of Racial Discrimination"
+    * Part V, Ch 45 Ishihara Kanji "Plan to occupy Manchuria"; "The Economic Need for Expansion"
+* MASON 209-224 Ch 7: Text and Critique "Manchu Girl", Imperializing Motherhood"
 * Saaler, *Pan-Asianism : A Documentary History, 1920-Present* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=669807)
     * Ch 4 - Ōkawa Shūmei "Various Problems of Asia in Revival" 69-74
     * Ch 13 - "The Greater Asia Association and Matsui Iwane, 1933" 137-147
@@ -284,10 +294,10 @@ Abbreviations for readings:
     * Ch 18 - Rōyama Masamichi "Principles of an East Asian Community" 175-178
     * Ch 22 - Ishiwara Kanji "Argument for an East Asian League" 201-207
 
-**Secondary Source Reading:** 135 pages
+**Secondary Source Reading:** ~160 pages
 
-* Young, *Japan's Total Empire, 1-54: Part I - The Making of a Total Empire* [Library ebook](http://hdl.handle.net/2027/heb.00123)
-* Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, 65-89
+* Young, *Japan's Total Empire* Ch 2 pp29-35,40-54: Part I - The Making of a Total Empire* [Library ebook](http://hdl.handle.net/2027/heb.00123)
+* Duara, Prasenjit *Sovereignty and Authenticity* Ch 2-3 Manchukuo: A Historical Overview; Asianism and the New Discourse of Civilization pp41-122
 * Tamanoi, Mariko Asano. “Knowledge, Power, and Racial Classification: The ‘Japanese’ in ‘Manchuria.’” The Journal of Asian Studies 59, no. 2 (May 1, 2000): 248–76. [Jstor](http://www.jstor.org/stable/2658656)
 * Saaler *Pan-Asianism in Modern Japanese History*, Ch 1-2: 1-18, 21-33 [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=292828)
     * Ch 1 Pan-Asianism in modern Japanese history: Overcoming the nation, creating a region, forging an empire
@@ -296,6 +306,7 @@ Abbreviations for readings:
 **Further Reading:**
 
 * Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China*
+* Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, 65-89
 * Shao, Dan. *Remote Homeland, Recovered Borderland: Manchus, Manchoukuo, and Manchuria, 1907-1985*
 * Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire*
 * Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*
@@ -335,21 +346,22 @@ Abbreviations for readings:
 
 ### Week 6 - Independent Learning Week
 
-This is an excellent time to really focus on your research for the long essay and start writing it! Come back having at least written a few paragraphs - even if they are just a stream of ideas and possible directions.
-
-If you have been falling behind on the reading, or are less than satisfied with your notes on our reading up until now, this would also be a good time to catch up on this. 
+* This is an excellent time to really focus on your research for the long essay and start writing it! Come back having at least written a few paragraphs - even if they are just a stream of ideas and possible directions.
+* If you have been falling behind on the reading, this would also be a good time to catch up on this. 
+* Consider meeting with some classmates in independent learning week to share notes and discuss preparation for the final examination. Or at least go over your notes so far for the semester and identify where you may need to revisit.
 
 ### Week 7 - The Sino-Japanese Conflict and the Kōminka Movement
 
-**Primary Source Reading:** ~40 plus some skimming
+**Primary Source Reading:** ~50 
 
 * SOURCES: 
-    * Part V, Chapter 45, 991-992 Konoe Radio Address
-* Brook, Documents on the Rape of Nanking, selections from between 33-206
-* Aso, From Shanghai to Shanghai, selected pages
+    * Ch 41, Tokutomi Sohō Justification for the China War
+    * Ch 45, Konoe Fumimaro Radio Address
+* Brook, *Documents on the Rape of Nanking*, 9-11,21-24,28-34,54-56,60-61,77-79, 125-128,137-8,156-7,163,234-236 (30 pages total)
+    * Please note that the material here is of a very disturbing nature describing the violence of the occupation of Nanjing
 * Kawakami *Japan in China: Her Motive and Aims*, 71-82, 145-161
 
-**Secondary Source Reading:** ~160
+**Secondary Source Reading:** ~180
 
 * Fogel ed., *The Nanjing Massacre in History and Historiography*, 133-180: The Challenges of the Nanjing Massacre [Library ebook](http://dx.doi.org/10.1525/california/9780520220065.001.0001)
 * Chou, "The Kōminka Movement in Taiwan and Korea: Comparisons and Interpretations" in Peattie ed. *The Japanese Wartime Empire, 1931-1945*, 40-70 [Library ebook](http://hdl.handle.net/2027/heb.01938)
@@ -362,12 +374,13 @@ If you have been falling behind on the reading, or are less than satisfied with 
 
 * Saaler, *Pan-Asianism : A Documentary History, 1920-Present* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=669807)
     * Ch 23 - "Nanjing's Greater Asianism: Wang Jingwei and Zhou Huaren" 209-219
-* Lary, Diana. *The Chinese People at War: Human Suffering and Social Transformation, 1937-1945*
+* rest of Lary, Diana. *The Chinese People at War: Human Suffering and Social Transformation, 1937-1945*
 * Peattie, Mark, Edward J. Drea, and Hans J. Van de Ven. *The Battle for China: Essays on the Military History of the Sino-Japanese War of 1937-1945*. 
-* Mitter, Rana. China’s War with Japan, 1937-1945: The Struggle for Survival
+* Mitter, Rana. *China’s War with Japan, 1937-1945: The Struggle for Survival* (P)
 * "Breeding the Japanese 'Race'" in Sabine Früstück and Sabine Frühstück, Colonizing Sex: Sexology and Social Control in Modern Japan (University of California Press, 2003), 152-184.
-* John Rabe, *The Good Man of Nanking: The Diaries of John Rabe*, Reprint (Vintage, 2000).
-* Chongyi Feng and David S. G. Goodman, eds., *North China at War: The Social Ecology of Revolution, 1937-1945* (Lanham, MD: Rowman & Littlefield Publishers, 2000).
+* John Rabe, *The Good Man of Nanking: The Diaries of John Rabe*, Reprint (Vintage, 2000). (P)
+* Chongyi Feng and David S. G. Goodman, eds., *North China at War: The Social Ecology of Revolution, 1937-1945* (Lanham, MD: Rowman & Littlefield Publishers, 2000). (P)
+* 
 
 **Preparation:**
 
@@ -407,7 +420,7 @@ If you have been falling behind on the reading, or are less than satisfied with 
 
 **Primary Source Reading:**
 
-**Choose and read one of the following, skimming as necessary:**
+**Choose and read one of the following, skimming as necessary. I'll provide the text for this where it is not available in the library.**
 
 * Lichauco, *"Dear Mother Putnam"; a Diary of the War in the Philippines*
     * A diary tracing the daily life in urban occupied Philippines up to the eve of the battle of Manila
@@ -443,10 +456,10 @@ If you have been falling behind on the reading, or are less than satisfied with 
 
 **Preparation:**
 
+* Put your main priority on working on your long essay (half the preparation time at least) which should be well along by now.
 * The primary sources this week are long, but you may not only skim the works as needed, but might have the pleasure of reading the entirety of a single longer piece for perhaps the first time this semester. Use this as an opportunity to analyse this source critically and look for patterns and interesting features.
 * Consider choosing a chapter from Lebra in the secondary sources to dovetail the primary source. For example, if you read the Ba Maw text, then consider reading the Burma Independence Army chapter in Lebra.
 * If you are unfamiliar with it, look up the general history of the Burmese, Indian, and British Malayan colonies to get oriented a bit. 
-* You should now really be making progress on your long essay for the course. If you have not, it is really time to get going so that you are well position to make good use of our group writing exercises in the consolidation week next week.
 
 **Overview:**
 
