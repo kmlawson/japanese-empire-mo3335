@@ -32,7 +32,14 @@ Here I list some of the significant changes in this module over the years, after
 * refined exam instructions
 * refined laptop policies
 
+## Fall 2017
+
+* added ideas for long essays to most weeks
+* tweaked readings throughout, especially primary sources
+* average reading pages per week crept up again to around 220
+* MAJOR: eliminated overcoming modernity week 10 and replaced it with week dedicated to early aftermaths of war and war crimes trials
+
 ## Ideas for Future Changes
 
-* change week 9 back to a content week and either split week 11
-* get rid of overcoming modernity week
+* eliminate collaborative writing week, make this an optional thing during reading week? Use the extra week for something with Japanese domestic emphasis or split one of the double themed weeks?
+

@@ -20,18 +20,17 @@ Abbreviations for readings:
 
 **Preparation:**
 
+* Those of you who joined the course late or for any other reason were not able to attend this first meeting, please still be aware of the need to read the Gordon material during the course of the semester.
 * I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole. 
 * Bring a list of at least three themes or general areas related to the history of Japanese empire that interest you and be prepared to say something about why you find them interesting
 * Be ready to share some thoughts on how a module on Japanese empire might differ from a module entitled, for example, 'Modern Japanese History'
-* You will spend a significant portion of time in this module working on your own original research essay: bring at least 2 ideas of things that interest you for possible research on. 
-* Look the readings in each of the weeks ahead and read the handbook section on presentations. Be prepared to sign up for the week you would like to do an assessed presentation. You may change weeks for the assessed presentation in the future, but only if you do so more than 10 days in advance and either a) there is only one person doing an assessed presentation in a given week, or b) you make an arrangement to switch with someone. You do not need to contact me about this change, but it must be indicated on our online class presentation list.
+* You will spend a significant portion of time during this semester working on your own original research essay: bring at least 2 ideas of broad areas that interest you for possible research on. They don't need to be limited to Japan as a geographic location but can be a theme, or a kind of source.
+* Look at the readings for each of the weeks ahead and read the handbook section on presentations. Be prepared to sign up for the week you would like to do an assessed presentation. This can be done on the module mooodle wiki. You may change weeks for the assessed presentation in the future but only if you make an arrangement to switch with someone and they agree. You do not need to contact me about this change, but it must be indicated on our online class presentation schedule.
 
 **Overview:**
 
 * Our first meeting will talk about the relationship between studying the history of Japan, and the history of Japanese empire. 
-* I will offer a short lecture, the only lecture of more than a few minutes you will receive during the semester which will take you on a tour through the course and what we will be covering. 
-* Group Exercise: We will evaluate the familiarity we have with the history of East Asia and the studies of empire. You will have an opportunity to share what aspects of this topic you find most interesting and want to learn about. 
-* We will discuss the assignments, and particularly emphasise the importance of beginning early and working consistently on your long essay. I will explain what the expectations are and urge you to make good use of this handbook which offers a lot of detailed advice. 
+* Everything you need to know about the module can be found in this handbook, but we'll use this meeting to discuss some of these features and give you a chance to ask for clarification. We will discuss the assignments, and particularly emphasise the importance of beginning early and working consistently on your long essay. I will explain what the expectations are and urge you to make good use of this handbook which offers a lot of detailed advice. 
 * We will discuss the format of the final examination, and share tips for how to deal with the reading load from week to week. 
 * We will discuss the collective notes and how it has helped students in past iterations of this module. 
 * We will sign up for presentations.
@@ -57,7 +56,7 @@ Abbreviations for readings:
 * Beasley *Japanese Imperialism* Ch 4-7 (60 pages) [Library ebook](http://dx.doi.org/10.1093/acprof:oso/9780198221685.001.0001)
     * "Intervention in Korea, 1894-5, Peace Settlement with China 1894-6", "New Imperialism and the War with Russia 1895-1905", "Formal and Informal Empire in North-East Asia, 1905-1910"
     * This is a survey text but will help deepen your understanding of the events. Compare this with your reading of GORDON for the same period.
-* Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291)
+* Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291) (P)
 * Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910” (25 pages) [Online](http://ahr.oxfordjournals.org/content/118/1/20.extract)
 * Please read and view carefully one of the following three MIT Visualizing Cultures exhibits, each of which has several sub-pages:
     * [Throwing Off Asia I: Westernization](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_vis_01.html))
@@ -68,7 +67,7 @@ Abbreviations for readings:
 **Further Reading:**
 
 * Lecture by John Dower on [Visualising the Russo-Japanese War](http://video.mit.edu/watch/john-dower-visualizing-the-russo-japanese-war-3512-11920/) (1hr)
-* Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910*
+* Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910* (P)
     * This is a classic work now which goes into great depth on the lead up to annexation in Korea.
 * Kowner, *Impact of the Russo-Japanese War*, 1-26
 * Valliant, "The Selling of Japan", 415-438
@@ -76,8 +75,8 @@ Abbreviations for readings:
 * MASON p55-75 Ch 2: "Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
 * "Ainu Identity and the Meiji State" in David L. Howell, Geographies of Identity in Nineteenth-Century Japan 
 * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* Harvard University Press, 2009.  
-* Cassel, Pär Kristoffer. *Grounds of Judgment: Extraterritoriality and Imperial Power in Nineteenth-Century China and Japan*. Oxford University Press, 2012.
-* Paine, S. C. M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*. 
+* Cassel, Pär Kristoffer. *Grounds of Judgment: Extraterritoriality and Imperial Power in Nineteenth-Century China and Japan*. Oxford University Press, 2012. (P)
+* Paine, S. C. M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*.  (P)
 * Naoko Shimazu, “Patriotic and Despondent: Japanese Society at War, 1904-5”
 * Rotem Kowner, ed., *The Impact of the Russo-Japanese War*, 1st ed. (Routledge, 2006).
 * David Wells and Sandra Wilson, *The Russo-Japanese War in Cultural Perspective, 1904-05* (Palgrave Macmillan, 1999).
@@ -88,10 +87,10 @@ Abbreviations for readings:
 
 **Preparation:**
 
-* Choosing one of the two long essay ideas from last week, spend 1-3 hours "blitz" researching your topic: who has written about it? What kinds of sources do they use? What kinds of arguments have historians made, write up a few paragraphs on a single page with a fake overview of your quickly researched essay and bring to class. This exercise is to help you start thinking about the broad topic for your long essay. Remember, the short essay (either a prospectus for the long essay or critical review) is due not before long.
+* Choosing one of the two long essay ideas you brought to class from last week, spend an hour "blitz" researching your topic: who has written about it? What kinds of sources do they use? What kinds of arguments have historians made, write down at least a dozen bullet points or a paragraph or two for discussion. This exercise is to help you start thinking about the broad topic for your long essay. Remember, the short essay (either a prospectus for the long essay or critical review) is due sooner than you think.
 * The primary sources, along with the Moon and Eskildsen pieces will be discussed in depth, please read them closely
 * For many, the topics here are unfamiliar. When you run into unfamiliar territory review the survey text by Gordon, or get in the habit of looking up names, places, or people you are unfamiliar with. Note them down if they pop up and bring them up in class - you may not be the only one!
-* Review the page load of readings for the weeks ahead, start planning ahead to make time for your long essay research and writing. Take advantage of weeks with a lighter load to schedule time for the long essay. 
+* Review the page load of readings for the weeks ahead, start planning ahead to make time for your long essay research and writing. Take advantage of weeks with a lighter load to schedule time for the long essay. Think about "time boxing" your reading - fixing in advance the hours you will dedicate to your reading and working within those limits to allow other time for the module on your long essay research, presentation, and other preparation.  
 * Try to commit to memory the basic, mostly political, events in the "Chronology" section of this student handbook, for the years up to 1920. Note down one or two of these events that you know little or nothing about that you think might be interesting and look them up on Wikipedia.
 
 **Overview:**
@@ -104,6 +103,16 @@ Abbreviations for readings:
 * We will ask ourselves what commonalities and differences we see so far between Japan as a coloniser and those of other western empires at this time.
 * Any time left over we will use to discuss topics for the long essay and your overviews
 
+**Ideas for Long Essay Themes**
+
+* Note: In this section I will put general themes to consider for long essays, but keep in mind that you are by no means limited to them and each of theme contain a full range of more appropriately narrow questions and arguments you might pursue within them.
+* There are many sources in non-Japanese languages that will allow you to examine the way Japan's colonization was portrayed abroad, focusing in on one aspect or example of this and making an argument is one possibility for a long essay
+* Depictions of Japan, or by Japan of world order?
+* Aspects of Meiji period transitions within Japan
+* Issues of cultural contact between Japan and its neighbors in this period
+* Responses of Chinese, Korean, or already colonized peoples to Japan in this period
+* Further exploring the visualizations of Japanese imperialism
+
 \pagebreak
 
 ### Week 2 - Authority, Ethnography, and Assimilation
@@ -111,8 +120,8 @@ Abbreviations for readings:
 **Primary Source Reading:** 45 pages
 
 * Nitobe Inazo, "Japan as Colonizer" in *The Japanese Nation* [Online at Archive.org](https://archive.org/details/japanesenationi00nitogoog), 231-258.
-* SOURCES, Ch 41: Yanagi Muneyoshi and the Kwanghwa Gate, For a Korean Architecture About to Be Lost
-* MASON 109-123 Ch 4: "Demon Bird, Violence, Borders, Identity"
+* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716), Ch 41: Yanagi Muneyoshi and the Kwanghwa Gate, For a Korean Architecture About to Be Lost
+* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 109-123 Ch 4: "Demon Bird, Violence, Borders, Identity"
 
 **Secondary Source Reading:** 143 pages
 
@@ -147,15 +156,23 @@ Abbreviations for readings:
 
 **Overview:**
 
-* One way we might have examined the history of colonial territories under Japanese control is to examine the chronology of events in each place. We are taking another approach, one that is more thematic. Our readings today step back from the political events to the cultural realm and also the ways in which the Japanese empire attempted to form and change the peoples and places it colonised. In particular, we the world of folklore, cultural artefacts, and the field of anthropology are key. 
-* We will take a closer look at the Nitobe Inazo reading and discuss the ways that Japan is described as a colonial power.
-* We will set aside some time in class to talk about how your topics for the long essay, and your first prospectus or critical review is coming along. We will discuss this groups and then together.
 * There may be assessed presentations
+* One way we might have examined the history of colonial territories under Japanese control is to examine the chronology of events in each place. We are taking another approach, one that is more thematic. Our readings today step back from the political events to the cultural realm and also the ways in which the Japanese empire attempted to form and change the peoples and places it colonised. In particular, we will see how the world of folklore, cultural artefacts, and the field of anthropology are key to understanding other ways that power figure into the relationship between coloniser and colonised.
+* We will take a closer look at the Nitobe Inazo reading and discuss the ways that Japan is described as a colonial power and presented to a western audience, with care taken to the rhetoric and language used as well as the selection of material chosen for presentation.
+* We will set aside some time in class to talk about how your topics for the long essay, and your first prospectus or critical review is coming along. We will discuss this groups and then together.
+* Abstracts Discussion: I will bring a list of abstracts for conference presentations and published articles. These are (somewhat shorter) examples of what you are aiming for in the prospectus. We will discuss what kinds of information they contain and what makes them stronger or weaker.
 
 **Questions:**
 
 1. What are some of the ways that knowledge about the colonised peoples were deployed in the Japanese empire?
 2. In the period focused on here, what were the primary goals for the Japanese colonisers in attempting to form the peoples under its rule?
+
+**Ideas for Long Essay Themes**
+
+* There is a much more rich literature on ethnography and empire, many other possible sources for anthropologists in East Asia to explore these questions of knowing the author. The even richer and broader literature on orientalism offer another way to look at both Japan's use of knowledge in its domination of its neighbours but also of European empires simultaneously jockeying for power in the region.
+* Assimilation policies across multiple empires is a fascinating area that opens lots of possible topics that take a comparative approach
+* Our text by Nitobe this time was only one of many such texts, exploring others or a pattern within multiple of them is another area.
+* Kim Brandt's piece in the further reading is part of a growing literature (not limited to Japan) which looks at the intersection of art and antiquities related to empire that may give you ideas. 
 
 **Films of Interest:**
 
@@ -169,14 +186,14 @@ Abbreviations for readings:
 
 **Primary Source Reading:** 27 pages
 
-* MASON 77-104 Ch 3: "Officer Ukama, Subaltern Identity in Okinawa", 77-89
+* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 77-104 Ch 3: "Officer Ukama, Subaltern Identity in Okinawa", 77-89
 
 **Secondary Source Reading:** 190 pages
 
 * Robinson, *Korea's Twentieth-century Odyssey*, Ch 4 Colonial Modernity, Assimilation, and War, 76-99 [Library ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
 * Todd A. Henry, *Assimilating Seoul* Ch 4 Civic Assimilation: Sanitary Life in Neighborhood Keijō [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1596987)
 * Matsutani, Motokazu 'A New Perspective on the 'Name-Changing Policy' in Korea" in *Gender and Law in the Japanese Imperium*, 240-266.
-* Shin, Colonial Modernity in Korea [Library ebook](http://hdl.handle.net/2027/heb.02416)
+* Shin, *Colonial Modernity in Korea [Library ebook](http://hdl.handle.net/2027/heb.02416)*
     * 1-20: Introduction
     * 21-51: Modernity, Legality, and Power in Korea
     * 52-69: Broadcasting, Cultural Hegemony
@@ -200,7 +217,8 @@ Abbreviations for readings:
 
 **Preparation:**
 
-* Think about the case of Officer Ukama. What are some of the features of his story that might be common to others under Japanese colonial rule. Is that experience unique to colonial settings? If so, in what ways? If not, then what other settings resemble it?
+* SHORT ESSAY DUE - Your first prospectus or a critical review is due. For guidance, think of a longer version of the abstract for a conference or published article, and for the critical review, read some of the book reviews from a journal like the Journal of Asian Studies or Past & Present. 
+* Think about the case of Officer Ukama in Okinawa. What are some of the features of his story that might be common to the experience of other people under Japanese colonial rule that we have been reading about. Is that experience unique to colonial settings? If so, in what ways? If not, then what other settings resemble it?
 * Many of the readings for today are filled with ironies: where intentions of the coloniser often lead to very differing outcomes when seen in retrospect. Some of them also suggest that simplistic nationalist narratives that emerge in a postcolonial setting are also problematic. In what ways is this the case?
 
 **Overview:**
@@ -218,13 +236,22 @@ Abbreviations for readings:
 2. According to theorists of colonial modernity, how was it distinct from modernity experienced elsewhere?
 3. Apologists for empire have often justified past rule as having had, at the very least, a positive impact on their former colonies in terms of infrastructure and economic development. In what ways does the theory of colonial modernity, and indeed, those who critique the idea, call this into question?
 
+**Ideas for Long Essay Themes**
+
+* This week, perhaps more than any others, offers chances to explore literary sources as a way into the period. There is a growing body of English translations of not only Japanese literature from this period but Korean, Chinese, and Taiwanese literature. Many of these offer settings that give the appearance of a bustling early 20th century modern society, but often with all the distortions and limitations of that apparent modernity that we expect to find in a colonial setting. 
+* Despite talking about "modernity" which is a more abstract concept, we have said relatively little of modernization, of economic and technological transformations in the colonies, and the development of infrastructure under colonial rule that was of benefit to the coloniser and its increased extraction of resources from its possessions. This could be explored in an essay through an example or comparison, but when doing so, be aware that this is a field that demands careful consideration of: for whom and who benefits.
+* We also see this week that the colonizer - colonized two-sided approach has severe limitations and a long essay can look in more depth at some impact of colonisation on a particular group in metropole or colony. 
+* Students interested in urban history might consider exploring a long essay with a topic related to cities in the empire - also the topic of a fourth year module I offer for those who want more readings on this.
+
 **Film of Interest:**
 
 * 미몽(죽음의 자장가) Sweet Dream (Lullaby of Death) - 1936
     * Available thanks to the Korean Film Archive's youtube channel with English subtitles: http://www.youtube.com/watch?v=tmd_OBPFll8
     * click the "captions" button to turn on English subtitles
 * 戲夢人生 Puppetmaster - 1993
-* Radio Days 라듸오 데이즈 2008
+* Radio Days (2008 - 라듸오 데이즈)
+* Assassin (2015 - 암살)
+* Modern Boy (2008 - 모던 보이)
 
 \pagebreak
 
@@ -251,9 +278,11 @@ Abbreviations for readings:
 * O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria* (P)
 * Rest of Uchida's *Brokers of Empire* (P)
 * Rest of Han *Rise of a Japanese Chinatown* (P)
+* Lie, John. *Multiethnic Japan*. Cambridge, Mass.; London: Harvard University Press, 2004.
 
 **Preparation:**
 
+* Reading is on the heavy side this week while you wait for feedback on your first short essay focus on your reading more this week.
 * The migrations described here exist on a spectrum of coercion. What are some of the differing ways the Japanese state became involved in the migrations described here
 * Think about ways of tying the Kim Sa-ryang piece to our readings in the secondary sources. 
 * Look for connections across our readings for this week.
@@ -261,7 +290,7 @@ Abbreviations for readings:
 **Overview:**
  
 * There may be assessed presentations
-* Until the full-scale Sino-Japanese war in the 1930s most of the places we have been looking at were assumed to be permanent parts of the Japanese empire. This was a multi-ethnic empire and the strategies of the Japanese government, colonial officials, settlers, and others for what kind of relationships its constituent communities were to have with eachother evolved over time. We will focus our time on trying to unpack these relationships.
+* Until the full-scale Sino-Japanese war in the 1930s most of the places we have been looking at were assumed to be permanent parts of the Japanese empire. This was a multi-ethnic empire and the strategies of the Japanese government, colonial officials, settlers, and others for what kind of relationships its constituent communities were to have with each other evolved over time. We will focus our time on trying to unpack these relationships.
 * We will do a closer reading in class of some parts of the Kim Sa-ryang story
 
 **Questions:**
@@ -269,11 +298,18 @@ Abbreviations for readings:
 1. How do our readings help us understand some of the dynamics of the relationship between the coloniser and the colonised? 
 2. How is this relationship complicated, if not completely transformed, in the case of settlers or colonised peoples in the metropole?
 
+**Ideas for Long Essay Themes**
+
+* Migration in the empire is an ideal way in to the deeply transnational possibilities of studying the Japanese empire, and exploring contradictions of identity, of power relationships, and networks. Consider exploring the bibliographies of Uchida, Han, Caprio, and O'Dwyer for some inspiration. Our Kim Sa-ryang piece is only one of many Korean works, for example, now available in English translation which attempt to capture the challenges of minorities in the empire. 
+* Uchida's *Brokers of Empire* introduction suggests the rich possibilities of comparative studies of settler colonialism with other empires.
+* The idea of "informal empire" has been used as a replacement for an alternative Marxist inspired language of "half-colonialism" as it is still known in China today. This area offers a huge variety of possible case studies, potential comparisons, and questions you might explore.
+
 **Films of Interest:**
 
 * City of Sadness (悲情城市 1989)
 * Blue Swallow (청연 2005)
 * Rikidōzan (역도산 2004)
+* The Last Princess (2016 - 덕혜옹주)
 * A significant number of Japanese gangster (yakuza) films include characters who are depicted as Korean or Korean-Japanese. Some films makes this an active element of the plot, while others give it merely indirect mention.
 
 \pagebreak
@@ -282,11 +318,11 @@ Abbreviations for readings:
 
 **Primary Source Reading:** ~60 pages
 
-* SOURCES 
+* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716) 
     * Ch 41 Okakura Kakuzō: Aesthetic Pan-Asianism; "The Ideals of the East"
     * Ch 42 Ishibashi Tanzan - "Fantasy of Greater Japanism"; "Before Demanding the Abolition of Racial Discrimination"
     * Part V, Ch 45 Ishihara Kanji "Plan to occupy Manchuria"; "The Economic Need for Expansion"
-* MASON 209-224 Ch 7: Text and Critique "Manchu Girl", Imperializing Motherhood"
+* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 209-224 Ch 7: Text and Critique "Manchu Girl", Imperializing Motherhood"
 * Saaler, *Pan-Asianism : A Documentary History, 1920-Present* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=669807)
     * Ch 4 - Ōkawa Shūmei "Various Problems of Asia in Revival" 69-74
     * Ch 13 - "The Greater Asia Association and Matsui Iwane, 1933" 137-147
@@ -305,14 +341,15 @@ Abbreviations for readings:
 
 **Further Reading:**
 
-* Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China*
+* Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China* (P)
 * Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, 65-89
-* Shao, Dan. *Remote Homeland, Recovered Borderland: Manchus, Manchoukuo, and Manchuria, 1907-1985*
-* Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire*
-* Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*
-* Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945*
-* Culver, Annika A. *Glorify the Empire: Japanese Avant-Garde Propaganda in Manchukuo*
+* Shao, Dan. *Remote Homeland, Recovered Borderland: Manchus, Manchoukuo, and Manchuria, 1907-1985* (P)
+* Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire* 
+* Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought* (P)
+* Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945*  (P)
+* Culver, Annika A. *Glorify the Empire: Japanese Avant-Garde Propaganda in Manchukuo* (P)
 * Smith, Norman. “Disguising Resistance in Manchukuo: Feminism as Anti-Colonialism in the Collected Works of Zhu Ti.” The International History Review 28, no. 3 (2006): 515–36.
+* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire* (P)
 * Yamaura, Chigusa. “From Manchukuo to Marriage: Localizing Contemporary Cross-Border Marriages between Japan and Northeast China.” The Journal of Asian Studies 74, no. 03 (August 2015): 565–88
 * Duara, Prasenjit "The New Imperialism and the Post-Colonial Developmental State: Manchukuo in comparative perspective" [Online](http://www.japanfocus.org/-Prasenjit-Duara/1715/article.html)
 * "Military fascism and Manchukuo, 1930-36" and "Bureaucratic visions of Manchukuo, 1933-39" in Mimura, Janis. *Planning for Empire: Reform Bureaucrats and the Japanese Wartime State*
@@ -335,6 +372,13 @@ Abbreviations for readings:
 2. What are some of the differences between the ways Asian unity was imagined by Japanese in the sources we consider? 
 3. Compare the Ishiwara Kanji and Ishibashi Tanzan readings. What assumptions do they share, and in what ways do they differ? 
 
+**Ideas for Long Essay Themes**
+
+* Japan's Manchurian project is arguably unique in 20th century history, and yet paradoxically, has many characteristics that invite deep comparisons with many other state building, nationalist, and legitimation projects in many other places, including in Japan's Chinese occupied areas in years to come. An essay might focus in on one of these areas, and if English sources are short, then a comparative study might work well.
+* Pan-asianism is an entire sub-field to itself now in East Asian studies with a host of works out in the past decade, not least in Japanese but also in English. Comparative studies with other pan-movements, or an essay exploring one particular aspect or argument made by pan-Asianists or looking at its reception or its development are some examples of where to go, as well as essays that look at the manifestation of pan-Asianism in a particular area such as architecture, education, wartime propaganda, etc. Look to the further reading for guidance.
+* Manchukuo created a crisis for an already crisis ridden League of Nations. There are a range of possibilities for exploring the international context for Manchuria that will have a range of non-Japanese sources
+* Manchukuo was not just a site of Japanese occupation, within it many other things were going on. The work of Duara, Norman Smith, and Rana Mitter show this. It was also the crucible of Korean nationalism and resistance that would later play a critical role in the development of North Korea in particular.
+
 **Films of Interest:**
 
 * The Last Emperor 1987
@@ -349,12 +393,13 @@ Abbreviations for readings:
 * This is an excellent time to really focus on your research for the long essay and start writing it! Come back having at least written a few paragraphs - even if they are just a stream of ideas and possible directions.
 * If you have been falling behind on the reading, this would also be a good time to catch up on this. 
 * Consider meeting with some classmates in independent learning week to share notes and discuss preparation for the final examination. Or at least go over your notes so far for the semester and identify where you may need to revisit.
+* This is also a great time to go over the general survey history of Japan that we began the semester with (GORDON).
 
 ### Week 7 - The Sino-Japanese Conflict and the Kōminka Movement
 
 **Primary Source Reading:** ~50 
 
-* SOURCES: 
+* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716): 
     * Ch 41, Tokutomi Sohō Justification for the China War
     * Ch 45, Konoe Fumimaro Radio Address
 * Brook, *Documents on the Rape of Nanking*, 9-11,21-24,28-34,54-56,60-61,77-79, 125-128,137-8,156-7,163,234-236 (30 pages total)
@@ -376,17 +421,19 @@ Abbreviations for readings:
     * Ch 23 - "Nanjing's Greater Asianism: Wang Jingwei and Zhou Huaren" 209-219
 * rest of Lary, Diana. *The Chinese People at War: Human Suffering and Social Transformation, 1937-1945*
 * Peattie, Mark, Edward J. Drea, and Hans J. Van de Ven. *The Battle for China: Essays on the Military History of the Sino-Japanese War of 1937-1945*. 
+* Schoppa, R. Keith. *In a Sea of Bitterness: Refugees During the Sino-Japanese War* (P)
 * Mitter, Rana. *China’s War with Japan, 1937-1945: The Struggle for Survival* (P)
 * "Breeding the Japanese 'Race'" in Sabine Früstück and Sabine Frühstück, Colonizing Sex: Sexology and Social Control in Modern Japan (University of California Press, 2003), 152-184.
 * John Rabe, *The Good Man of Nanking: The Diaries of John Rabe*, Reprint (Vintage, 2000). (P)
 * Chongyi Feng and David S. G. Goodman, eds., *North China at War: The Social Ecology of Revolution, 1937-1945* (Lanham, MD: Rowman & Littlefield Publishers, 2000). (P)
-* 
+* Yoshiaki, Yoshimi. *Grassroots Fascism: The War Experience of the Japanese People* (P)
+* Tansman, Alan. *The Aesthetics of Japanese Fascism* (P)
 
 **Preparation:**
 
+* SHORT ESSAY DUE - Your second prospectus or a critical review is due.
 * I do not expect you to read all of the Brook documents on the Nanjing massacre. Instead, use this opportunity to practice your skimming skills as a historian might in the process of their research. Spending a total of no more than an hour on these documents take some notes on what you find to be patterns in the sources: what kinds of violence, what strategies does the safety committee have in their response, what are patterns, in turn, of the Japanese response to these efforts. 
 * Think about the ways the Kawakami propaganda piece resembles the Nitobe Inazo reading we did earlier in the semester. What rhetorical techniques are at work here? 
-* You should work to complete your second prospectus or critical review
 
 **Overview:**
 
@@ -413,6 +460,7 @@ Abbreviations for readings:
 * Feng Shui (风水 2011)
 * The Message (风声 2009)
 * Scarecrow (Dao cao ren) 稻草人 1987
+* John Rabe (2009)
 
 \pagebreak
 
@@ -420,7 +468,10 @@ Abbreviations for readings:
 
 **Primary Source Reading:**
 
-**Choose and read one of the following, skimming as necessary. I'll provide the text for this where it is not available in the library.**
+* "Fundamentals of Our National Polity" [Online](http://afe.easia.columbia.edu/ps/japan/kokutai.pdf) in Columbia University Asia for Educators 
+    * There are two versions of the excerpt here, please read the longer of the two excerpts
+
+**Choose and skim *one* of the following. I'll provide the text or selections of the text for this where it is not available in the library.**
 
 * Lichauco, *"Dear Mother Putnam"; a Diary of the War in the Philippines*
     * A diary tracing the daily life in urban occupied Philippines up to the eve of the battle of Manila
@@ -442,20 +493,22 @@ Abbreviations for readings:
 
 **Further Reading:**
 
-* John W. Dower, *War Without Mercy* [Library ebook](http://hdl.handle.net/2027/heb.02403)
+* John W. Dower, *War Without Mercy* [Library ebook](http://hdl.handle.net/2027/heb.02403) (P)
 * MASON 243-295 Ch 8: The Adventures of Dankichi, Popular Orientalism
 *  Brandon. Palmer, “Imperial Japan’s Preparations to Conscript Koreans as Soldiers, 1942–1945,” Korean Studies 31, no. 1 (2008): 63–78.
-* Palmer, Brandon. *Fighting for the Enemy: Koreans in Japan’s War, 1937-1945*
+* Palmer, Brandon. *Fighting for the Enemy: Koreans in Japan’s War, 1937-1945* (P)
 * Hayashi, Hirofumi "The Battle of Singapore, the Massacre of Chinese and Understanding of the Issue in Postwar Japan" *Japan Focus* [Online](http://www.japanfocus.org/-Hayashi-Hirofumi/3187/article.html)
 * Christopher Bayly and Tim Harper, *Forgotten Wars: Freedom and Revolution in Southeast Asia*
-* Yoshiaki Yoshimi, *Comfort Women: Sexual Slavery in the Japanese Military During World War II*
-* Goodman, Grant ed. *Japanese Cultural Policies in Southeast Asia During World War 2*
-* Paul H Kratoska, ed., *Southeast Asian Minorities in the Wartime Japanese Empire* (London: Routledge, 2002).
-* Alfred W. McCoy, *Southeast Asia under Japanese Occupation*
-* Nicholas Tarling, *A Sudden Rampage: The Japanese Occupation of Southeast Asia, 1941-1945*
+* Yoshiaki Yoshimi, *Comfort Women: Sexual Slavery in the Japanese Military During World War II* 
+* Goodman, Grant ed. *Japanese Cultural Policies in Southeast Asia During World War 2* (P)
+* Paul H Kratoska, ed., *Southeast Asian Minorities in the Wartime Japanese Empire* (London: Routledge, 2002). (P)
+* Alfred W. McCoy, *Southeast Asia under Japanese Occupation* (P)
+* Miller, Ian Jared. *The Nature of the Beasts Empire and Exhibition at the Tokyo Imperial Zoo* (P)
+* Nicholas Tarling, *A Sudden Rampage: The Japanese Occupation of Southeast Asia, 1941-1945* 
 
 **Preparation:**
 
+* Following things chronologically, this would normally where many books or classes on Japanese history would turn to Pearl Harbor, to the war in the Pacific, and the dropping of the atomic bomb on Hiroshima and Nagasaki. These were monumental events in the history of the climatic conflict between the United States and Japan and, domestically, are what stand out the most for the people of Japan and the United States today. However, what is often neglected with this focus, and what had a broader long term impact on the entire history of a region is the massive invasion by Japan in late 1941 of almost all of southeast Asia and the destruction of European colonial power there. This was the last disastrous stage of Japanese imperialism.
 * Put your main priority on working on your long essay (half the preparation time at least) which should be well along by now.
 * The primary sources this week are long, but you may not only skim the works as needed, but might have the pleasure of reading the entirety of a single longer piece for perhaps the first time this semester. Use this as an opportunity to analyse this source critically and look for patterns and interesting features.
 * Consider choosing a chapter from Lebra in the secondary sources to dovetail the primary source. For example, if you read the Ba Maw text, then consider reading the Burma Independence Army chapter in Lebra.
@@ -464,7 +517,7 @@ Abbreviations for readings:
 **Overview:**
 
 * There may be assessed presentations
-* Group Task: We'll spend a good portion of our class today comparing notes with each other (hopefully we will have a good balance of students who read each of the primary sources) on the experience of Japan's "sudden rampage" as one book title calls it, through Southeast Asia.
+* Short Lecture and Group Task: We'll spend a good portion of our class today comparing notes with each other (hopefully we will have a good balance of students who read each of the primary sources) on the experience of Japan's "sudden rampage" as one book title calls it, through Southeast Asia.
 * Group Task: We will again meet and discuss the experience of working on the second prospectus or critical review, and discuss progress on the long essay. 
 * Time permitting we'll discuss conscription and colonial soldiering in general, and compare the case of Korean and Taiwanese fighting for Japan with the auxiliaries of Southeast Asia.
 
@@ -476,8 +529,16 @@ Abbreviations for readings:
 **Films of Interest:**
 
 * Three Godless Years (1976 - Tatlong Taong Walang Diyos)
-* The Burmese Harp (1956)
 * Bose - The Forgotten Hero (2004)
+* The Eternal Zero (2013 - 永遠の0)
+* Fires on the Plain (1959 - 野火)
+* Letters from Iwo Jima (2006)
+* Tora! Tora! Tora! (1970)
+* The Bridge on the River Kwai (1957)
+* Human Condition series (1959-1961 - 人間の条件)
+* Merry Christmas, Mr. Lawrence (1983)
+* Empire of the Sun (1987)
+* My Way (2011 - 마이 웨이)
 
 \pagebreak
 
@@ -501,85 +562,119 @@ By this point in the semester, you should have made good progress on your long e
 
 \pagebreak
 
-### Week 10 The Anti-Empire, and Overcoming Modernity
+### Week 10 - The Aftermaths of War and Decolonisation
 
-**Primary Source Reading:** ~80-100 pages
+**Primary Reading:** ~40 pages
 
-* SOURCES: 
-    * Part V, Chapter 45, 1006-1013 Greater East Asia War
-    * Part V, Chapter 45, 1013-1015 Greater East Asia Conference
-* Calichman, *Overcoming Modernity*, 151-210 plus at least one of the other chapters
+* Brook, *Documents on the Rape of Nanking* Dissenting Opinion of Radhabinod Pal, 269-298
+* Selections of treason trial documents (will be provided)
+    * Please note that these materials contain descriptions of extreme violence and may be disturbing
 
-**Secondary Source Reading:** 73 pages
+**Secondary Reading: **
 
-* Calichman, *Overcoming Modernity*, 1-41: Introduction
-* Najita, "Japanese Revolt Against the West", 711-744
+* Morris-Suzuki, Tessa "Guarding the Borders of Japan: Occupation, Korean War and Frontier Controls" *Japan Focus* [Online](http://www.japanfocus.org/-Tessa-Morris_Suzuki/3490/article.html)
+* Watt, Lori. “Embracing Defeat in Seoul: Rethinking Decolonization in Korea, 1945.” *The Journal of Asian Studies* 74, no. 01 (February 2015): 153–74
+* Totani, Yuma "The Case Against the Accused" Part 4 Ch. 11 in *Beyond Victor's Justice?: The Tokyo War Crimes Trial Revisited*, 147-162
+* Dower, *Embracing Defeat* 
+    * Ch 16 - "What do you tell the dead when you lose?" 
+    * Epilogue: "Legacies/Fantasies/Dreams"
 
-**Further Reading:**
+**Further Reading**:
 
-* Harry D. Harootunian, *Overcome by Modernity: History, Culture, and Community in Interwar Japan* (Princeton University Press, 2001).
-* Cemil Aydin, *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*, Columbia Studies in International and Global History (New York: Columbia University Press, 2007).
-* Williams, David. *Defending Japan’s Pacific War: The Kyoto School Philosophers and Post-White Power: The Kyoto Philosophers and the Idea of a Post-White World*
+* Consider reading more of Dower's fantastic survey of the occupation period in Japan
+* Bayly, Christopher, and Tim Harper. *Forgotten Armies: The Fall of British Asia, 1941-1945*
+* Bayly, Christopher, and Tim Harper. *Forgotten Wars: Freedom and Revolution in Southeast Asia*
+* Totani, Yuma. *The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II* (P)
+* Futamura, Madoka. *War Crimes Tribunals and Transitional Justice: The Tokyo Trial and the Nuremburg Legacy*
+* Igarashi, Yoshikuni. *Homecomings: The Belated Return of Japan’s Lost Soldiers*, 2016. (P)
+* Barshay, Andrew E. *The Gods Left First: The Captivity and Repatriation of Japanese POWs in Northeast Asia*, 1945–1956. University of California Press, 2013. (P)
+* Marr, David G. *Vietnam 1945: The Quest for Power*. Berkeley: University of California Press, 1995. (P)
+* Armstrong, Charles K. *The North Korean Revolution,1945-1950*. Cornell University Press, 2004. (P)
+* Dikötter, Frank. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. Bloomsbury Publishing, 2013.
+* Kushner, Barak. *Men to Devils, Devils to Men: Japanese War Crimes and Chinese Justice*
+* Itoh, Mayumi. *Japanese War Orphans in Manchuria: Forgotten Victims of World War II* (P)
 
-**Preparation:**
 
-* Don't be fooled by the somewhat shorter page count: The Calichman and Najita readings are challenging
-* Think about the connections between our many readings on Japanese pan-Asianism and the philosophical and literary theoretical material we have read for this week.
-* Last push for the long essay!
+**Preparation**
 
-**Overview:**
+* Please read the primary sources well as we will do a group exercise involving them
+* Try to complete a full draft of your essay by now. The best writing is writing that has been written and revised multiple times. 
 
-* There may be assessed presentations
-* Together we will explore the relationship between the Greater East Asia War and Japan's wartime struggle to, well, make sense of its place in the world, in time, and bestow, in the midst of its fight, meaning on the project of empire and nation as a whole. 
+**Overview**
+
+* We will split this class in three: a discussion on the Tokyo War Crimes trials, a group exercise based on some treason trial documents provided to you the week before, and then a short lecture and broader discussion of the aftermaths of war more broadly across what was once the Japanese empire.
+* There may be presentations
 
 **Questions:**
 
-1. What does “overcoming modernity” mean and how did Japanese intellectuals believe it could be accomplished? 
-2. How are the debates we have examined here on modernity connected to and distinct from the broader story of Japanese imperialism?
+1. What make's Pal's dissenting opinion an unusual document for the age? What is left unsaid? What different ways can a document like the opinion be used?
+2. What are the biggest challenges to conducting a legal reckoning with the past in the aftermath of the war?
+3. What are some of the ways in which Japan's decolonization is unique among the major empires of the world?
+
+**Films of Interest:**
+
+* The Burmese Harp (1956)
+* Emperor (2012)
+* Pride (1998 - プライド 運命の瞬間)
+* Better Wishes for Tomorrow (2007 - 明日への遺言)
+* The Tokyo Trial (2006 东京审判)
+* Tokyo Trial (2016 mini-series)
+* Merdeka 17805 (2001)
+* Japan's Longest Day (1967 - 日本の一番長い日)
+* Under the Flag of the Rising Sun (1972 - 軍旗はためく下に)
+* Merah Putih (2009)
+* Spirits' Homecoming (2016 - 귀향)
 
 \pagebreak
 
-### Week 11 - Decolonisation and the Politics of Memory
+### Week 11 - The Politics of Memory
 
-**Primary Reading:** 47 pages
+**Primary Reading:** ~25 pages
 
-* SOURCES: 
+* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716): 
     * Part VII, Chapter 51, 1279-1281 Logic and Psychology of Ultranationalism - Maruyama
-    * Part VII, Chapter 51, 1283-1285  Ienaga Textbook Trials
+    * Part VII, Chapter 51, 1283-1285 Ienaga Textbook Trials
     * Part VII, Chapter 51, 1288-1290 Fujiwara Akira
     * Part VII, Chapter 51, 1290-1297 Kobayashi Yoshinori
     * Part VII, Chapter 51, 1306-1308 Arano Yasunori and Colleagues
-* Brook, *Documents on the Rape of Nanking* Dissenting Opinion of Radhabinod Pal, 269-298
+    * The reading in Victoria's *Zen Stories* below contains some extended primary source passages
 
-**Secondary Reading:** ~144 pages
+**Secondary Reading:** ~160 pages
 
+* Lee, Sung-Ae. “Remembering or Misremembering? Historicity and the Case of So Far from the Bamboo Grove.” *Children’s Literature in Education* 39, no. 2 (June 1, 2008): 85–93. 
 * Ching, Leo T. S. *Becoming Japanese: Colonial Taiwan and the Politics of Identity Formation*, 1-11 [Library ebook](http://dx.doi.org/10.1525/california/9780520225510.001.0001)
-* Morris-Suzuki, Tessa "Guarding the Borders of Japan: Occupation, Korean War and Frontier Controls" *Japan Focus* [Online](http://www.japanfocus.org/-Tessa-Morris_Suzuki/3490/article.html)
-* Dower, Embracing Defeat 485-508: What do you tell the dead when you lose? 547-564: Legacies
-* Jager, *Ruptured Histories* Carol Gluck "Comfort Women and the World" 47-77
-* Watt, Lori. “Embracing Defeat in Seoul: Rethinking Decolonization in Korea, 1945.” The Journal of Asian Studies 74, no. 01 (February 2015): 153–74
-* Totani, Yuma "The Case Against the Accused" Part 4 Ch. 11 in *Beyond Victor's Justice?: The Tokyo War Crimes Trial Revisited*, 147-162
+* Jager, *Ruptured Histories* Carol Gluck "Comfort Women and the World" pp47-77
+* Victoria, Brian Daizen *Zen at War*:
+    * Ch 7 Emergence of Imperial-Way Buddhism - Buddhism and War pp86-91
+    * Ch 8 Imperial-State Zen and Soldier Zen pp101-105
+    * Ch 10 Postwar Zen Response to Imperial Way Buddhism - Declarations of War Responsibility pp152-178
+* Victoria, Brian Daizen *Zen War Stories*:
+    * Ch 1 The Zen Master Wept pp3-16
+    * Ch 5 Zen Master Dōgen goes to war pp66-75
 
 **Further Reading:**
 
-* Bayly, Christopher, and Tim Harper. *Forgotten Armies: The Fall of British Asia, 1941-1945*
-* Bayly, Christopher, and Tim Harper. *Forgotten Wars: Freedom and Revolution in Southeast Asia*
-* Kushner, Barak. *Men to Devils, Devils to Men: Japanese War Crimes and Chinese Justice*
-* Shin, Gi-Wook, and Soon Won Park. *Rethinking Historical Injustice And Reconciliation in Northeast Asia: The Korean Experience*
-* Igarashi, Yoshikuni. *Bodies of Memory: Narratives of War in Postwar Japanese Culture, 1945-1970*
-* Hein, Laura, and Mark Selden. *Censoring History: Citizenship and Memory in Japan, Germany, and the United States*
-* Nozaki, Yoshiko. *War Memory, Nationalism and Education in Postwar Japan: The Japanese History Textbook Controversy and Ienaga Saburo’s Court Challenges*
-* Totani, Yuma. *The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II*
-* Futamura, Madoka. *War Crimes Tribunals and Transitional Justice: The Tokyo Trial and the Nuremburg Legacy*
-
-**Preparation:**
-
-* Your long essay is in. If you have struggled with the readings for this week, at least cover the primary sources well so that we can have a good set of discussions around them. 
+* Shin, Gi-Wook, and Soon Won Park. *Rethinking Historical Injustice And Reconciliation in Northeast Asia: The Korean Experience* (P)
+* Igarashi, Yoshikuni. *Bodies of Memory: Narratives of War in Postwar Japanese Culture, 1945-1970* (P)
+* Hein, Laura, and Mark Selden. *Censoring History: Citizenship and Memory in Japan, Germany, and the United States* (P)
+* Nozaki, Yoshiko. *War Memory, Nationalism and Education in Postwar Japan: The Japanese History Textbook Controversy and Ienaga Saburo’s Court Challenges* (P)
+* Seraphim, Franziska. *War Memory and Social Politics in Japan, 1945-2005*. Harvard University Press, 2008. (P)
+* Soh, C. Sarah. *The Comfort Women: Sexual Violence and Postcolonial Memory in Korea and Japan*. University of Chicago Press, 2009. (P)
+* Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories*. Routledge, 2011. (P)
 
 **Overview:**
 
 * There may be presentations
-* This week we will try to bring the course together. There is a lot of themes our readings give a taste of, and depending on your interests and the degree of your preparation, we will balance the discussion accordingly. 
+* This week we will examine some of the issues that have collectively come to be referred to as the "history problem" in Japan, including issues related to depictions of empire and war in textbooks and the similar rise of previously neglected voices in the 1980s and 1990s. 
+* What some of these better known issues don't capture well is how challenging the issue of war and empire is for institutions and communities all throughout Japan. Clubs, families, municipal governments, libraries, religious organizations etc. all have had there own challenges to face the long history of Japanese empire and war. In order to focus in a bit, we will examine one case study in more detail: the role of Zen buddhism. Victoria's readings give you both a look into Zen's relationship with the Japanese state during our period (though keep in mind, Zen buddhists have by no means a unique story to tell here), along with some of the postwar story of their confrontation (or lack of) with their contribution to Japanese empire and wartime expansion. 
 * We will set some time aside to review the handbook section on the final exam, discuss the plan for the review session next week, and strategies for preparing for the take-home exam.
+
+**Films of Interest:**
+
+* 2009: Lost Memories (2002 - 2009 로스트메모리즈)
+* Grave of the Fireflies (1988 - 火垂るの墓)
+* Yamato (2005 - 男たちの大和)
+* No Regrets for Our Youth (1946 - わが青春に悔いなし)
+* Godzilla (1954)
 
 

@@ -2,6 +2,8 @@
 
 The assessed portion of the coursework for this module consists of one long essay, a presentation, and two short essays. In addition, students are required to come prepared each week having completed the assigned reading and ready to discuss them.
 
+Note: Paper submissions are not requested for any of these. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by the beginning of class on the day of the presentation, but hard copies of this for the class should be brought for distribution to everyone.
+
 ### Headers and Formatting
 
 At the top of all your written work or on a cover page, please include:
@@ -9,7 +11,7 @@ At the top of all your written work or on a cover page, please include:
 * The date of submission
 * The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
 * Your student number
-* A specific title describing the contents
+* A specific title describing the contents (for short essay, write Prospectus and proposed essay title, or Critical Review and full text citation)
 * The total number of words (use the word count feature of your word processor)
 
 When formatting your assignments, please follow these guidelines:
@@ -33,11 +35,11 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 There are two short essays for this course which should be between 600-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
 
-1. **Prospectus:** You may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come or discuss how you will use certain sources, or what new approach you will take. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
+1. **Prospectus:** You may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. Write the prospectus as if the long essay is already written and complete and you are merely summarizing what it has accomplished. You can find these abstracts for academic presentations, for example, on the websites of annual conferences such as the AAS (Association of Asian Studies) meeting or countless other conferences. Article abstracts, another possible model,  are found at the beginning of articles of many journal articles. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic clearly along with a prospective argument for your essay, then write in a bit more detail about in greater depth discussing how you will use certain sources, what new approach you will take or what existing approaches you are hoping to contest. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way. Please note: your first prospectus may come very early in the semester, but still write confidently about a topic an argument even if you are not sure if you will actually able to follow through in the final essay or suspect you may have to change topics. 
 
 1. **Critical Review:** If you are not willing to write a prospectus, or if you have already submitted one prospectus and are happy with the feedback, you may instead write a critical review of one secondary source in the form of a book (which is a minimum of 150 pages in length) that you have selected to help you write your long essay. In it you should state clearly and briefly what the book argues and what you have extracted from it that will help you make the argument in your longer essay. Your critical review should include your evaluation of the work. What are its strong points? Where does it fall short? Include a full reference for the book at the top and you may make reference to page numbers within by means of simple page numbers in parentheses rather than full footnotes. When writing a critical review, consider using book reviews in major academic journals as your model. 
 
-You may decide to write one of each of these, or two versions of the prospectus. Writing two versions of the prospectus is recommended when you have significantly shifted the focus of your ideas for the long essay, or you have revised and improved your ideas on the basis of feedback and want to submit a significantly improved version. If the second prospectus does not mark a significant change in direction from your first, use the second prospectus to focus more on what you had too little space for in the first: more on the sources, on the course of your argument, on the examples you will be using, or the historiography you will be contesting or expanding upon. Please indicate at the top of your short essay which you are selecting, prospectus or critical review. 
+You may decide to write one of each of these, or two versions of the prospectus. Writing two versions of the prospectus is recommended when you have significantly shifted the focus of your ideas or completely changed topic for the long essay. You may not submit a second prospectus which is merely a slight revision of the first. Please mark at the top of your short essay which you are selecting, prospectus or critical review, and, in the former, include a title for the proposed long essay.
 
 Questions to consider as you write the short essay:
 
@@ -49,7 +51,7 @@ Questions to consider as you write the short essay:
 * If I am writing a prospectus have I situated the essay I am proposing to write in terms of the existing historiography?
 * If I am writing a prospectus, did I include some reference to the kinds of sources I will be using, or hope to use in making the argument?
 * If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
-* If I am writing a second prospectus, have I either shifted my focus or made significant and substantive revisions and improvements on the first prospectus? If not, have I used the second prospectus to expand on discussing my sources, my approach, or the context for my argument historiographically?
+* If I am writing a second prospectus, have I either shifted my focus or topic enough to merit a second prospectus?
 
 ### Long Essay
 
@@ -75,6 +77,8 @@ with something like:
 
 **Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to stay sharply focused on the argument you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
 
+Engaging with the historiography: What does this phrase mean? It means directly and explicitly acknowledging what historians have said about your topic and your specific question in existing work. Point out both positive contributions and problematic ones when appropriate. Who has worked on this before, and what specifically have they argued? See your essay as part of a larger conversation (it doesn't necessarily have to be an adversarial one) that includes previous historians.
+
 Some other questions to ask yourself as you write the long essay:
 
 * Does the essay have a clear introduction which articulates the argument I wish to make in the essay? Does it move beyond telling the reader what the essay is "about" and what the essay "will do" to tell the reader very clearly what *has been accomplished* in the essay and *what be specifically shown* in the essay, and not leave this only for the conclusion?
@@ -84,6 +88,7 @@ Some other questions to ask yourself as you write the long essay:
 * Does the essay avoid long quotations from secondary works whenever possible? Do I instead summarise, without plagiarising, and cite the work of secondary work except when the particular wording or language is key to the argument I wish to make?
 * Have I cited with footnotes all claims that are not a well-known and general historical fact.
 * Have I used a variety of appropriate sources?
+* Have I avoided using phrases like "many historians argue" or "much scholarship" or "it is often argued" and offer specific examples and citations?
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
 * Have I gone back and considered my major claims from a critical perspective, and answered any major possible weaknesses in my essay?
@@ -132,7 +137,7 @@ The points that follow should be fairly clear from the questions posed above but
 - The essay shows that extensive reading and research was done in order to write this essay. 
 - The School of History Style Guide was carefully followed.
 - A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate quality and number.
-- Evidence is well cited in the footnotes and the footnotes are generally formatted well. 
+- The essay consistently cites its sources with footnotes and these footnotes are generally formatted well. 
 - This essay employs evidence based on its sources in an effective manner.
 - Unless it is a historiographical essay, the essay works with primary sources which make a substantive contribution to its main argument.
 - The essay engages with the relevant historiography on this topic directly and effectively
@@ -141,19 +146,15 @@ The points that follow should be fairly clear from the questions posed above but
 
 ### Online Submission
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are welcome and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
-
-If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. Paper copies do not need to be submitted: let's save paper. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
 
 ### Feedback
 
-General feedback is provided directly on the mark sheet, which will be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
+Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (2 weeks). Presentations, however, are marked in bundles with feedback out at the end of week 5 and week 11. If you submit your essay as a .doc, .docx, (Word) or .odt (Open Office) file, additional minor feedback notes, especially on the long essay and final exam, will be found using the comment feature in the margin of your submitted file as posted on MMS. 
 
 ### Presentation
 
 Being able to synthesise reading, and present ideas in class is a key skill. In our module this will take the form of serving as a guide to a text, a role that is not formally assessed, and a formally assessed longer presentation. 
-
-**Text Guide:** Each week, two students will serve in the role as a guide to one of the assigned or supplementary readings. Most students will get a chance to do this twice. Some weeks I will ask that certain texts be chosen, while for others, a choice will be given. The "text guide" does not give a formal presentation but may be called upon to answer questions about the text in some detail and to have a deeper familiarity with that particular reading. Also, although not assessed, please bring a handout no longer than a single piece of paper front and back (or emailing one to the tutor for distribution at least the day before class) which may include some general summary points, dates, terms, notes, or reference information about the text. Since there is no guarantee the student will be asked to comment on the text, this handout is also a good way to demonstrate your extra preparation. The guide should ideally have done at least a little bit of background research on the author and general context of the issue covered by the text, and generally serve as a "go-to" person when the discussion moves in the direction of the text. Sometimes, the text guide will be asked to summarize key arguments, offer a critique, or otherwise comment during class. Occasionally, the student's guidance will not be explicitly requested but their handout can serve to help everyone. Please email the handout to the tutor and copy/paste the handout into the class collaborative notes document. Bringing a paper copy for distribution would also be very welcome, especially if you completed the handout only minutes or hours before class. 
 
 **Assessed Presentation:** The assessed presentation should be 10 minutes in length and not a minute longer. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the text, and make 1-3 focused critiques or observations about the read material. It is not a detailed summary of the content: it should highlight the arguments, strengths and set the context. A supplementary handout (one piece of paper front and back at most) should be brought that includes some bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please bring copies of the handout to class but also add (or link) the handout text to the class collaborative notes document. When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
 
