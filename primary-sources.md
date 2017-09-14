@@ -42,7 +42,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * Digitized version of "The Nation's Friend" (Japanese).
 * [Chinese Women's Magazines in the Late Qing and Early Republican Period (Chinese)](http://womag.uni-hd.de)
 * [Xiaobao - Chinese Entertainment Newspapers (Chinese)](http://xiaobao.uni-hd.de)
-* [Funü Zazhi - Chinese women's magazine (Chinese)](http://140.109.152.25/fnzz/index.htm)
+* [Funü Zazhi - Chinese women's magazine (Chinese)](http://kjc-sv013.kjc.uni-heidelberg.de/frauenzeitschriften/public/magazine/issue.php?magazin_id=4)
 * [Ling Long Magazine (Chinese)](http://www.columbia.edu/cu/lweb/digital/collections/linglong/)
 * [Korean Historical Newspapers (Korean)](http://www.koreanhistory.or.kr/newsPaper.do)
 * [PRCHistory.org Archive of Journals Remembrance and Yesterday](http://prchistory.org)
@@ -114,6 +114,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Gallica](http://gallica.bnf.fr/) (French)
     * National Library of France has digitised a huge amount of materials, including a wide range of materials, memoirs, books, images, related to East Asia and Indochina.
 
+
 ### Propaganda, Posters, and Pamphlets
 
 * [Chinese Propaganda Poster Collection](http://chineseposters.net/index.php)
@@ -121,6 +122,9 @@ Below are a selection of potential starting points for primary sources relevant 
     * from early People's Republic of China - browse by subject, may not show all pamphlets in browse mode
 * [Korean War Propaganda Leaflets](http://faculty.kirkwood.edu/ryost/koreanleaflets.html)
 * [Korean War Propaganda Digial Horizons](http://www.digitalhorizonsonline.org/cdm/landingpage/collection/ndsu-korea)
+* Scanned propaganda at the US Naval Academy Nimitz Library:
+    * [American Propaganda in Japan](http://cdm16099.contentdm.oclc.org/cdm/landingpage/collection/p16099coll2)
+    * [Japanese Propaganda in the Philippines](http://cdm16099.contentdm.oclc.org/cdm/landingpage/collection/p16099coll3)
 
 ### Photographs, Postcards, Films
 
@@ -225,6 +229,14 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japan Air Raids Historical Archive](http://www.japanairraids.org/)
 * [ジャパンアーカイブズ1850-2100](https://jaa2100.org/index.html)
 
+* Satow, Ernest Mason. *A Diplomat in Japan: An Inner History of the Critical Years in the Evolution of Japan.* Rutland, VT: Charles E. Tuttle Company, 1983.
+* Cortazzi, Hugh. *Victorians in Japan: In and around the Treaty Ports*. London ; Atlantic Highlands, NJ: Athlone Press, 1987.
+* Holme, Charles, Toni Huberman, Sonia Ashmore, Emma Lasenby Liberty, and Yasuko Suga. *The Diary of Charles Holme’s 1889 Visit to Japan and Northamerica: With Mrs Lazenby Liberty’s Japan: A Pictorial Record*. Folkestone, UK: Global Oriental Ltd, 2008.
+* Heisig, James W., Thomas P. Kasulis, and John C. Maraldo, eds. *Japanese Philosophy: A Sourcebook. Nanzan Library of Asian Religion and Culture*. Honolulu: University of Hawaiʻi Press, 2011.
+* This is a wonderful series of volumes in our library containing books on Japan, thus serving as contemporary primary sources of a sort, and a separate series of books with pamphlets and press articles from 1906-1948:
+    * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda in East Asia. Series 1, Books* ; a Collection in Ten Volumes. Folkestone, Kent : Tokyo, Japan: Global Orient ; Edition Synapse, 2008.
+    * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda and the Communist Menace in East Asia. Series 2, Pamphlets and Press*: A Collection in 10 Volumes. Folkestone, Kent : Tokyo: Global Oriental ; Edition Synapse, 2011.
+
 #### Korea
 
 * [Korean National Archives (Korean)](http://www.archives.go.kr/next/viewMain.do)
@@ -273,6 +285,10 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
 * [International Dunhuang Project: The Silk Road Online](http://idp.bl.uk/)
 * [Yale Nanjing Massacre Archival Project](http://web.library.yale.edu/divinity/nanking)
+
+* Kuo Sung-t’ao, Liu Hsi-hung, Chang Te-yi, and John David Frodsham, eds. *The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi*. Oxford: Clarendon Press, 1974.
+* The works of Mao Zedong: When citing his writings avoid the occasionally problematic [online marxists.org version](https://www.marxists.org/chinese/maozedong/index.htm) and use the series collection of his works found in the library: Mao, Tse-tung, and Stuart R. Schram. *Mao’s Road to Power:  Revolutionary Writings, 1912-1949* Armonk NY: M.E. Sharpe, 1992.
+
 
 ### See Me
 
