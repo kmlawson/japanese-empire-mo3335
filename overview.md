@@ -4,7 +4,7 @@
 ## Overview
 
 0. 15.9 **Introduction: Japanese History and the Transitions of the 19th Century**
-1. 19.9 **Entering the World Stage and Building and Empire**
+1. 19.9 **Entering the World Stage and Building an Empire**
 2. 26.9 **Authority, Ethnography, and Assimilation**
 3. 03.10 **The Idea of Colonial Modernity and its Distortions**
 4. 10.10 **Settler Colonialism and Migration in the Empire**
@@ -13,8 +13,8 @@
 7. 31.10 **The Sino-Japanese Conflict and the Kōminka Movement**
 8. 07.11 **The Empire in Southeast Asia and Dying for the Emperor**
 9. 14.11 **Long Essay Discussion and Pair Writing**
-10. 21.11 **The Anti-Empire, and Overcoming Modernity**
-11. 28.11 **Decolonisation and the Politics of Memory**
+10. 21.11 **The Aftermaths of War and Decolonisation**
+11. 28.11 **The Politics of Memory**
 12. 05.12 **Revision Session**
 
 ### Key Details
@@ -31,7 +31,7 @@ This module traces the history and contradictions of Japan's empire from the fir
 
 **60% Coursework**  
 2 Short Essays (600-800 Words 15% each of coursework) - Thursday of Week 3 5pm; Thursday of Week 7 5pm
-Long Essay (5,000 Words 30% of coursework) - Thursday of Week 11 5pm   
+Long Essay (5,000 Words 50% of coursework) - Thursday of Week 11 5pm   
 Presentation (20% of coursework)
 
 **40% Exam**  

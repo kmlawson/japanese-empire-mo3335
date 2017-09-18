@@ -306,6 +306,7 @@ Abbreviations for readings:
 
 **Films of Interest:**
 
+* Anarchist From Colony (박열 2017)
 * City of Sadness (悲情城市 1989)
 * Blue Swallow (청연 2005)
 * Rikidōzan (역도산 2004)
