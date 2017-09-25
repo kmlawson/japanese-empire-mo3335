@@ -125,7 +125,7 @@ Abbreviations for readings:
 
 **Secondary Source Reading:** 143 pages
 
-* Robinson, *Korea's Twentieth-century Odyssey*, Ch 2 Colonial State and Society, 36-75 [Library ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
+* Robinson, *Korea's Twentieth-century Odyssey*, Ch 2 Colonial State and Society, Ch 3 Class and Nation in Colonial Korea 36-75 [Library ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
 * Tierney, selection from "From Taming Savages to Going Native" *Tropics of Savagery*, 38-63 [Library ebook](http://dx.doi.org/10.1525/california/9780520265783.001.0001)
 * Atkins, selection from "Ethnography as Self-Reflection: Japanese Anthropology in Colonial Korea" *Primitive Selves*, 59-74, 96-101 [Library ebook](http://dx.doi.org/10.1525/california/9780520266735.001.0001)
 * Caprio, *Japanese Assimilation Policies in Korea*, 81-140: Ch 3-4
