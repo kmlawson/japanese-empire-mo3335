@@ -2,6 +2,35 @@
 
 Here I list some of the significant changes in this module over the years, after the module was first offered spring of 2014.
 
+## Fall 2018
+
+* MAJOR: shift in assessments and weightings to conform with new School of History guidelines for coursework loads
+* MAJOR: I have removed the pair writing and essay discussion week in order to declutter some of the other weeks that were split between multiple topics.
+* added sleep section and moodle research diary info
+* refined readings
+
+## Fall 2017
+
+* added ideas for long essays to most weeks
+* tweaked readings throughout, especially primary sources
+* average reading pages per week crept up again to around 220
+* MAJOR: eliminated overcoming modernity week 10 and replaced it with week dedicated to early aftermaths of war and war crimes trials
+
+
+## Fall 2016
+
+* changed presentations to 10 minutes instead of 15
+* refined suggestions for research
+* refined instructions for text guide
+* refined instructions for presentations
+* refined exam instructions
+* refined laptop policies
+
+## 2016.1 ##
+
+* shifted from unassessed short presentation to "text guide" role
+* removed marking table and referred to website
+
 ## Fall 2015
 
 * reduced the total amount of reading from an average of 250 pages to 200 pages or less per week average of required reading. 
@@ -17,27 +46,6 @@ Here I list some of the significant changes in this module over the years, after
 * Consolidated two of the colonialism weeks in order to make room for a new week on:
 * added a week on "Imperial innovation in Manchuria"
 * made adjustments to the assigned readings throughout all weeks
-
-## 2016.1 ##
-
-* shifted from unassessed short presentation to "text guide" role
-* removed marking table and referred to website
-
-## Fall 2016
-
-* changed presentations to 10 minutes instead of 15
-* refined suggestions for research
-* refined instructions for text guide
-* refined instructions for presentations
-* refined exam instructions
-* refined laptop policies
-
-## Fall 2017
-
-* added ideas for long essays to most weeks
-* tweaked readings throughout, especially primary sources
-* average reading pages per week crept up again to around 220
-* MAJOR: eliminated overcoming modernity week 10 and replaced it with week dedicated to early aftermaths of war and war crimes trials
 
 ## Ideas for Future Changes
 

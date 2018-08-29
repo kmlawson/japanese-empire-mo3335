@@ -20,6 +20,8 @@ The official School of Histories penalties for late work and short/long work are
 
 [http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html](http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html)
 
+**Please Note**: In this module you will not be penalised for a *long essay* that goes over the requested word range but is less than 10,000 words. This exception applies **only** to the long essay. Having dedicated a semester to your project, some students find that they wish to compose an essay that begins to approach or even reaches the length of a typical academic article (they are typically 8-10,000). While that is certainly not required or recommended, nor is it necessarily a good way to aim for a high mark, but I will not let our word limit stand in the way of a potentially well-developed longer student essay. 
+
 **Absence from Classes**
 
 Please see this document for more on Student Absence:

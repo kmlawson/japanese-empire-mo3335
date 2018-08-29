@@ -23,13 +23,13 @@ Below are some of the major dates relevant to this course, mostly limited to pol
 * 1912 - Death of Meiji emperor, Taishō period beings
 * 1914-1918 - Japan fights in WWI as one of the Allies
 * 1915, Jan - Japan Issues the 21 Demands to China
+* 1919 - South Pacific Mandate granted to Japan by the League of Nations
 * 1919, Mar - March First Movement for independence in Korea
 * 1919, May - May Fourth movement and anti-Japanese protests in China
 * 1923 - Great Kantō earthquake in Japan, leading to slaughter of minorities
 * 1925 - Universal suffrage and Peace Preservation Act in Japan
 * 1926 - Death of Taishō emperor, Shōwa period begins under Hirohito
 * 1928 - Japanese assasination of major Chinese warlord Zhang Zuolin
-* 1930 - Japan experiences deep deflation
 * 1931, Sep - The Japanese Invasion of Manchuria
 * 1932, Mar - Manchukuo (Manzhouguo) proclaimed independent state
 * 1933 - Japan withdraws from the League of Nations 
