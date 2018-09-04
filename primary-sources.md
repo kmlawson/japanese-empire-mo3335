@@ -365,6 +365,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Yale Nanjing Massacre Archival Project](http://web.library.yale.edu/divinity/nanking)
 * [Ailing Zhang (Eileen Chang) Papers](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll92) at USC
 * [*Three Years' Wanderings in the Northern Provinces of China*](http://www.gutenberg.org/ebooks/54720) by Robert Fortune (1847)
+* [*Memoirs of Father Ripa, during thirteen years' residence at the court of Peking in the service of the emperor of China; with an account of the foundation of the college for the education of young Chinese at Naples*](https://catalog.hathitrust.org/Record/006530711) (1849)
 * [*China and the Chinese*](http://www.gutenberg.org/ebooks/18021) by Herbert Allen Giles (1902)
 * [*A Tale of Red Pekin*](http://www.gutenberg.org/ebooks/41951) by Constancia Serjeant (1902)
 * [*With the Allies to Pekin: A Tale of the Relief of the Legations*](http://www.gutenberg.org/ebooks/47008) by G. A. Henty (1904)

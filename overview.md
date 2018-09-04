@@ -20,7 +20,7 @@
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Meets:** Fall, 2018 - Tue 13:00-15:00 **Location:** St Katharine's Lodge 1.10  
-**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 15:00-16:00
+**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 15:00-16:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
 

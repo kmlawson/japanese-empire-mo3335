@@ -593,7 +593,7 @@ Abbreviations for readings:
 * Brook, *Documents on the Rape of Nanking* Dissenting Opinion of Radhabinod Pal, 269-298
 * Selections of treason trial documents (will be provided in class) 
 
-**Secondary Reading: **
+**Secondary Reading:**
 
 * Morris-Suzuki, Tessa "Guarding the Borders of Japan: Occupation, Korean War and Frontier Controls" *Japan Focus* [Online](http://www.japanfocus.org/-Tessa-Morris_Suzuki/3490/article.html)
 * Totani, Yuma "The Case Against the Accused" Part 4 Ch. 11 in *Beyond Victor's Justice?: The Tokyo War Crimes Trial Revisited*, 147-162
