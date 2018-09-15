@@ -35,7 +35,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [XXth Century 1941-1945](http://library.manoa.hawaii.edu/departments/russian/xxth.php)
     * unusual magazine from Japanese occupied Shanghai
 * [Australian Historical Newspaper Archive](http://trove.nla.gov.au/newspaper)
-* [明六雑誌 1874-5](http://db3.ninjal.ac.jp/ninjaldl/bunken.php?title=meirokuzassi) 
+* [明六雑誌 1874-5](http://db3.ninjal.ac.jp/ninjaldl/bunken.php?title=meirokuzassi)
     * Digitized version of the famous Meiji period journal (Japanese)
 * [国民之友 1887-8](http://dglb01.ninjal.ac.jp/ninjaldl/bunken.php?title=kokuminnotomo)
 * [満州技術協会誌](http://www.aij.or.jp/da1/senzen/senzen.html)
@@ -51,7 +51,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * Digital collection of historical journals and other materials related to women's university education in Japan. (Japanese)
 * [Puka Puka Parade](http://evols.library.manoa.hawaii.edu/handle/10524/11835)
     * Post 1945 Newsletter of 100th Infantry Battalion of Japanese-American veterans
-* [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t) 
+* [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t)
 * [Press Translations, Japan 1945-1946](http://www.dartmouth.edu/~library/digital/collections/manuscripts/jpt/index.html?mswitch-redir=classic)
 * [Kobe University Newspaper Clippings Archive (Japanese)](http://www.lib.kobe-u.ac.jp/sinbun/e-index.html)
 * [Hsinhua News Agency 1977-Present (Nexis UK)](http://library.st-andrews.ac.uk/record=b1670850~S5)
@@ -90,7 +90,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * Missionary Correspondence and Journals
 * *Annual Report of the Minister of State for Education* - Japanese education ministry reports volumes often on Archive.org
 * *Japan in the Beginning of the 20th Century* - Government reports available in several volumes on Archive.org
-* *An Official Guide to Eastern Asia* - Japanese railroads office produced guides going back to early 20th century. Volumes available on Archive.org
+* *An Official Guide to Eastern Asia* - Five volumes. Japanese railroads office produced guides going back to early 20th century. Volumes available on Archive.org
 * *Annual report on reforms and progress in Chosen* - Japanese colonial reports on Korea 1911-1923. Search for this title on [HeinOnline](https://heinonline.org/HOL/Index?collection=cow), some years available on Archive.org.
 * *Annual Reports to the League of Nations on the Administration of the South Sea Islands under Japanese Mandate* - Japanese reports to the League on its rule over former German controlled territories in the Pacific. Many volumes of these reports available on Archive.org but the titles are not accurately produced, search for Annual Reports, League, Micronesia, etc. to get more hits.
 * Burma, *The Struggle for Independence, 1944-1948: Documents from Official and Private Sources*
@@ -124,7 +124,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * http://digitalcollections.qub.ac.uk/site/hart-diaries/diaries/show_vol.php?v=31
     * http://gis.rchss.sinica.edu.tw/cmcs/collections-at-academia-sinica/the-diaries-of-sir-robert-hart
     * http://cdm15979.contentdm.oclc.org/cdm/landingpage/collection/p15979coll2
-* [Joseph Berry Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html) - Important primary sources from war crimes trials and early postwar Japan. 
+* [Joseph Berry Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html) - Important primary sources from war crimes trials and early postwar Japan.
 * [Ming Qing Women's Writings](http://digital.library.mcgill.ca/mingqing/chinese/)
     * Digitised Chinese works by women from Ming and Qing dynasties (Chinese)
 * [National Taiwan University Open Access Books](http://ebooks.lib.ntu.edu.tw/Home/ListBooks) (Chinese)
@@ -224,7 +224,7 @@ Below are a selection of potential starting points for primary sources relevant 
 
 ### Other
 
-* [Voices of Civil Internment: WWII Singapore](https://cudl.lib.cam.ac.uk/collections/civilianinternment) - The Royal Commonwealth Society Collection at Cambridge University Library has digitised the archives of two Second World War civilian internment camps 
+* [Voices of Civil Internment: WWII Singapore](https://cudl.lib.cam.ac.uk/collections/civilianinternment) - The Royal Commonwealth Society Collection at Cambridge University Library has digitised the archives of two Second World War civilian internment camps
 * [Public Library of India](https://archive.org/details/digitallibraryindia) - Archive.org hosted collection of scanned materials, includes many scanned books related to East Asia
 * [Digital Bodleian](http://digital.bodleian.ox.ac.uk/)
 * [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
@@ -279,6 +279,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [*My Japanese Wife*](http://www.gutenberg.org/ebooks/57167) by Clive Holland (1895)
 * [*The Gist of Japan: The Islands, Their People, and Missions*](http://www.gutenberg.org/ebooks/42304) by R. B. Peery
 * [*Japanese Girls and Women*](http://www.gutenberg.org/ebooks/32449) by Alice Mabel Bacon (1891)
+* [*Things Japanese: Being Notes on Various Subjects Connected with Japan for the Use of Travellers and Others*](https://archive.org/details/in.ernet.dli.2015.100137) by Basil Hall Chamberlain (1902)
 * [*Kobo: A Story of the Russo-Japanese War*](http://www.gutenberg.org/ebooks/44316) by Herbert Strang (1905)
 * [*A Journal from Japan: A Daily Record of Life as Seen by a Scientist*](http://www.gutenberg.org/ebooks/44475) by Marie Stopes (1910)
 * [*The Shinto Cult: A Christian Study of the Ancient Religion of Japan*](http://www.gutenberg.org/ebooks/42747) by Milton Terry (1910)
@@ -289,6 +290,9 @@ Below are a selection of potential starting points for primary sources relevant 
 * This is a wonderful series of volumes in our library containing books on Japan, thus serving as contemporary primary sources of a sort, and a separate series of books with pamphlets and press articles from 1906-1948:
     * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda in East Asia. Series 1, Books* ; a Collection in Ten Volumes. Folkestone, Kent : Tokyo, Japan: Global Orient ; Edition Synapse, 2008.
     * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda and the Communist Menace in East Asia. Series 2, Pamphlets and Press*: A Collection in 10 Volumes. Folkestone, Kent : Tokyo: Global Oriental ; Edition Synapse, 2011.
+* [Pocket Guide to Japan (1926)](https://ndlonline.ndl.go.jp/#!/detail/R300000001-I000007403832-00)
+* [Pocket Guide to Japan (1935)](https://archive.org/details/in.ernet.dli.2015.142604)
+
 
 #### Korea
 
@@ -313,6 +317,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [*Our Little Korean Cousin*](http://www.gutenberg.org/ebooks/12048) by H. Lee M. Pike (1905)
 * [*Korea's Fight for Freedom*](http://www.gutenberg.org/ebooks/13368) by Fred A. McKenzie (1920)
 * [*Quaint Korea*](http://www.gutenberg.org/ebooks/56623) by Louise Jordan Miln (1895)
+* [*The Case of Korea: A Collection of Evidence on the Japanese Domination of Korea*](https://archive.org/details/caseofkoreacolle00chun) by Henry Chung (1921)
 
 #### Taiwan
 
@@ -337,7 +342,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [*Sketches from Formosa*](https://archive.org/details/sketchesfromtaiw00camprich) by W. Campbell (1915)
 * [*Among the head-hunters of Formosa*](https://archive.org/details/amongtheheadhunt53746gut) by Janet McGovern (1922) - raw text on [Project Gutenberg](http://www.gutenberg.org/ebooks/53746)
 * [*The call of the East; a romance of far Formosa*](https://babel.hathitrust.org/cgi/pt?id=nyp.33433074854641;view=1up;seq=11) by James Davidson (1902) also on [PG](http://www.gutenberg.org/ebooks/45061)
- by Thurlow Fraser 
+ by Thurlow Fraser
 * *Formosa Today: An Analysis of the Economic Development and Strategic Importance of Japan's Tropical Colony* Andrew J. Grajdanzev (1943)
 * *Fireproof moth : a missionary in Taiwan's white terror* (in library)
 * [The heathen heart : an account of the reception of the gospel among the Chinese of Formosa](https://babel.hathitrust.org/cgi/pt?id=mdp.39015024219779) by Campbell N. Moody (1907)
@@ -448,4 +453,3 @@ Below are a selection of potential starting points for primary sources relevant 
 
 
 * Please get in touch if you find that this list contains any dead links, or you wish to suggest an addition
-
