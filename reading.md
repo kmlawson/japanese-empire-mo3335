@@ -1,7 +1,3 @@
-## Moodle
-
-We have a Moodle installation for the module. It can be found linked to from the MMS for our module. You can signup for your presentation week (or update it if you are switching with someone) on the Moodle, and occasionally will be asked to post on a forum that is hosted there. It may also be used for other formative assessment tasks during the semester as needed. The most important use of this forum will be in the form of a research diary (required) and as a place for you to (optionally) share your prospectuses to get peer feedback. The research diary entries include a paragraph where you talk about what progress you have made in the research process, both successes and frustrations. You also update your topic, argument, and main sources that you are using there as the semester goes along. You also will be asked to post (required) a constructive comment on at least one other student posting.
-
 ## Reading
 
 Weekly average pages of required reading: 180-250
@@ -10,12 +6,11 @@ This honours module is by no means an easy one. The fact that the module is on E
 
 A work load of fifteen to eighteen hours a week (some weeks you may need a few more, some weeks less) outside of seminar is expected. Of this, you should expect your weekly preparation for class in terms of reading to be 7-12 hours in all weeks except the consolidation week and pair writing week, together with 5-8 hours of work on your assignments and research, especially for the long essay. I urge you to spread the load of your work on assignments across the weeks, to prevent stress towards the end of the semester.
 
-Your weekly reading will usually consist of 180-250 pages of required reading, plus some reading that you should select from the further reading, or other supplementary reading chosen by yourself to address content you may have trouble understanding or to boost your knowledge if it is related to your long essay research. Thus, working on an estimate of 250 pages a week total is a safe bet, or, at roughly 30 pages an hour (taking some limited notes), about 8.5 hours.
+Your weekly reading will usually consist of 150-250 pages of required reading, plus some reading that you should select from the further reading, or other supplementary reading chosen by yourself to address content you may have trouble understanding or to boost your knowledge if it is related to your long essay research. Thus, working on an estimate of 250 pages a week total is a safe bet, or, at roughly 30 pages an hour (taking some limited notes), about 8.5 hours.
 
 It is not wise to do your reading in a single sitting, as your concentration will fade, so I suggest you split the readings into two or three, and read them across several days. Give yourself more time for the primary sources vs the secondary sources relative to their length to allow you to pay especially close attention to language and detail in the former. I would recommend that you try to "timebox" the readings, giving yourself a fixed period of time for any given reading and, if it looks unlikely that you will have time to read something carefully, skim it with general notes on the main arguments, events, and issues, as necessary.  This is especially useful in weeks when you need to limit your reading preparation time in order to work more on your research for the long essay.
 
-You may find the readings on short loan in the library or in some cases in scanned versions or in digital databases online.
-
+You may find the readings as ebooks, on short loan in the library or in some cases in scanned versions or in digital databases online. We won't be relying on a Talis online list this semester.
 
 ## Sleep
 

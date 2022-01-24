@@ -10,9 +10,37 @@ Abbreviations for readings:
 * SOURCES: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716)
 * MASON: Mason, Michele, and Helen Lee, eds. *Reading Colonial Japan: Text, Context, and Critique* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030)
 
-### Week 2 - Entering the World Stage and Building an Empire 
+### Week 0 - Introductions: Japanese History and the Transitions of the 19th Century
 
-**Background Reading:** GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
+**Reading:** 
+
+* If you can find the time, please read: GORDON Ch 4-12 (p48-223, 175 pages) 
+    * *What to Look For*: These chapters, from a survey history of modern Japan, will be crucial for you to get the broad historical sweep for the course. Given the thematic emphasis of this course and its focus on empire, much of what is in this reading is the only reading you will have that covers some of the domestic developments in Japanese history and the only time that you will have a strictly chronological overview. If you have never studied East Asian or specifically Japanese history before, I would urge you to read this twice, once at the beginning of the semester, and again during the mid-semester break.
+    * I would tackle the reading in two or three sessions and read these pages closely, and take good notes to refer to throughout the semester. How long did it take you to read these 175 pages closely, taking good notes along the way? Perhaps 8-12 hours? Make a note of this as your "slow rate" - some texts during the semester will require this slow reading to fully absorb them well, and others can be read or skimmed much faster (perhaps 50 pages an hour or more?) as you search for the main arguments, closely read a few of the difficult theoretical sections, make note of key case studies and evidence, and skim over sections you think are less relevant. This is the key to managing reading of 150-250 pages a week while working on your long essay research.
+
+**Preparation:**
+
+* Those of you who joined the course late or for any other reason were not able to attend this first meeting, please still be aware of the need to read the Gordon material during the course of the semester.
+* I would urge students to purchase your own copy of Andrew Gordon's *A Modern History of Japan: From Tokugawa Times to the Present*. The most recent edition is best, but any edition will suffice. It serves as a concise and useful survey of Japanese history in general, as opposed to the empire in particular, and therefore will serve as a good reference for grounding yourself in the broader national narrative of the imperial metropole. 
+* Bring a list of at least three themes or general areas related to the history of Japanese empire that interest you and be prepared to say something about why you find them interesting
+* Be ready to share some thoughts on how a module on Japanese empire might differ from a module entitled, for example, 'Modern Japanese History'
+* You will spend a significant portion of time during this semester working on your own original research essay: bring at least 2 ideas of broad areas that interest you for possible research on. They don't need to be limited to Japan as a geographic location but can be a theme, or a kind of source.
+* Look at the readings for each of the weeks ahead and read the handbook section on presentations. 
+* Sign up to do a presentation between week 1 and week 11. This can be done on the module mooodle wiki. A maximum of two people may present in any given week. You may change weeks for the assessed presentation in the future but only if you make an arrangement to switch with someone and they agree. You do not need to contact me about this change, but it must be indicated on our online class presentation schedule.
+
+
+**Overview:**
+
+* Our first meeting will talk about the relationship between studying the history of Japan, and the history of Japanese empire. 
+* Everything you need to know about the module can be found in this handbook, but we'll use this meeting to discuss some of these features and give you a chance to ask for clarification. We will discuss the assignments, and particularly emphasise the importance of beginning early and working consistently on your long essay. I will explain what the expectations are and urge you to make good use of this handbook which offers a lot of detailed advice. 
+* We will discuss the format of the final examination, and share tips for how to deal with the reading load from week to week. 
+* We will discuss the collective notes and how it has helped students in past iterations of this module. 
+* We will sign up for presentations.
+* Finally, we will also have a chance to get to know each other a bit better.
+
+\pagebreak
+
+### Week 1 - Entering the World Stage and Building an Empire 
 
 **Primary Source Reading:** ~30 pages
 
@@ -23,36 +51,29 @@ Abbreviations for readings:
     * Ch 38: Nakamura Masanao: China Should Not Be Despised; Japan’s Debt to China
     * Ch 41: Tokutomi Sohō: A Japanese Nationalist's View of the West and Asia
     * Ch 45: Konoe Fumimaro: Against a Pacificism Centered on England and America
-    * Fukuzawa Yukichi - "Good-bye Asia" (see Teams Files)
+    * Fukuzawa Yukichi - "Good-bye Asia" 
 
-**Secondary Source Reading:** 
+**Secondary Source Reading:** ~150 pages
 
 * Beasley *Japanese Imperialism* Ch 4-7 (60 pages) [Library ebook](http://dx.doi.org/10.1093/acprof:oso/9780198221685.001.0001)
     * "Intervention in Korea, 1894-5, Peace Settlement with China 1894-6", "New Imperialism and the War with Russia 1895-1905", "Formal and Informal Empire in North-East Asia, 1905-1910"
     * This is a survey text but will help deepen your understanding of the events. Compare this with your reading of GORDON for the same period.
+* Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291) (P)
+* Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910” (25 pages) [Online](http://ahr.oxfordjournals.org/content/118/1/20.extract)
 * Please read and view carefully one of the following three MIT Visualizing Cultures exhibits, each of which has several sub-pages:
     * [Throwing Off Asia I: Westernization](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_vis_01.html))
     * [Throwing Off Asia II: Sino-Japanese War 1894-5](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_vis_01.html))
     * [Throwing Off Asia III: Russo-Japanese War Woodblock Prints](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_03/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_03/toa_vis_01.html))
     * [Yellow Promise/Yellow Peril](http://ocw.mit.edu/ans7870/21f/21f.027/yellow_promise_yellow_peril/yp_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/yellow_promise_yellow_peril/yp_visnav01.html))
 
-**Elective Reading:** 
-
-- A: Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291) (P)
-- B: Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910” (25 pages) [Online](http://ahr.oxfordjournals.org/content/118/1/20.extract)
-- C: Fukuzawa, Yukichi. *An Outline of a Theory of Civilization.* [Library Ebook](https://library.st-andrews.ac.uk/record=b3129830~S5) Ch 2 pp17-43
-- D: Barclay, Paul D. *Outcasts of Empire: Japan’s Rule on Taiwan’s “Savage Border,” 1874-1945*. [Open Access](https://library.oapen.org/handle/20.500.12657/31091) Ch 1 "From Wet Diplomacy to Scorched Earth" pp43-113
-- E: Mizuno, Norihito. “Early Meiji Policies Towards the Ryukyus and the Taiwanese Aboriginal Territories.” *Modern Asian Studies* 43, no. 3 (May 2009): 683–739. [DOI](https://doi.org/10.1017/S0026749X07003034)
-- F: Kowner, *Impact of the Russo-Japanese War*, 1-26 [Library Ebook](http://library.st-andrews.ac.uk/record=b2004934~S5)
-- G: Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910* (P), Ch 1 The Korea Question pp29-65 (See Teams Files)
-
 **Further Reading:**
 
 * Lecture by John Dower on [Visualising the Russo-Japanese War](http://video.mit.edu/watch/john-dower-visualizing-the-russo-japanese-war-3512-11920/) (1hr)
-* Simon Partner, “Peasants into Citizens? The Meiji Village in the Russo-Japanese War,” *Monumenta Nipponica* 62, no. 2 (July 1, 2007): 179–209.
-* Wolff ed., *Russo-Japanese War in Global Perspective*, Hashimoto Yorimitsu, "White Hope or Yellow Peril?: Bushido, Britain, and the Raj", 379-403
+* Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910* (P)
     * This is a classic work now which goes into great depth on the lead up to annexation in Korea.
+* Kowner, *Impact of the Russo-Japanese War*, 1-26
 * Valliant, "The Selling of Japan", 415-438
+* Wolff ed., *Russo-Japanese War in Global Perspective*, Hashimoto Yorimitsu, "White Hope or Yellow Peril?: Bushido, Britain, and the Raj", 379-403
 * MASON p55-75 Ch 2: "Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
 * "Ainu Identity and the Meiji State" in David L. Howell, Geographies of Identity in Nineteenth-Century Japan 
 * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* Harvard University Press, 2009.  
@@ -62,6 +83,7 @@ Abbreviations for readings:
 * Rotem Kowner, ed., *The Impact of the Russo-Japanese War*, 1st ed. (Routledge, 2006).
 * David Wells and Sandra Wilson, *The Russo-Japanese War in Cultural Perspective, 1904-05* (Palgrave Macmillan, 1999).
 * Hyman Kublin, “The Japanese Socialists and the Russo-Japanese War,” *The Journal of Modern History* 22, no. 4 (December 1, 1950): 322–39.
+* Simon Partner, “Peasants into Citizens? The Meiji Village in the Russo-Japanese War,” *Monumenta Nipponica* 62, no. 2 (July 1, 2007): 179–209.
 * David Schimmelpenninck Van Der Oye, “Rewriting the Russo-Japanese War: A Centenary Retrospective,” *Russian Review* 67, no. 1 (January 2008): 78–87.
 * Caprio, Mark [Neo-Nationalist Interpretations of Japan's Annexation of Korea: The Colonization Debate in Japan and South Korea](http://www.japanfocus.org/-Mark-Caprio/3438/article.html)
 

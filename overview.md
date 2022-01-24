@@ -3,13 +3,12 @@
 
 ## Overview
 
-0. **Introduction: Japanese History and the Transitions of the 19th Century**
-1. **Entering the World Stage and Building an Empire**
-2. **Authority, Ethnography, and Assimilation**
-3. **The Idea of Colonial Modernity and its Distortions**
-4. **Settler Colonialism and Migration in the Empire**
-5. **Imperial Innovation in Manchuria**
-6. **Independent Learning Week** - No meeting
+1. **Introduction: Japanese History and the Transitions of the 19th Century**
+2. **Entering the World Stage and Building an Empire**
+3. **Authority, Ethnography, and Assimilation**
+4. **The Idea of Colonial Modernity and its Distortions**
+5. **Settler Colonialism and Migration in the Empire**
+6. **Imperial Innovation in Manchuria**
 7. **The Development of Pan-Asianism and the Kōminka Movement**
 8. **Japan's Invasion of China**
 9. **The Empire in Southeast Asia and Dying for the Emperor**
@@ -19,8 +18,9 @@
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2018 - Tue 13:00-15:00 **Location:** St Katharine's Lodge 1.10  
-**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 15:00-16:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
+**Meets:** Spring, 2022 - Thu 11:00-13:00  
+**Location:** Weeks 1, 2, 4, 5, 7-11 – Parliament Hall Wk 3 – Lower College Hall Wk 6 – CAC F2, John B Henderson Lecture Room   
+**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 9-12 (please sign up for a [time](https://goo.gl/Rh19wj) ) 
 
 ### Description	
 
@@ -28,14 +28,19 @@ This module traces the history and contradictions of Japan's empire from the fir
 
 ### Assessment Summary
 
-**60% Coursework**  
+**100% Coursework**
 
-5% Short Essay (500 words) - Due Monday Oct 15 before midnight  
-5% Presentation (5 minutes)  
-50% Long Essay (4,000-6,000 words) - Due Friday Nov 30 before midnight   
+50% Long Essay 5,000 Words   
+10% Long Essay Prospectus (500 Words), Argument, and Indicative Bibliography (2 Drafts)  
+10% Presentation (5 minutes)  
+30% 5 Reading Logs (2,500) and 5 Reading Handouts   
 
-**40% Exam**  
-Take-Home Examination - Date TBD, Answer 3 out of 6 Questions, 10 Hours, 3,000 words  
+**Deadline Dates**
+
+**14 Feb 23:59** - First Draft of Prospectus, Argument, and Indicative Bibliography - Post on Moodle  
+**07 Mar 23:59** - Revised Draft of Prospectus, Argument, and Indicative Bibliography - MMS submission  
+**07 April 23:59** - Reading Logs and Handouts - MMS submission  
+**14 Apr 23:59** - Long Essay Due - MMS submission  
 
 ### Learning Outcomes
 

@@ -1,0 +1,32 @@
+body {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font: large "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+h1 {
+	font: bold xx-large sans-serif;
+	color: #043986;
+}
+h2 {
+	font: bold x-large sans-serif;
+}
+h3 {
+	font: bold large sans-serif;
+	color: #3756a3;
+}
+p {
+	font: medium "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+a {
+	color: #052194;
+	text-decoration: underline;
+	font-weight: bold;
+}
+ul {
+	font-size: medium;
+	list-style-type: circle;
+}
+li {
+	margin-top: 15px;
+}

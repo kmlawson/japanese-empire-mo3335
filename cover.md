@@ -1,6 +1,6 @@
 % MO3335: The Japanese Empire and its Aftermath, 1873-1952
 % Tutor: Konrad M. Lawson
-% Fall, 2018
+% Spring, 2022
 
 \begin{center}
 
