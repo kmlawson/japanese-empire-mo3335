@@ -20,7 +20,8 @@
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Meets:** Spring, 2022 - Thu 11:00-13:00  
 **Location:** Weeks 1, 2, 4, 5, 7-11 – Parliament Hall Wk 3 – Lower College Hall Wk 6 – CAC F2, John B Henderson Lecture Room   
-**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 9-12 (please sign up for a [time](https://goo.gl/Rh19wj) ) 
+**Office:** St. Katharine's Lodge B3   
+**Office Hours:** On Teams Tue 9-12 (please sign up for a [time](https://goo.gl/Rh19wj) ) 
 
 ### Description	
 
@@ -33,7 +34,7 @@ This module traces the history and contradictions of Japan's empire from the fir
 50% Long Essay 5,000 Words   
 10% Long Essay Prospectus (500 Words), Argument, and Indicative Bibliography (2 Drafts)  
 10% Presentation (5 minutes)  
-30% 5 Reading Logs (2,500) and 5 Reading Handouts   
+30% 5 Reading Logs (2,500 words) and 5 Reading Handouts   
 
 **Deadline Dates**
 
@@ -48,3 +49,4 @@ This module traces the history and contradictions of Japan's empire from the fir
 * Assess the role of Japanese empire on the development of China, Japan, and southeast Asia
 * Analyse the creative responses in Japan and throughout Asia to ideas of modernity as seen through the rise of pan-Asianism and competing resistance nationalisms
 
+\pagebreak

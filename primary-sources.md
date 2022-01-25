@@ -4,8 +4,17 @@
 
 Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
 
+**SCONUL**: St Andrews students may get a [SCONUL](https://www.sconul.ac.uk/page/about-sconul-access-0) card which allows them to access libraries elsewhere in Scotland, including the University of Edinburgh, which has a very extensive East Asia collection of books and resources.
+
 ### Newspapers and Periodicals:
 
+* [East Asian Newspapers and Periodicals 1850-1950](https://archive.org/details/eastasia-periodicals) - A very large collection of newspapers on the Internet Archive. Most in Chinese but also several important newspapers in Japanese, Korean, and English languages
+
+* [Korea Times 1950-2016](http://library.st-andrews.ac.uk/record=b3185646~S5)
+* [Korea Times](http://library.st-andrews.ac.uk/record=b2574600~S5) - This is for 1998 to present.
+* [Chinese Newspaper Collection](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpchinesecollection?accountid=8312) 
+* [Historical Newspapers: Communist Historical Newspaper Collection](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpcommunistcollection?accountid=8312)
+* [South China Morning Post 1903-1941](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpsouthchinamorningpost?accountid=8312)
 * [The Times](http://find.galegroup.com/ttda/start.do?prodId=TTDA&userGroupName=stand)
 * [Japan Chronicle](http://primarysources.brillonline.com/browse/japan-chronicle)
 * [19th Century British Newspapers](http://find.galegroup.com/bncn/start.do?prodId=BNCN&userGroupName=stand)
@@ -15,7 +24,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Historic American Newspapers](http://chroniclingamerica.loc.gov/)
 * [Irish Times](http://search.proquest.com/hnpirishtimes?accountid=8312)
 * [Los Angeles Times](http://search.proquest.com/hnplatimes?accountid=8312)
-* [North China Herald](http://primarysources.brillonline.com/browse/north-china-herald-online)
+* [North China Herald](http://primarysources.brillonline.com/browse/north-china-herald-online) - Also see Internet Archive
 * [Guardian & Observer](http://search.proquest.com/hnpguardianobserver?accountid=8312)
 * [Periodical Archives Online](http://search.proquest.com/pao/socialsciences/fromBasicHomePage?accountid=8312)
 * [Times of India](http://search.proquest.com/hnptimesofindia/news/fromDatabasesLayer?accountid=8312)
@@ -61,6 +70,8 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Wilson Center Digital Archive](http://digitalarchive.wilsoncenter.org/)
     * Massive collection of Cold War period documents, many of them translated and transcribed
 * [Wilson Center Chinese Foreign Policy Database](http://digitalarchive.wilsoncenter.org/theme/chinese-foreign-policy-database)
+* [Foreign Office Files for China 1919-1980](http://ezproxy.st-andrews.ac.uk/login?url=http://www.archivesdirect.amdigital.co.uk//FO_China)
+* [Foreign Office Files for Japan 1919-1952](http://ezproxy.st-andrews.ac.uk/login?url=http://www.archivesdirect.amdigital.co.uk/FO_Japan)
 * [British Documents on the End of Empire](http://bdeep.org/)
 * [Cabinet Papers 1915-1984](http://www.nationalarchives.gov.uk/cabinetpapers/)
 * [Parliamentary Papers](http://parlipapers.chadwyck.co.uk/home.do)
@@ -350,6 +361,8 @@ Below are a selection of potential starting points for primary sources relevant 
 
 #### China
 
+* [Chinese Cultural Revolution Database](http://ezproxy.st-andrews.ac.uk/login?url=http://ccrd.usc.cuhk.edu.hk/)
+* [Chinese Anti-Rightist Campaign Database](http://ezproxy.st-andrews.ac.uk/login?url=http://ccrd.usc.cuhk.edu.hk/)
 * [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
 * [Bibliothèque Numérique Asiatique / Asian Digital Library](http://www.bnasie.eu/) - many digitized materials from Asia, especially China
     * [Shanghai Municipal Council Minutes](http://www.bnasie.eu/BN/Periodiques)

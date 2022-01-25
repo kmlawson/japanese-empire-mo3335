@@ -8,9 +8,11 @@ A work load of fifteen to eighteen hours a week (some weeks you may need a few m
 
 Your weekly reading will usually consist of 150-250 pages of required reading, plus some reading that you should select from the further reading, or other supplementary reading chosen by yourself to address content you may have trouble understanding or to boost your knowledge if it is related to your long essay research. Thus, working on an estimate of 250 pages a week total is a safe bet, or, at roughly 30 pages an hour (taking some limited notes), about 8.5 hours.
 
+In most, but not all weeks, your reading is divided between required readings (primary and secondary) which all students do in common, and elective readings (which you should choose one category from). When there are elective reading categories, you should do any reading handouts focused on these. When there are no elective reading categories, you may prepare a handout on any of the assigned secondary readings. 
+
 It is not wise to do your reading in a single sitting, as your concentration will fade, so I suggest you split the readings into two or three, and read them across several days. Give yourself more time for the primary sources vs the secondary sources relative to their length to allow you to pay especially close attention to language and detail in the former. I would recommend that you try to "timebox" the readings, giving yourself a fixed period of time for any given reading and, if it looks unlikely that you will have time to read something carefully, skim it with general notes on the main arguments, events, and issues, as necessary.  This is especially useful in weeks when you need to limit your reading preparation time in order to work more on your research for the long essay.
 
-You may find the readings as ebooks, on short loan in the library or in some cases in scanned versions or in digital databases online. We won't be relying on a Talis online list this semester.
+You may find the readings as ebooks, on short loan in the library or in some cases in scanned versions or in digital databases online. We won't be relying on a Talis online list this semester. A few readings will be available on our Microsoft Team.
 
 ## Sleep
 

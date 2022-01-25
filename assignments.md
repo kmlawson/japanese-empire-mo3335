@@ -154,6 +154,8 @@ The points that follow should be fairly clear from the questions posed above but
 - The essay has a good balance between empirical examples and presenting evidence on the one hand, and strong analysis contributing to the argument on the other
 - The argument of the essay is not trivial, overly general, or merely represent a summary of the widely recognized academic consensus on a given topic
 
+\pagebreak
+
 # Prospectus, Argument, and Indicative Bibliography
 
 10% of your mark for the module comes from two drafts of a proposal for your long essay, together with a draft articulation of your argument and an indicative bibliography. The first draft (required submission) of this will be posted on Moodle and we will discuss it in groups in class. You are also strongly encouraged to come to office hours to discuss the draft. No formal written feedback is offered on this.
@@ -222,6 +224,7 @@ Some questions to consider as you prepare:
 **Marking Reading Handouts**: Marking of handouts are very straightforward: 0 points for any missing handouts. 10 for particularly week handouts, and 20 for good or excellent handouts. Feedback will be limited to justifying 10s or praising particularly excellent handouts. 
 
 **Marking Reading Logs**: again, the marking of these will be relatively simplified: 0 points for any missing reading logs. 10 for particularly weak entries, 15 for good entries, and 20 for excellent ones. Remember, altogether your five reading logs should be at least 2,500 words altogether. It is fine if some are 400 words and others 800 words, for example, or if the total goes somewhat over the 2,500 words (no penalty): but please don't submit any reading logs that are longer than 1,000 words. 
+
 **What to Write:**
 
 - Please make explicit reference (with full footnote citation, no bibliography) to at least one source. 
