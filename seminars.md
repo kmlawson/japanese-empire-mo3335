@@ -8,14 +8,16 @@ Abbreviations for readings:
 
 * GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present*
 * SOURCES: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* [Ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716)
-* MASON: Mason, Michele, and Helen Lee, eds. *Reading Colonial Japan: Text, Context, and Critique* [Ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030)
+* MASON: Mason, Michele, and Helen Lee, eds. *Reading Colonial Japan: Text, Context, and Critique* [Ebook](http://library.st-andrews.ac.uk/record=b2201902~S5)
 
 ## Week 1 - Introductions
 
 If you have some time before the semester begins, I would strongly recommend that you read some of the chapters of the following survey textbook. I suggest you pick up your own copy as it is a nice text to turn to for reference, or you can always make use of one of our library copies:
  
 Andrew Gordon *A Modern History of Japan: From Tokugawa Times To The Present*
- 
+
+There is a copy in the library, but an ebook is not available.
+
 There are several different editions, along with “international” and non-international (US) versions of this book. While the editions have improved over the years and now include a new chapter on Japan’s most recent times, feel free to use any edition since we are primarily using it as a background reference work to help cover the domestic history of Japan while we focus on its empire. You may find cheap copies of older editions and our library doesn't have the latest version, anyways. 
 
 Please read closely the chapters of this book which cover the period from the end of the Tokugawa age, through the early postwar period, up to 1952. In the fourth edition of the book, this includes chapters 5 ("The Samurai Revolution") through chapter 13 ("Occupied Japan: New Departures and Durable Structures") pp60-252. 
@@ -28,7 +30,7 @@ The reason why this background reading is important is that this module is not a
 
 **Background Reading:** 
 
-Review GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
+GORDON Ch 5 Samurai Revolution; Ch 6 Participation and Protest
 
 **Primary Source Reading:** ~30 pages
 
@@ -38,25 +40,24 @@ Review GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
     * Ch 38: Fukuzawa Yukichi’s View of Civilization; An Outline of a Theory of Civilization
     * Ch 38: Nakamura Masanao: China Should Not Be Despised; Japan’s Debt to China
     * Ch 41: Tokutomi Sohō: A Japanese Nationalist's View of the West and Asia
-    * Ch 45: Konoe Fumimaro: Against a Pacificism Centered on England and America
     * Fukuzawa Yukichi - "Good-bye Asia" (see Teams Files)
 
 **Secondary Source Reading:** 
 
-* Beasley *Japanese Imperialism* Ch 4-7 (60 pages) [Ebook](http://dx.doi.org/10.1093/acprof:oso/9780198221685.001.0001)
+* Beasley *Japanese Imperialism* Ch 4-7 (60 pages) [Ebook](http://library.st-andrews.ac.uk/record=b2063786~S5)
     * "Intervention in Korea, 1894-5, Peace Settlement with China 1894-6", "New Imperialism and the War with Russia 1895-1905", "Formal and Informal Empire in North-East Asia, 1905-1910"
     * This is a survey text but will help deepen your understanding of the events. Compare this with your reading of GORDON for the same period.
 * Please read and view carefully one of the following three MIT Visualizing Cultures exhibits, each of which has several sub-pages:
-    * [Throwing Off Asia I: Westernization](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/toa_vis_01.html))
-    * [Throwing Off Asia II: Sino-Japanese War 1894-5](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_02/toa_vis_01.html))
-    * [Throwing Off Asia III: Russo-Japanese War Woodblock Prints](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_03/toa_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_03/toa_vis_01.html))
-    * [Yellow Promise/Yellow Peril](http://ocw.mit.edu/ans7870/21f/21f.027/yellow_promise_yellow_peril/yp_essay01.html) ([Visual Narratives](http://ocw.mit.edu/ans7870/21f/21f.027/yellow_promise_yellow_peril/yp_visnav01.html))
+    * [Throwing Off Asia I: Westernization](https://visualizingcultures.mit.edu/throwing_off_asia_01/index.html) ([Visual Narratives](https://visualizingcultures.mit.edu/throwing_off_asia_01/toa_vis_01.html))
+    * [Throwing Off Asia II: Sino-Japanese War 1894-5](https://visualizingcultures.mit.edu/throwing_off_asia_02/index.html) ([Visual Narratives](https://visualizingcultures.mit.edu/throwing_off_asia_02/toa_vis_01.html))
+    * [Throwing Off Asia III: Russo-Japanese War Woodblock Prints](https://visualizingcultures.mit.edu/throwing_off_asia_03/index.html) ([Visual Narratives](https://visualizingcultures.mit.edu/throwing_off_asia_03/toa_vis_01.html))
+    * [Yellow Promise/Yellow Peril](https://visualizingcultures.mit.edu/yellow_promise_yellow_peril/index.html) ([Visual Narratives](https://visualizingcultures.mit.edu/yellow_promise_yellow_peril/yp_visnav01.html))
 
 **Elective Reading:** 
 
-- A: Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291) (P)
+- A: Eskildsen, "Of Civilization and Savages" (31 pages) [Online](http://www.jstor.org/stable/10.1086/532291)
 - B: Yumi Moon, “Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910” (25 pages) [Online](http://ahr.oxfordjournals.org/content/118/1/20.extract)
-- C: Fukuzawa, Yukichi. *An Outline of a Theory of Civilization.* [Ebook](https://library.st-andrews.ac.uk/record=b3129830~S5) Ch 2 pp17-43
+- C: Fukuzawa, Yukichi. *An Outline of a Theory of Civilization.* [Ebook](https://library.st-andrews.ac.uk/record=b3129830~S5) Ch 2 pp17-43 (P)
 - D: Barclay, Paul D. *Outcasts of Empire: Japan’s Rule on Taiwan’s “Savage Border,” 1874-1945*. [Open Access](https://library.oapen.org/handle/20.500.12657/31091) Ch 1 "From Wet Diplomacy to Scorched Earth" pp43-113
 - E: Mizuno, Norihito. “Early Meiji Policies Towards the Ryukyus and the Taiwanese Aboriginal Territories.” *Modern Asian Studies* 43, no. 3 (May 2009): 683–739. [DOI](https://doi.org/10.1017/S0026749X07003034)
 - F: Kowner, *Impact of the Russo-Japanese War*, 1-26 [Ebook](http://library.st-andrews.ac.uk/record=b2004934~S5)
@@ -70,7 +71,7 @@ Review GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
 * Valliant, "The Selling of Japan", 415-438
 * MASON p55-75 Ch 2: "Hokkaido Former Natives Protection Law, Rule in the Name of "Protection"
 * "Ainu Identity and the Meiji State" in David L. Howell, *Geographies of Identity in Nineteenth-Century Japan* [Ebook](http://library.st-andrews.ac.uk/record=b2073229~S5)
-* Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* Harvard University Press, 2009.  
+* Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy* Harvard University Press, 2009.
 * Cassel, Pär Kristoffer. *Grounds of Judgment: Extraterritoriality and Imperial Power in Nineteenth-Century China and Japan*. Oxford University Press, 2012. (P) [Ebook](http://library.st-andrews.ac.uk/record=b2066054~S5)
 * Paine, S. C. M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*.  (P) [Ebook](http://library.st-andrews.ac.uk/record=b3051655~S5)
 * Naoko Shimazu, “Patriotic and Despondent: Japanese Society at War, 1904-5”
@@ -124,6 +125,11 @@ Review GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
 **Films of Interest**
 
 - The Battle of Port Arthur 二百三高地 (1980)
+- Port Arthur (1936)
+- 明治天皇と日露大戦争 (1957)
+- 日露戦争勝利の秘史 敵中横断三百里 (1957)
+- 一八九四·甲午大海战 (2022)
+- 불꽃처럼 나비처럼 (The Sword with No Name 2008)
 
 \pagebreak
 
@@ -134,7 +140,7 @@ Review GORDON Ch 5 Samurai Revolution Ch 6 Participation and Protest
 Read either: 
 
 * [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716), Ch 41: Yanagi Muneyoshi and the Kwanghwa Gate, For a Korean Architecture About to Be Lost
-* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 109-123 Ch 4: "Demon Bird, Violence, Borders, Identity"
+* [MASON](http://library.st-andrews.ac.uk/record=b2201902~S5) 109-123 Ch 4: "Demon Bird, Violence, Borders, Identity"
 
 Read either:
 
@@ -143,16 +149,16 @@ Read either:
 
 **Secondary Source Reading:** 
 
-* Atkins, selection from "Ethnography as Self-Reflection: Japanese Anthropology in Colonial Korea" *Primitive Selves*, pp52-74, pp96-101 [Ebook](http://dx.doi.org/10.1525/california/9780520266735.001.0001)
-* Robinson, *Korea's Twentieth-century Odyssey*, Ch 2 Colonial State and Society, Ch 3 Class and Nation in Colonial Korea pp36-75 [Ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
+* Atkins, selection from "Ethnography as Self-Reflection: Japanese Anthropology in Colonial Korea" *Primitive Selves*, pp52-74, pp96-101 [Ebook](http://library.st-andrews.ac.uk/record=b2061263~S5) (P)
+* Robinson, *Korea's Twentieth-century Odyssey*, Ch 2 Colonial State and Society, Ch 3 Class and Nation in Colonial Korea pp36-75 [Ebook](http://library.st-andrews.ac.uk/record=b3081692~S5)
 * Caprio, *Japanese Assimilation Policies in Korea*, 81-110: Ch 3 [Ebook](https://library.st-andrews.ac.uk/record=b2910368~S5)
 
 **Elective Reading:**
 
-* A: Tierney, selection from "From Taming Savages to Going Native" *Tropics of Savagery*, 38-63 [Ebook](http://dx.doi.org/10.1525/california/9780520265783.001.0001)
-* B: Tierney, *Tropics of Savagery*, Ch 4 'The Colonial Eyeglasses of Nakajima Atsushi' 
-* C: Barclay, Paul D. *Outcasts of Empire: Japan’s Rule on Taiwan’s “Savage Border,” 1874-1945*. [Open Access](https://library.oapen.org/handle/20.500.12657/31091) Ch 4 'The Geobodies within a Geobody: The Visual Economy of Race Making and Indigeneity'
-* D: Caprio, *Japanese Assimilation Policies in Korea*, Ch 4 pp111-156 
+* A: Tierney, selection from "From Taming Savages to Going Native" *Tropics of Savagery*, 38-63 [Ebook](http://library.st-andrews.ac.uk/record=b2067329~S5) (P)
+* B: Tierney, *Tropics of Savagery*, Ch 4 'The Colonial Eyeglasses of Nakajima Atsushi' [Ebook](http://library.st-andrews.ac.uk/record=b2067329~S5)
+* C: Barclay, Paul D. *Outcasts of Empire: Japan’s Rule on Taiwan’s “Savage Border,” 1874-1945*. [Open Access](http://library.st-andrews.ac.uk/record=b2707908~S5) Ch 4 'The Geobodies within a Geobody: The Visual Economy of Race Making and Indigeneity'
+* D: Caprio, *Japanese Assimilation Policies in Korea*, Ch 4 pp111-156 [Ebook](http://library.st-andrews.ac.uk/record=b2910368~S5)
 * E: Hanscom, Christopher P., and Dennis Washburn, eds. *The Affect of Difference: Representations of Race in East Asian Empire* Ch 1 Introduction: Representations of Race in East Asian Empire [Ebook](http://library.st-andrews.ac.uk/record=b3173127~S5)
 * F: Hanscom, Christopher P., and Dennis Washburn, eds. *The Affect of Difference: Representations of Race in East Asian Empire* Ch 6 Faces that Change: Physiognomy, Portraiture and Photography in Colonial Korea [Ebook](http://library.st-andrews.ac.uk/record=b3173127~S5)
 * G: Stanisław Meyer "Between a Forgotten Colony and an Abandoned Prefecture: Okinawa’s Experience of Becoming Japanese in the Meiji and Taishō Eras" [Open Access](https://apjjf.org/2020/20/Meyer.html)
@@ -172,7 +178,7 @@ Read either:
 * Liao, *Taiwan Under Japanese Colonial Rule*
 * Tai, Eika. ‘The Discourse of Intermarriage in Colonial Taiwan’. *The Journal of Japanese Studies* 40, no. 1 (2014): 87–116.
 * Kim Brandt, “Objects of Desire: Japanese Collectors and Colonial Korea,” *Positions: East Asia Cultures Critique* 8, no. 3 (2000): 711–46.
-* Chatani, Sayaka. *Nation-Empire: Ideology and Rural Youth Mobilization in Japan and Its Colonies* [Ebook](http://library.st-andrews.ac.uk/record=b3094718~S5)
+* Chatani, Sayaka. *Nation-Empire: Ideology and Rural Youth Mobilization in Japan and Its Colonies* [Ebook](http://library.st-andrews.ac.uk/record=b3094718~S5) (P)
 * Chen, Ching-Chih. “The Japanese Adaptation of the Pao-Chia System in Taiwan, 1895-1945.” [Jstor](http://www.jstor.org/stable/2052755)
 * Ching, *Becoming Japanese*, 1-50: Introduction and Ch 1-2 [Ebook](http://dx.doi.org/10.1525/california/9780520225510.001.0001) (P)
 * [Through Formosa: an account of Japan's Island Colony](https://archive.org/details/throughformosaac00ruttuoft), Ch. 7, 11
@@ -204,7 +210,7 @@ Read either:
 
 **Preparation:**
 
-* As you primary sources related to Japanese Empire: 
+* As you consider your long essay topic, consider browsing primary sources related to Japanese Empire available at this website: 
     * [Grassroots Operations of the Japanese Empire](https://www.japaneseempire.info/)
 * Explore primary sources related to Korea and Taiwan:
     * [Taiwan Primary Sources](https://taiwanprimarysources.com/)
@@ -251,30 +257,30 @@ Read either:
 
 **Background Reading:** 
 
-Review GORDON Ch 8 Empire and Domestic Order
+GORDON Ch 8 Empire and Domestic Order
 
 **Primary Source Reading:** 27 pages
 
-* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 77-104 Ch 3: "Officer Ukuma, Subaltern Identity in Okinawa", 77-89
+* [MASON](http://library.st-andrews.ac.uk/record=b2201902~S5) 77-104 Ch 3: "Officer Ukuma, Subaltern Identity in Okinawa", 77-89
 * Youtube video of Japanese Propaganda clip: "Korea Under Japanese Rule 1931" [YT](https://www.youtube.com/watch?v=w4fdhAz0VSw)
 
 **Secondary Source Reading:** 
 
-* Robinson, *Korea's Twentieth-century Odyssey*, Ch 4 Colonial Modernity, Assimilation, and War, 76-99 [Ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=236654)
-* Todd A. Henry, *Assimilating Seoul* Ch 4 Civic Assimilation: Sanitary Life in Neighborhood Keijō [Ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1596987)
+* Robinson, *Korea's Twentieth-century Odyssey*, Ch 4 Colonial Modernity, Assimilation, and War, 76-99 [Ebook](http://library.st-andrews.ac.uk/record=b3081692~S5)
+* Todd A. Henry, *Assimilating Seoul* Ch 4 Civic Assimilation: Sanitary Life in Neighborhood Keijō [Ebook](http://library.st-andrews.ac.uk/record=b2371129~S5)
 * Matsutani, Motokazu 'A New Perspective on the 'Name-Changing Policy' in Korea" in *Gender and Law in the Japanese Imperium*, 240-266.
-* Shin, *Colonial Modernity in Korea [Ebook](http://hdl.handle.net/2027/heb.02416)*
+* Shin, *Colonial Modernity in Korea* [Ebook](http://library.st-andrews.ac.uk/record=b3519128~S5)
     * 1-20: Introduction
 * Lee, Hong Yung "A Critique of 'Colonial Modernity'" in Lee ed. *Colonial Rule and Social Change in Korea, 1910-1945*, 3-38
-* "The 'Modern Girl' Question in the Periphery of Empire: Colonial Modernity and Mobility among Okinawan Women in the 1920s and 1930s" in Tani Barlow, ed. *The Modern Girl Around the World*, 242-258 [Ebook](https://www.dawsonera.com/guard/protected/dawson.jsp?name=https://idp.st-andrews.ac.uk/shibboleth&dest=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780822389194)
+* "The 'Modern Girl' Question in the Periphery of Empire: Colonial Modernity and Mobility among Okinawan Women in the 1920s and 1930s" in Tani Barlow, ed. *The Modern Girl Around the World*, 242-258 [Ebook](http://library.st-andrews.ac.uk/record=b2204750~S5)
 
 **Elective Reading:**
 
-* A: Shin, *Colonial Modernity in Korea [Ebook](https://library.st-andrews.ac.uk/record=b1940815~S5) Ch 1 Modernity, Legality, and Power in Korea
-* B: Shin, *Colonial Modernity in Korea Ch 2 Broadcasting, Cultural Hegemony
-* C: Shin, *Colonial Modernity in Korea Ch 4 Limits of Cultural Rule
+* A: Shin, *Colonial Modernity in Korea* [Ebook](http://library.st-andrews.ac.uk/record=b3081692~S5) Ch 1 Modernity, Legality, and Power in Korea
+* B: Shin, *Colonial Modernity in Korea* Ch 2 Broadcasting, Cultural Hegemony [Ebook](http://library.st-andrews.ac.uk/record=b3081692~S5)
+* C: Shin, *Colonial Modernity in Korea* Ch 4 Limits of Cultural Rule [Ebook](http://library.st-andrews.ac.uk/record=b3081692~S5)
 * E: Nayoung Aimee Kwon *Intimate Empire: Collaboration and Colonial Modernity in Korea and Japan* Ch 1 Colonial Modernity and the Conundrum of Representation [Ebook](https://library.st-andrews.ac.uk/record=b3131896~S5)
-* F: Nayoung Aimee Kwon *Intimate Empire: Collaboration and Colonial Modernity in Korea and Japan* Ch 7 Overhearing Transcolonial Roundtables 
+* F: Nayoung Aimee Kwon *Intimate Empire: Collaboration and Colonial Modernity in Korea and Japan* Ch 7 Overhearing Transcolonial Roundtables [Ebook](https://library.st-andrews.ac.uk/record=b3131896~S5)
 * G: Kikuchi, Yūko, ed. *Refracted Modernity: Visual Culture and Identity in Colonial Taiwan* Ch 8 Taiwanese Aboriginal Art and Artifacts: Engangled Images of Colonialization and Modernization [Ebook](https://library.st-andrews.ac.uk/record=b3081772~S5)
 
 **Further Reading:**
@@ -297,7 +303,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 * Morris, Andrew *Colonial Project, National Game: A History of Baseball in Taiwan* (P)
 * Jina E. Kim, *Urban Modernities in Colonial Korea and Taiwan* [Ebook](https://library.st-andrews.ac.uk/record=b3186778~S5)
 * Sungyun Lim, *Rules of the House: Family Law and Domestic Disputes in Colonial Korea* [Open Access](https://www.luminosoa.org/site/books/m/10.1525/luminos.60/)
-* Theodore Jun Yoo, *The Politics of Gender in Colonial Korea: Education, Labor, and Health, 1910–1945* [Ebook](https://library.st-andrews.ac.uk/record=b2068082~S5)
+* Theodore Jun Yoo, *The Politics of Gender in Colonial Korea: Education, Labor, and Health, 1910–1945* [Ebook](https://library.st-andrews.ac.uk/record=b2068082~S5) (P)
 * Janet Poole, *When the Future Disappears: The Modernist Imagination in Late Colonial Korea* [Ebook](https://library.st-andrews.ac.uk/record=b3068619~S5)
 * Chong-Sok Ko and Jongsok Koh, *Infected Korean Language, Purity Versus Hybridity: From the Sinographic Cosmopolis to Japanese Colonialism to Global English*
 * Serk Bae Suh, *Treacherous Translation: Culture, Nationalism, and Colonialism in Korea and Japan from the 1910s to the 1960s* 
@@ -350,7 +356,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 **Primary Source Reading:** 39 pages
 
-* Kim Sa-ryang "Into the Light" in Wender, Melissa L. ed., *Into the Light: An Anthology of Literature by Koreans in Japan* (39 pages)
+* Kim Sa-ryang "Into the Light" in Wender, Melissa L. ed., *Into the Light: An Anthology of Literature by Koreans in Japan* (39 pages) [Ebook](http://library.st-andrews.ac.uk/record=b3081459~S5)
 
 **Secondary Source Reading:** 
 
@@ -358,14 +364,14 @@ Review GORDON Ch 8 Empire and Domestic Order
 * Mark R. Peattie *The Japanese Informal Empire in China, 1895-1937* Ch 6 "Japanese Treaty Port Settlements, 1895-1937" pp167-174, pp188-209 [Ebook](https://library.st-andrews.ac.uk/record=b3084200~S5)
 * Caprio, Mark and Yu Jia "Occupations of Korea and Japan and the Origins of the Korean Diaspora in Japan" in Ryang, Sonia ed. *Diaspora without Homeland: Being Korean in Japan*, 21-38 [Ebook](https://library.st-andrews.ac.uk/record=b2022085~S5)
 * Uchida, Jun. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945* Ch 1 "The Growth of Settler Communities" p62-70, Ch 2 Settlers and the State p96-139 [Ebook](https://library.st-andrews.ac.uk/record=b2910370~S5)
-* Young, *Japan's Total Empire* "The Migration Machine: Manchurian Colonization and State Growth" 352-398 [Ebook](http://hdl.handle.net/2027/heb.00123)
+* Young, *Japan's Total Empire* "The Migration Machine: Manchurian Colonization and State Growth" 352-398 [Ebook](http://library.st-andrews.ac.uk/record=b3285794~S5)
 
 **Elective Reading:**
 
-* A: Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972* Ch 2 "Expatriate Nationalists and the Politics of Mixed Residence, 1895-1911" Ch 1 pages from 23-41, Ch 2 pp72-80
+* A: Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972* Ch 2 "Expatriate Nationalists and the Politics of Mixed Residence, 1895-1911" Ch 1 pages from 23-41, Ch 2 pp72-80 [Ebook](http://library.st-andrews.ac.uk/record=b2910369~S5) (P)
 * B: Uchida, Jun, "A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea" [Online](http://journals.cambridge.org/abstract_S0021911811000878)
 * C: Sidney Xu Lu, ‘Eastward Ho! Japanese Settler Colonialism in Hokkaido and the Making of Japanese Migration to the American West, 1869–1888’, The Journal of Asian Studies 78, no. 3 (August 2019): 521–47, [DOI](https://doi.org/10.1017/S0021911819000147).
-* D: O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria*. Introduction + Ch 1 Dairen, A City Like No Other 
+* D: O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria*. Introduction + Ch 1 Dairen, A City Like No Other  [Ebook](http://library.st-andrews.ac.uk/record=b3538557~S5) (P)
 * E: Sidney Xu Lu, *The Making of Japanese Settler Colonialism* [Ebook](http://library.st-andrews.ac.uk/record=b3065919~S5) Ch 2, 7
 * F: Ambaras, David R. *Japan’s Imperial Underworlds: Intimate Encounters at the Borders of Empire* Ch 3 Embodying the Borderland in the Taiwan Strait [Ebook](https://library.st-andrews.ac.uk/record=b3038750~S5)
 * G: Ambaras, David R. *Japan’s Imperial Underworlds* Ch 4 Borders in Blood, Water, and Ink
@@ -374,7 +380,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 * Uchida, Jun. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” [Online](http://past.oxfordjournals.org/content/220/1/217.extract)
 * Smith, W. Donald. “Beyond ‘The Bridge on the River Kwai’: Labor Mobilization in the Greater East Asia Co-Prosperity Sphere.” International Labor and Working-Class History, no. 58 (October 1, 2000): 219–38. [Online](http://www.jstor.org/stable/27672681)
-* Driscoll, Mark. *Absolute Erotic, Absolute Grotesque: The Living, Dead, and Undead in Japan’s Imperialism, 1895–1945* (P)
+* Driscoll, Mark. *Absolute Erotic, Absolute Grotesque: The Living, Dead, and Undead in Japan’s Imperialism, 1895–1945* 
 * O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Urban Empire in Manchuria* (P)
 * Rest of Uchida's *Brokers of Empire* (P) [Ebook](https://library.st-andrews.ac.uk/record=b2910370~S5)
 * Rest of Han *Rise of a Japanese Chinatown* (P)
@@ -416,36 +422,41 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 \pagebreak
 
-## Week 6 - Imperial Innovation in Manchuria 
+## Week 7 - Imperial Innovation in Manchuria 
 
 **Primary Source Reading:** ~30 pages
 
-* [MASON](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=844030) 209-241 Ch 7: Text and Critique "Manchu Girl", Imperializing Motherhood"
+* [MASON](http://library.st-andrews.ac.uk/record=b2201902~S5) 209-241 Ch 7: Text and Critique "Manchu Girl", Imperializing Motherhood"
 *  Watch "[Manchukuo: The Newborn Empire](https://archive.org/details/manchukuo_the_newborn_empire)" on Archive.org or YouTube (about 13m) and make note of how the Japanese project in Manchuria is justified, and its people and places described.
 
 **Secondary Source Reading:** 
 
 * Young, *Japan's Total Empire* Ch 2 pp29-35,40-54: Part I - The Making of a Total Empire [Ebook](http://hdl.handle.net/2027/heb.00123)
 * Duara, Prasenjit *Sovereignty and Authenticity* Ch 2-3 Manchukuo: A Historical Overview; Asianism and the New Discourse of Civilization pp41-122 [Ebook](http://library.st-andrews.ac.uk/record=b2910374~S5)
-* Chow, Rey, Harry Harootunian, Marilyn Ivy, Masao Miyoshi, and Alan Tansman, eds. *The Culture of Japanese    Fascism*  [Ebook](http://library.st-andrews.ac.uk/record=b3132438~S5)
+* Chow, Rey, Harry Harootunian, Marilyn Ivy, Masao Miyoshi, and Alan Tansman, eds. *The Culture of Japanese    Fascism*  [Ebook](http://library.st-andrews.ac.uk/record=b3132438~S5) "All Beautiful Fascists?: Axis Film Culture in Imperial Japan"
 
 **Elective Reading:**
 
-* A: Tamanoi, Mariko Asano. “Knowledge, Power, and Racial Classification: The ‘Japanese’ in ‘Manchuria.’” The Journal of Asian Studies 59, no. 2 (May 1, 2000): 248–76. [Jstor](http://www.jstor.org/stable/2658656)
+* A: Tamanoi, Mariko Asano. “Knowledge, Power, and Racial Classification: The ‘Japanese’ in ‘Manchuria.’” The Journal of Asian Studies 59, no. 2 (May 1, 2000): 248–76. [JSTOR](http://www.jstor.org/stable/2658656)
 * B: Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire’s 2,600th Anniversary* Ch 5 Touring Manchuria's Sacred Sites [Ebook](http://library.st-andrews.ac.uk/record=b2897115~S5)
-* C: Yamaura, Chigusa. “From Manchukuo to Marriage: Localizing Contemporary Cross-Border Marriages between Japan and Northeast China.” The Journal of Asian Studies 74, no. 03 (August 2015): 565–88
+* C: Yamaura, Chigusa. “From Manchukuo to Marriage: Localizing Contemporary Cross-Border Marriages between Japan and Northeast China.” *The Journal of Asian Studies* 74, no. 03 (August 2015): 565–88 [DOI](https://doi.org/10.1017/S0021911815000546)
 * D: Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire* Ch 3 Princess, Traitor, Soldier, Spy: Aisin Gioro Xianyu and the Dilemma of Manchu Identity [Ebook](https://library.st-andrews.ac.uk/record=b3081992~S5)
+* E: Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire* Ch 2 City Planning without Cities: Order and Chaos in Utopian Manchukuo [Ebook](https://library.st-andrews.ac.uk/record=b3081992~S5)
+* F: Seow, Victor. *Carbon Technocracy: Energy Regimes in Modern East Asia*. University of Chicago Press, 2022. Ch 4 Imperial Extraction [Ebook](http://library.st-andrews.ac.uk/record=b3302790~S5) 
+* G: Shepherdson-Scott, Kari. ‘Conflicting Politics and Contesting Borders: Exhibiting (Japanese) Manchuria at the Chicago World’s Fair, 1933–34’. *The Journal of Asian Studies* 74, no. 03 (August 2015): 539–64. [DOI](https://doi.org/10.1017/S0021911815000558)
+* H: Dubois, Thomas David. ‘Inauthentic Sovereignty: Law and Legal Institutions in Manchukuo’. *The Journal of Asian Studies* 69, no. 3 (2010): 749–70. [JSTOR](https://www.jstor.org/stable/40929191)
 
 **Further Reading:**
 
+* Seow, Victor. *Carbon Technocracy: Energy Regimes in Modern East Asia*. University of Chicago Press, 2022. [Ebook](http://library.st-andrews.ac.uk/record=b3302790~S5) (P)
 * Primary Source [Fulfilling the Targets](https://www.japaneseempire.info/post/fulfilling-the-targets)
-* Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China* (P) [Ebook](http://library.st-andrews.ac.uk/record=b2062108~S5)
+* Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China* (P) [Ebook](http://library.st-andrews.ac.uk/record=b2062108~S5) (P)
 * Itō, Takeo. *Life Along the South Manchurian Railway: The Memoirs of Itō Takeo* Translated by Joshua Fogel. 
 * Esherick, Joseph, ed. “Railway City and National Capital: Two Faces of the Modern in Changchun.” *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, 65-89
 * Tamanoi, Mariko, ed. *Crossed Histories: Manchuria in the Age of Empire* [Ebook](https://library.st-andrews.ac.uk/record=b3081992~S5)
 * Kuramoto, Kazuko. *Manchurian Legacy: Memoirs of a Japanese Colonist*
 * Shin’ichi Yamamuro, *Manchuria Under Japanese Dominion* trans. Joshua A. Fogel 
-* Yoshihisa Tak Matsusaka, *The Making of Japanese Manchuria 1904-1932*
+* Yoshihisa Tak Matsusaka, *The Making of Japanese Manchuria 1904-1932* (P)
 * Culver, Annika A. *Glorify the Empire: Japanese Avant-Garde Propaganda in Manchukuo* (P)
 * Akiko, Yosano. *Travels in Manchuria and Mongolia* Translated by Joshua A. Fogel [Ebook](https://library.st-andrews.ac.uk/record=b3067821~S5)
 * Susanne Hohler, *Fascism in Manchuria: The Soviet-China Encounter in the 1930s*.
@@ -457,13 +468,13 @@ Review GORDON Ch 8 Empire and Domestic Order
 * Blaine R. Chiasson, *Administering the Colonizer: Manchuria’s Russians Under Chinese Rule, 1918-29* [Ebook](http://library.st-andrews.ac.uk/record=b3192483~S5)
 * Mariko Asano Tamanoi, *Memory Maps: The State and Manchuria in Postwar Japan* [Ebook](https://library.st-andrews.ac.uk/record=b3081723~S5)
 * Dan Shao, *Remote Homeland, Recovered Borderland: Manchus, Manchoukuo, and Manchuria, 1907-1985, World of East Asia* [Ebook](https://library.st-andrews.ac.uk/record=b3081408~S5) (P)
-* Norman Smith, *Intoxicating Manchuria: Alcohol, Opium, and Culture in China’s Northeast* 
-* Sandra Wilson, *The Manchurian Crisis and Japanese Society, 1931-33* (Routledge, 2003).
+* Norman Smith, *Intoxicating Manchuria: Alcohol, Opium, and Culture in China’s Northeast* (P) [Ebook](http://library.st-andrews.ac.uk/record=b3206970~S5)
+* Sandra Wilson, *The Manchurian Crisis and Japanese Society, 1931-33* (Routledge, 2003). (P)
 
 **Preparation:**
 
 * As you read, please consider the questions listed below for this week carefully.
-* Consider posting one of your reading logs about a source you have been reading closely for your long essay research.
+* Consider posting one of your reflective posts about a source you have been reading closely for your long essay research.
 
 **Overview:**
 
@@ -491,7 +502,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 \pagebreak
 
-## Week 7 - The Development of Pan-Asianism and the Kōminka Movement
+## Week 8 - The Development of Pan-Asianism and the Kōminka Movement
 
 **Primary Source Reading:** 
 
@@ -509,30 +520,31 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 **Secondary Reading:**
 
-* Saaler *Pan-Asianism in Modern Japanese History*, Ch 1-2: pp1-18, pp21-33 [Ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=292828)
+* Saaler *Pan-Asianism in Modern Japanese History*, Ch 1-2: pp1-18, pp21-33 [Ebook](http://library.st-andrews.ac.uk/record=b2022235~S5)
     * Ch 1 Pan-Asianism in modern Japanese history: Overcoming the nation, creating a region, forging an empire
     * Ch 2 Pan-Asianism in modern Japan: Nationalism, regionalism and universalism
-* Chou, "The Kōminka Movement in Taiwan and Korea: Comparisons and Interpretations" in Peattie ed. *The Japanese Wartime Empire, 1931-1945*, 40-70 [Ebook](http://hdl.handle.net/2027/heb.01938)
+* Chou, "The Kōminka Movement in Taiwan and Korea: Comparisons and Interpretations" in Peattie ed. *The Japanese Wartime Empire, 1931-1945*, 40-70 [Ebook](http://library.st-andrews.ac.uk/record=b3174395~S5)
 
 **Elective Reading:**
 
-* A: "Medical Modernists (1937-1945)" in Lo, *Doctors Within Borders : Profession, Ethnicity, and Modernity in Colonial Taiwan*, 109-150 [Ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=90486)
+* A: "Medical Modernists (1937-1945)" in Lo, *Doctors Within Borders : Profession, Ethnicity, and Modernity in Colonial Taiwan*, 109-150 [Ebook](http://library.st-andrews.ac.uk/record=b2022101~S5)
 * B: Chatani, Sayaka "Between "Rural Youth" and Empire: Social and Emotional Dynamics of Youth Mobilization in the Countryside of Colonial Taiwan under Japan's Total War *The American Historical Review*, Volume 122, Issue 2, 1 April 2017, Pages 371–398, [DOI](https://doi.org/10.1093/ahr/122.2.371)
 * C: Aydin, Cemil *The Politics of Anti-Westernism in Asia : Visions of World Order in Pan-Islamic and pan-Asian Thought* [Ebook](http://library.st-andrews.ac.uk/record=b2897220~S5) Ch 4-5.
 * D: Aydin, Cemil *The Politics of Anti-Westernism in Asia : Visions of World Order in Pan-Islamic and pan-Asian Thought* Ch 6-7.
-* E: Hotta, Eri *Pan-Asianism and Japan's War 1931-1945* Introduction + Conclusion [Ebook](http://library.st-andrews.ac.uk/record=b2022230~S5)
-* F: Torsten Weber, *Embracing ‘Asia’ in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933* Ch 3-4 [Ebook](http://library.st-andrews.ac.uk/record=b2521417~S5)
+* E: Hotta, Eri *Pan-Asianism and Japan's War 1931-1945* Introduction + Conclusion [Ebook](http://library.st-andrews.ac.uk/record=b2022230~S5) (P)
+* F: Torsten Weber, *Embracing ‘Asia’ in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933* Ch 3-4 [Ebook](http://library.st-andrews.ac.uk/record=b2521417~S5) (P)
 * G: Caprio, *Japanese Assimilation Policies in Korea*, 81-110: Ch 5 Radical Assimilation under Wartime Conditions [Ebook](https://library.st-andrews.ac.uk/record=b2910368~S5)
-
+* H: Kishida, Yuka Hiruma. *Kenkoku University and the Experience of Pan-Asianism: Education in the Japanese Empire*. Bloomsbury Publishing, 2021. Ch 1 Dreaming Big About Pan-Asianist Education: From 'Asia University' to 'Kenkoku (Nation-Building) University' 
 
 **Further Reading:**
 
 * [Youth Associations and Thought Guidance](https://www.japaneseempire.info/post/youth-associations-and-thought-guidance)
-* CuUnjieng Aboitiz, Nicole. *Asian Place, Filipino Nation: A Global Intellectual History of the Philippine Revolution, 1887-1912* [Ebook](http://library.st-andrews.ac.uk/record=b3115159~S5)
+* CuUnjieng Aboitiz, Nicole. *Asian Place, Filipino Nation: A Global Intellectual History of the Philippine Revolution, 1887-1912* [Ebook](http://library.st-andrews.ac.uk/record=b3115159~S5) (P)
 * Saaler, *Pan-Asianism : A Documentary History, 1920-Present* [Ebook](http://library.st-andrews.ac.uk/record=b2022223~S5)
+* Kishida, Yuka Hiruma. *Kenkoku University and the Experience of Pan-Asianism: Education in the Japanese Empire*. Bloomsbury Publishing, 2021. (P)
 * Saaler, *Pan-Asianism : A Documentary History, 1850-1920* [Ebook](http://library.st-andrews.ac.uk/record=b2022220~S5)
 * Linkhoeva, Tatiana. *Revolution Goes East: Imperial Japan and Soviet Communism* [Ebook](http://library.st-andrews.ac.uk/record=b3117719~S5)
-* Chatani, Sayaka. *Nation-Empire: Ideology and Rural Youth Mobilization in Japan and Its Colonies* [Ebook](http://library.st-andrews.ac.uk/record=b3094718~S5)
+* Chatani, Sayaka. *Nation-Empire: Ideology and Rural Youth Mobilization in Japan and Its Colonies* [Ebook](http://library.st-andrews.ac.uk/record=b3094718~S5) (P)
 * Sen, Tansen, and Brian Tsui, eds. *Beyond Pan-Asianism: Connecting China and India, 1840s-1960s* [Ebook](http://library.st-andrews.ac.uk/record=b3148907~S5)
 * Matthiessen, Sven. *Japanese Pan-Asianism and the Philippines from the Late Nineteenth Century to the End of World War II: Going to the Philippines Is Like Coming Home?* [Ebook](http://library.st-andrews.ac.uk/record=b3115153~S5)
 * Tankha, Brij, ed. *Okakura Tenshin and Pan-Asianism: Shadows of the Past* [Ebook](http://library.st-andrews.ac.uk/record=b3150687~S5)
@@ -540,7 +552,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 * Peng, Huan-Sheng, and Jo-Ying Chu. ‘Japan’s Colonial Policies – from National Assimilation to the Kominka Movement: A Comparative Study of Primary Education in Taiwan and Korea (1937–1945)’. *Paedagogica Historica* 53, no. 4 (4 July 2017): 441–59. [DOI](https://doi.org/10.1080/00309230.2016.1276201)
 * Toten, Miyazaki, and Eto Shinkichi. *My Thirty-Three Year’s Dream: The Autobiography of Miyazaki Toten* Translated by Marius B. Jansen. [Ebook](https://library.st-andrews.ac.uk/record=b3085026~S5)
 * Ching, Leo T. S. *Becoming Japanese: Colonial Taiwan and the Politics of Identity Formation* [Ebook](https://library.st-andrews.ac.uk/record=b2069708~S5)
-* Wang, Taisheng. *Legal Reform in Taiwan Under Japanese Colonial Rule, 1895-1945: The Reception of Western Law*
+* Wang, Taisheng. *Legal Reform in Taiwan Under Japanese Colonial Rule, 1895-1945: The Reception of Western Law* 
 * Liao, Binghui, and Dewei Wang. *Taiwan Under Japanese Colonial Rule, 1895-1945: History, Culture, Memory* [Ebook](https://library.st-andrews.ac.uk/record=b3067975~S5)
 
 **Overview:**
@@ -564,7 +576,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 
 ## Week 8 - Japan's Invasion of China
 
-*We will all be reading a longer chunk of Diana Lary, so we will not have a separate set of elective readings. You are also getting closer to your essay deadline so consider using sources and readings from your essay as your reading logs, when you wish. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
+*We will all be reading a longer chunk of Diana Lary, so we will not have a separate set of elective readings. You are also getting closer to your essay deadline so consider using sources and readings from your essay as your reflective posts, when you wish. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
 
 **Primary Source Reading:** 
 
@@ -574,7 +586,7 @@ Review GORDON Ch 8 Empire and Domestic Order
 * Kawakami *Japan in China: Her Motive and Aims*, 71-82, 145-161 [Archive.org](https://archive.org/details/in.ernet.dli.2015.536922)
 
 * The above readings will allow us to critical evaluate how Japan attempted to justify its invasion, while our secondary readings turn to focus on the experience of the war from the Chinese perspective. If you wish to pair the two and focus on one famous example of wartime atrocities, you may prepare this *alternative primary source reading*:
-    * Brook, *Documents on the Rape of Nanking*, 9-11,21-24,28-34,54-56,60-61,77-79, 125-128,137-8,156-7,163,234-236 (30 pages total - book is on short loan)
+    * Brook, *Documents on the Rape of Nanking*, 9-11,21-24,28-34,54-56,60-61,77-79, 125-128,137-8,156-7,163,234-236 (30 pages total, but no ebook available 3 day loan)
 
 **Secondary Source Reading:** 
 
@@ -649,17 +661,14 @@ Review GORDON Ch 12 Japan in Wartime
     * An account of the Japanese occupation of Burma from the perspective of the Burmese head of state under the Japanese and in the nominally independent Burma after 1943
 * *I.N.A. Speaks* (Teams Files)
     * A pamphlet with justifications of the collaboration of the Indian National Army with the Japanese
-* *Malaya Upside Down* (Times Files)
-    * An account of British Malaya under Japanese occupation
 
 **Secondary Source Reading:** 
 
-* Lebra-Chapman, Joyce. *Japanese-Trained Armies in Southeast Asia: Independence and Volunteer Forces in World War II* [Ebook](https://library.st-andrews.ac.uk/record=b2910365~S5) Choose and read one of the following three chapters:
+* Lebra-Chapman, Joyce. *Japanese-Trained Armies in Southeast Asia: Independence and Volunteer Forces in World War II* [Ebook](https://library.st-andrews.ac.uk/record=b2910365~S5) 
     * Ch. 2 The Indian National Army 19-38
     * Ch. 3 The Burma Independence Army 39-74
-    * Ch. 4 Peta 75-112
 * Hayashi, Hirofumi "Government, the Military and Business in Japan's Wartime Comfort Woman System" *Japan Focus* [Online](http://www.japanfocus.org/-Hayashi-Hirofumi/2332/article.html)
-* Fujitani, *Race for Empire*, National Mobilization, 239-298 [Ebook](http://california.universitypressscholarship.com/view/10.1525/california/9780520262232.001.0001/upso-9780520262232)
+* Fujitani, *Race for Empire*, National Mobilization, 239-298 [Ebook](https://library.st-andrews.ac.uk/record=b2072276~S5)
 
 **Further Reading:**
 
@@ -729,7 +738,7 @@ Review GORDON Ch 12 Japan in Wartime
 
 ## Week 10 - The Aftermaths of War and Decolonisation
 
-*We are getting closer to the essay deadline so no elective reading categories. Reading logs can be on any assigned text but consider reflecting on readings or sources from your long essay research. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
+*We are getting closer to the essay deadline so no elective reading categories. Reflective posts can be on any assigned text but consider reflecting on readings or sources from your long essay research. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
 
 **Primary Reading:** ~40 pages
 
@@ -752,7 +761,7 @@ Review GORDON Ch 12 Japan in Wartime
 * Kushner, Barak, and Andrew Levidis, eds. *In the Ruins of the Japanese Empire: Imperial Violence, State Destruction, and the Reordering of Modern East Asia* [Ebook](http://library.st-andrews.ac.uk/record=b3148715~S5)
 * Muminov, Sherzod, and Barak Kushner. *Overcoming Empire in Post-Imperial East Asia: Repatriation, Redress and Rebuilding* [Ebook](http://library.st-andrews.ac.uk/record=b3140969~S5)
 * Kushner, Barak. *Men to Devils, Devils to Men: Japanese War Crimes and Chinese Justice* (P) [Ebook](http://library.st-andrews.ac.uk/record=b3074871~S5)
-* Consider reading more of Dower's fantastic survey of the occupation period in Japan
+* Consider reading more of Dower's fantastic survey of the occupation period in Japan *Embracing Defeat*
 * Eiji Takemae, *The Allied Occupation of Japan*
 * Watt, Lori. “Embracing Defeat in Seoul: Rethinking Decolonization in Korea, 1945.” *The Journal of Asian Studies* 74, no. 01 (February 2015): 153–74
 * Lori Watt, *When Empire Comes Home: Repatriation and Reintegration in Postwar Japan*
@@ -803,67 +812,6 @@ Review GORDON Ch 12 Japan in Wartime
 * Under the Flag of the Rising Sun (1972 - 軍旗はためく下に)
 * Merah Putih (2009)
 * Spirits' Homecoming (2016 - 귀향)
-
-\pagebreak
-
-## Week 11 - The Politics of Memory
-
-*No separate elective reading categories, handouts or reading logs can be on any secondary source or, in former case, on a secondary or primary source related to your essay research*
-
-**Primary Reading:** ~25 pages
-
-* [SOURCES](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908716): 
-    * Part VII, Chapter 51, 1279-1281 Logic and Psychology of Ultranationalism - Maruyama
-    * Part VII, Chapter 51, 1283-1285 Ienaga Textbook Trials
-    * Part VII, Chapter 51, 1288-1290 Fujiwara Akira
-    * Part VII, Chapter 51, 1290-1297 Kobayashi Yoshinori
-    * Part VII, Chapter 51, 1306-1308 Arano Yasunori and Colleagues
-    * The reading in Victoria's *Zen Stories* below contains some extended primary source passages
-
-**Secondary Reading:** 
-
-* Lee, Sung-Ae. “Remembering or Misremembering? Historicity and the Case of So Far from the Bamboo Grove.” *Children’s Literature in Education* 39, no. 2 (June 1, 2008): 85–93. [DOI](http://dx.doi.org/10.1007/s10583-007-9059-z)
-* Ching, Leo T. S. *Becoming Japanese: Colonial Taiwan and the Politics of Identity Formation*, 1-11 [Ebook](http://library.st-andrews.ac.uk/record=b2069708~S5)
-* Jager, *Ruptured Histories* Carol Gluck "Comfort Women and the World" pp47-77 (Teams)
-* Seraphim, Franziska. *War Memory and Social Politics in Japan, 1945-2005*. Introduction (Teams)
-
-**Further Reading:**
-
-* Paul D. Barclay "Imperial Japan's Forever War, 1895-1945" *The Asia-Pacific Journal* [Open Access](https://apjjf.org/2021/18/Barclay.html)
-* Shin, Gi-Wook, and Soon Won Park. *Rethinking Historical Injustice And Reconciliation in Northeast Asia: The Korean Experience* (P)
-* Igarashi, Yoshikuni. *Bodies of Memory: Narratives of War in Postwar Japanese Culture, 1945-1970* (P) [Ebook](http://library.st-andrews.ac.uk/record=b3083911~S5)
-* Igarashi, Yoshikuni. *Homecomings: The Belated Return of Japan’s Lost Soldiers* (P) [Ebook](http://library.st-andrews.ac.uk/record=b3068778~S5)
-* Hein, Laura, and Mark Selden. *Censoring History: Citizenship and Memory in Japan, Germany, and the United States* (P)
-* Nozaki, Yoshiko. *War Memory, Nationalism and Education in Postwar Japan: The Japanese History Textbook Controversy and Ienaga Saburo’s Court Challenges* (P)
-* Seraphim, Franziska. *War Memory and Social Politics in Japan, 1945-2005*. Harvard University Press, 2008. (P)
-* Soh, C. Sarah. *The Comfort Women: Sexual Violence and Postcolonial Memory in Korea and Japan*. University of Chicago Press, 2009. (P)
-* Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories*. Routledge, 2011. (P)
-* John Lie, *Multiethnic Japan* [Ebook](http://library.st-andrews.ac.uk/record=b3071805~S5)
-* J. Victor Koschmann, *Revolution and Subjectivity in Postwar Japan*
-* Bronson, Adam. *One Hundred Million Philosophers: Science of Thought And the Culture of Democracy in Postwar Japan* [Ebook](http://library.st-andrews.ac.uk/record=b3081320~S5)
-* Ryang, Sonia, ed. *Koreans in Japan: Critical Voices from the Margin*
-* Gallicchio, Marc, Haruo Iguchi, Gilbert M. Joseph, and Emily S. Rosenberg, eds. *The Unpredictability of the Past: Memories of the Asia-Pacific War in U.S.–East Asian Relations* [Ebook](http://library.st-andrews.ac.uk/record=b3132423~S5)
-* Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea: The Roles of Historians, Artists and Activists* [Ebook](https://library.st-andrews.ac.uk/record=b2483207~S5)
-* Takenaka, Akiko. *Yasukuni Shrine: History, Memory, and Japan’s Unending Postwar* [Ebook](http://library.st-andrews.ac.uk/record=b3081345~S5)
-* Breen, John. *Yasukuni, the War Dead and the Struggle for Japan’s Past*
-* Kimura, Kan. *The Burden of the Past: Problems of Historical Perception in Japan-Korea Relations* [Ebook](http://library.st-andrews.ac.uk/record=b2897199~S5)
-
-
-**Overview:**
-
-* There may be presentations
-* This week we will examine some of the issues that have collectively come to be referred to as the "history problem" in Japan, including issues related to depictions of empire and war in textbooks and the similar rise of previously neglected voices in the 1980s and 1990s. 
-* What some of these better known issues don't capture well is how challenging the issue of war and empire is for institutions and communities all throughout Japan. Clubs, families, municipal governments, libraries, religious organizations etc. all have had there own challenges to face the long history of Japanese empire and war. 
-
-**Films of Interest:**
-
-* 2009: Lost Memories (2002 - 2009 로스트메모리즈)
-* Grave of the Fireflies (1988 - 火垂るの墓)
-* Yamato (2005 - 男たちの大和)
-* No Regrets for Our Youth (1946 - わが青春に悔いなし)
-* Godzilla (1954)
-
-\pagebreak
 
 ### Readings on Domestic Developments
 

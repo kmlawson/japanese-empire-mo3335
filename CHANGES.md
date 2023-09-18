@@ -2,6 +2,11 @@
 
 Here I list some of the significant changes in this module over the years, after the module was first offered spring of 2014.
 
+## Fall 2023
+
+* Removed politics of memory week as this is a fall module
+* Added information about the prospectus assignment
+
 ## Fall 2018
 
 * MAJOR: shift in assessments and weightings to conform with new School of History guidelines for coursework loads

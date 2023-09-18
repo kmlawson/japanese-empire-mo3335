@@ -1,8 +1,8 @@
 # Assignments
 
-The assessed portion of the coursework for this module consists of one long essay, two drafts of a long essay prospectus, one five minute presentations, and a combination of reading logs and handouts. In addition, students are required to come prepared every week having completed the required reading plus one elective reading category. Students will be expected to be able to articulate the main argument of each assigned reading or, absent one, its contribution to the week's theme. 
+The assessed portion of the coursework for this module consists of one long essay, two drafts of a long essay prospectus, one five minute presentation, and a combination of reflective posts and handouts. In addition, students are required to come prepared every week having completed the required reading plus one elective reading category. Students will be expected to be able to articulate the main argument of each assigned reading or, absent one, its contribution to the week's theme. 
 
-**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by midnight the evening before class when you give your presentation. 
+**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for an in person presentation should also be uploaded to the presentation section of MMS by midnight the evening before class when you give your presentation. 
 
 ### Headers and Formatting
 
@@ -40,7 +40,7 @@ If you prefer **and do so consistently**, you may use the Chicago Style (Notes a
 
 The essay for the course is worth 50% of the total coursework and has a limit of 5,000 words including footnotes. This is not an essay you research and compose in the second half of the semester and can expect a good grade for: it requires you to make progress on it throughout the semester. Narrow down an area of interest, read within this area of interest, isolate a few themes of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
 
-Some class time in most weeks will be dedicated to discussing the essay. It is not uncommon for a student to change topics once or twice during the semester, as the feasibility of one topic or another is evaluated and the sources explored. My suggestion is that you answer two questions for yourself very early in your research: 1) Once you have a general topic or area of history you are interested in, think about what kinds of arguments or historical approaches have been applied to this area before that will serve as the starting point for your intervention? 2) What kinds of primary sources do you have realistic access to for use in the essay. If you don't think you will be able to make good use of primary sources, you may write a historiographical essay but this will be expected to engage with a wider range of materials.
+Some class time in most weeks will be dedicated to discussing the essay. It is not uncommon for a student to change topics once or twice during the semester, as the feasibility of one topic or another is evaluated and the sources explored. My suggestion is that you answer two questions for yourself very early in your research: 1) Once you have a general topic or area of history you are interested in, think about what kinds of arguments or historical approaches have been applied to this area before that will serve as the starting point for your intervention? 2) What kinds of primary sources do you have realistic access to for use in the essay. Most first class essays will show an ability to carry out original research that includes use and analysis of primary sources, but students may choose to do a historiographical essay. 
 
 ### Topics for the Essay
 
@@ -59,7 +59,10 @@ Your essay should be an **argument driven** analytic research essay. You may wri
 *Japanese Studies*  
 *Modern Asian Studies*  
 *Critical Asian Studies*  
-*positions: east asia cultures critique*
+*positions: east asia cultures critique*   
+*Sungkyun Journal of East Asian Studies*  
+*Seoul Journal of Korean Studies*  
+*European Journal of Korean Studies*
 
 ### Making an Argument
 
@@ -113,19 +116,19 @@ When you do not find enough through the above method of beginning your trail wit
 * Our library catalogue
 * Major journal databases we have access to such as JSTOR
 * Google Scholar (scholar.google.com) which can then direct you to other journals our library may provide access to
-* Google Books
-* The Internet Archive (archive.org)
+* Google Books and The Internet Archive (archive.org)
 * Consult with librarians - they are your friend. Bring them what you have found already and work with them to find further resources.
+* LLMs - Large Language Models such as ChatGPT are highly problematic tools given their propensity to confidently manufacture completely false information, but may be useful as *one part* of your early brainstorming process.
 * Learn to use Google more effectively:
     * Search for phrases in quotation marks " " when appropriate
     * Try adding filetype:pdf to limit results to PDF files
-    * You can limit searches to a particular domain or top-level domain, e.g. including: site:st-andrews.ac.uk or site:.edu
 
 * Frog in a Well Primary Source Guides:
     * [Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
     * [History of Taiwan](https://www.froginawell.net/frog/sources/primary-sources-history-of-taiwan/)
     * [History of Burma](https://www.froginawell.net/frog/sources/primary-sources-history-of-burma/)
     * [History of the Philippines](https://www.froginawell.net/frog/primary-sources-history-of-the-philippines/) (under construction)
+    * [History of the Malay World](https://froginawell.net/frog/primary-sources-the-malay-world/)
     * [Primary Source Nuggets](https://www.froginawell.net/frog/sources/primary-source-nuggets/)
 
 The long essays should at at least a dozen sources which are not websites and the inclusion of primary sources is strongly encouraged but not required if you choose to write a historiographical essay. An essay based on sources that are the results of a simple google search can be written in an evening of frantic last minute work, but rarely demonstrates much effort, research skill, or ability to isolate high-quality materials to support an argument. This is not because there are not excellent websites with overviews on a topic, excellent wikipedia entries, etc. but because there is still usually far greater quality material found in published articles and books on most historical topics, including those which are assigned above. It is wise to make use of online research skills to get oriented in a new topic, but use this course as an opportunity to explore the wealth of academic research on your topics. Your essays will be assessed, in part, on how effectively your sources demonstrate your research efforts. Of course, digitized primary (archival sources, documents) or secondary sources (e.g. articles in academic databases) found in digital collection are permitted and an online source or two in addition to your other sources beyond the minimum is fine if chosen carefully for quality.
@@ -158,30 +161,36 @@ The points that follow should be fairly clear from the questions posed above but
 
 # Prospectus, Argument, and Indicative Bibliography
 
-10% of your mark for the module comes from two drafts of a proposal for your long essay, together with a draft articulation of your argument and an indicative bibliography. The first draft (required submission) of this will be posted on Moodle and we will discuss it in groups in class. You are also strongly encouraged to come to office hours to discuss the draft. No formal written feedback is offered on this.
+15% of your mark for the module comes from two drafts of a 500 word proposal for your long essay, including a draft articulation of a possible argument and an indicative bibliography. The **first draft** (this is a **required** submission) of this will be posted on our Moodle in **Week 5** and we will discuss it in groups in class. You are also strongly encouraged to come to office hours to discuss the draft. No formal written feedback is offered on this.
 
-The second draft of your prospectus, argument, and indicative bibliography is submitted to MMS and will receive a mark. You will be evaluated on how you have developed your ideas since your first prospectus (if you have changed topics, which is not uncommon, you should still work on improving the quality of the proposal), whether your argument is clear, your sources appropriate for the task, and the structure and scope indicated by your prospectus are well crafted.
+**Prospectus** (500 Words): Write a brief summary of your essay *as if you have already written it*. What did it do? What kinds of sources did you use? How did you structure the essay? Include in this 500 words a sentence in **bold** which is a statement of the essay's proposed argument. At this early stage of your research, this is highly speculative, and it is very unlikely to end up being the actual argument you will make in your essay. Your eventual final argument will also likely be much more concrete than it is here in the prospectus but use this as an opportunity to practice stating a possible argument you will make.   
+**Indicative Bibliography**: Divided into two sections, primary and secondary sources, offer a list of sources that you will have access to in a language you can read that you think will be useful for your essay based on your reading so far. For each source, include one complete sentence explaining why you think the source is useful. List no fewer than 10 sources and no more than 30 (for this exercise).
+
+The **second draft** of your prospectus, argument, and indicative bibliography is submitted to MMS and will receive a mark. Include a copy of the first draft prospectus after your submission. You will be **primarily** be evaluated on how you have developed your ideas in response to your first prospectus (if you have changed topics, which is not uncommon, you should still work on improving the quality of the proposal) and whether your argument is clear. You will be only **secondarily** marked on the overall historical merit of your proposal, whether the sources appropriate for the task, and whether the structure and scope indicated by your prospectus are well crafted.
 
 # Oral Presentations
 
-Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **one presentations**. Non-assessed presentations: In any given week, you may be asked to speak to the class for 2-3 minutes about the elective reading you have signed up for that week. You should be able to introduce the reading to other students who may not have read the reading, and articulate its main contributions to the week's themes in a concise manner.
+Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **one presentation**. Non-assessed presentations: In any given week, you may be asked to speak to the class for 2-3 minutes about the elective reading you have signed up for that week. You should be able to introduce the reading to other students who may not have read the reading, and articulate its main contributions to the week's themes in a concise manner.
 
-You may choose to deliver your assessed presentation in person, in class, or by means of a recorded presentation presentation. 
+You may choose to deliver your assessed presentation in person, in class (5 minutes, with handout and Q&A), or by means of a recorded presentation presentation (8 minutes, no handout or Q&A). 
 
 
 **Recorded Presentation**: 
 
-You can record your voice over slides in Apple Keynote and in Powerpoint or some other applicaiton, **but must export the result as a movie file** - you may not submit a powerpoint or keynote file. The advantage is that you can do this entirely from the comfort of your own home,  you may use slides, and no supplementary handout is required. The disadvantage is that you must submit the video and handout *at least 3 days before the class* related to the content, or you will receive a late penalty for each day as if it were an essay submitted late. A strong first class recorded presentation will not have very text heavy slides, will have an excellent connection between visual, textual, content and linking of slide content and spoken word, and will be delivered in a dynamic manner. 
+You can record your voice over slides in Apple Keynote and in Powerpoint or some other application, **but must export the result as a movie file** - you may not submit a powerpoint or keynote file. The advantage is that you can do this entirely from the comfort of your own home and no supplementary handout is required. The disadvantage is that you must submit the video *at least 3 days before the class* related to the content, or you will receive a late penalty for each day as if it were an essay submitted late. A strong first class recorded presentation will not have very text heavy slides, will have an excellent connection between visual, textual, content and linking of slide content and spoken word, and will be delivered in a dynamic manner. 
 
 - IMPORTANT: You must submit a movie - *not a powerpoint file with embedded sound, and not a keynote file*, but a movie file. Again: you must submit a movie file (MP4, etc.). 
 - Confirm that your movie can be viewed using the open source software [VLC](https://www.videolan.org/). 
 - After saving as a movie file, please confirm that voice is clearly audible (not a faint or unclear voice) and your slides display. If you are unable to do this, then give your presentation in person on the appropriate day relative to your topic. 
-- The recorded presentation video should be uploaded to the class files in Microsoft Teams together with a separate handout no later than 3 days before the class relevant to the content. All students should watch the presentations before class and we will make time for Q&A in class. 
+- The recorded presentation video should be uploaded to the class files in Microsoft Teams no later than 3 days before the class relevant to the content. No handout is required for recorded presentations and no Q&A. 
 - Please name the video file you upload strictly following  this format: the week number, your first name, and a title of the text your presentation is about. For example: W5 - Sarah - The Book Title
+- Recorded presentations assess a slightly different set of skills than the in person presentation: they are a good way to practice and improve your ability combine images with your voiced narration and a small amount of text on screen. More time is required to prepare a recorded presentation, but you have the advantage of being able to re-record sections you are unhappy with. More time is required to find effective visual material and evaluate the amount of textual material you will present to supplement your voice, but you don't need to worry about either the handout or responding to questions.
 
 **In Person Presentation**:
 
-You may deliver your presentation in class the day of. The advantage is that you give the talk without any slides, and you may prepare until the day of the class related to the content of your presentation. You don't have worry about exporting to a movie file, or be concerned about audibility of your voice, etc. The disadvantage is that you can't simply re-record or edit your presentation for submission since it is delivered life and you must prepare a 2 page handout.  A strong first class live dissertation will not be read from an exact transcript, nor will it reproduce exactly content from handout bullet points: it will be well-practiced and allow the student to spend most of the presentation looking around the room at their audience.
+You may deliver your presentation in class the day of. The advantage is that you give the talk without any slides, and you may prepare until the day of the class related to the content of your presentation. You don't have worry about exporting to a movie file, or be concerned about audibility of your voice, etc. The disadvantage is that you can't simply re-record or edit your presentation for submission since it is delivered live. You are also expected to produce a supplementary handout (up to 2 pages) and answer one or two questions after your presentation. A strong first class live dissertation will not be read from an exact transcript, nor will it reproduce exactly content from handout bullet points: it will be well-practiced and allow the student to spend most of the presentation looking around the room at their audience.
+
+**Pair Presentation:** You may choose to work together with one other willing student to do an in-person presentation on the same book (together 10 minutes instead of 5). In this case each student will receive a separate mark for their presentation, but part of each mark will relate to how well the presentation works as part of a combined whole. Think about how you want to divide your material in the presentation and work to make it a coherent presentation of the work.
 
 **Presentation Content:** Unless you secure permission for a special topic from me, the topic of your presentation should be a single author monograph (not an edited volume of different chapters). Throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section. Unlike your weekly elective reading handout, however, **your presentation should cover the entirety of the work**, not merely any assigned chapters. 
 
@@ -197,7 +206,7 @@ Because you are presenting on the work *as a whole* the presentation assessment 
 - present in a way that, even if you are referring to a written set of notes or text, still flows naturally and smoothly
 - if a recorded presentation with slides, make effective use of images, show restraint in the use of text, generally slides that are merely a list of bullet points (in other words, don't do what lecturers often do at St Andrews!). 
 
-The assessed presentations should be 5 minutes in length *and not a minute longer*. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and include at least a sentence or two of your critical evaluation. It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Part (but not all) of the presentation may offer greater detail on a particularly important section.
+The assessed presentation should be 5 minutes in length for in person and 8 minutes in length for recorded presentations *and not a minute longer*. Being slightly under the time limit is fine. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and include at least some consideration of your critical evaluation: discuss at least one limitation or shortcoming. This should be substantive, based on an evaluation of concrete content, not superficial ("it was too long", "it was boring", "it was too theoretical"). It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Nor is your goal to determine whether or not you can "recommend" that someone should read a book. Part (but not all) of the presentation may offer greater detail on a particularly important section. 
 
 Some questions to consider as you prepare:
 
@@ -205,7 +214,7 @@ Some questions to consider as you prepare:
 * Did the student appear to move beyond simply reading a written document?
 * Did the distributed handout accurately summarize the general points to be made in the presentation in the form of concise bullet points?
 * Did the handout include any important dates, sources, key people, or, if necessary, a map that serves as a useful reference?
-* Was the 5 minute limit very strictly observed in the presentation?
+* Was the 5 (8 for recorded) minute limit very strictly observed in the presentation?
 * Did the presentation provide the context of the work, and very briefly introduce the author?
 * Was the presentation well-structured, organized, and focus on a only a few key points?
 * Was there a good balance of arguments, examples to support them, and critique?
@@ -215,23 +224,26 @@ Some questions to consider as you prepare:
 
 \pagebreak
 
-# Reading Log and Reading Handouts
+# Reflective Posts and Reading Handouts
 
-30% of the grade for this module comes from a combination of your reading log entries and reading handouts. You are required to submit five of each (starting Week 2). Each week on Moodle, **by Tuesday 11pm**, you must upload either a PDF of your reading handout or a reflective reading log entry (directly enter text into the Moodle forum). This will allow fellow students to read both from week to week, and confirm that you have made a weekly submission. You may only submit one item in any given week. Again: you will receive no credit for more than one item submitted in any given week. The idea of this exercise is to ensure you engage with your reading across the semester.
+20% of the grade for this module comes from **four reflective posts** your write in response to weekly reading. Additionally, you are required to submit at least **three reading handouts** (these are not marked, but submission is required to pass the module). Each week on our module Moodle, **by Monday 11pm**, you have the opportunity to upload a reading handout **attached in PDF format**, and/or **paste directly into a Moodle post** a reflective post. This will allow fellow students to read both from week to week. After Week 3, **you may only submit one item of any kind in any given week**. For example you may submit nothing (if you are not running behind), a reflective post, a handout, a reflective post and a handout (but not related to the same text!), but not two reflective posts or two handouts. **Again**: you will receive no credit for more than one item of a given type submitted in any given week. The purpose of this policy is to ensure you engage with your reading across the semester, not merely close to the deadline for final submission on MMS. 
 
-**Submission**: The assessed final submission of these materials is Friday of Week 11. Submit a document with the usual required headers/cover, and in this document list the dates (on Moodle) you submitted your five reading handouts (no need to post the handout contents into your submission, just the dates where I can find them on Moodle). Then paste in your five reading logs into the document for submission. **Your five reading logs may vary of length, but should be at least 2,500 words in length**. You should not make substantial changes to your original Moodle reading log postings, but you are permitted to correct typos, rephrase a sentence, or add a citation. 
+**Note:** 
 
-**Marking Reading Handouts**: Marking of handouts are very straightforward: 0 points for any missing handouts. 10 for particularly week handouts, and 20 for good or excellent handouts. Feedback will be limited to justifying 10s or praising particularly excellent handouts. 
+- In week five you are free submit both a first draft of your essay prospectus and either a reflective post or reading handout. Also, you are free to submit something during independent learning week if you want to get ahead. You are also free to submit *more* than the required four posts, and then select the four posts you like the best to MMS at the end of the semester. You still only permitted to post one of these to Moodle per week, however. 
+- The first reflective post / handout deadline is Week 3. You may submit handouts from readings related to Week 2 or Week 3 and only for this first submission you are permitted to submit up to two posts and up to two handouts (if you want to submit one related to Week 2 readings and one for Week 3 readings)
 
-**Marking Reading Logs**: again, the marking of these will be relatively simplified: 0 points for any missing reading logs. 10 for particularly weak entries, 15 for good entries, and 20 for excellent ones. Remember, altogether your five reading logs should be at least 2,500 words altogether. It is fine if some are 400 words and others 800 words, for example, or if the total goes somewhat over the 2,500 words (no penalty): but please don't submit any reading logs that are longer than 1,000 words. 
+**Example:** Student A submits reflective posts to the Moodle in Week 3, 4, 7, and 9. They submit handouts in Weeks 3, 4, and 10. This is fine. Student B is eager to get this out of the way and submits posts on Week 3, 4, 5 and 7, and also handouts on Weeks 3, 4 and 5. They have completed everything in the first half of the semester so they can concentrate on their long essay. Student C is worried about their mark and wants some extra practice. They submit six posts to Moodle in weeks 3, 4, 5, 7, 8, and 9 as well as their three handouts in various weeks. In the end they decide to submit just the last four posts which they thought were strongest. Student D is in trouble: they did all their three handouts but procrastinated on the posts and only submitted reflective posts to the Moodle in Week 9, 10, and 11. Thus they ran out of weeks and will receive a 0 for the missing fourth post.
 
-**What to Write:**
+**Submission**: While you must post reflective posts and handouts to the Moodle during the semester, the assessed final submission of the reflective posts is Tuesday of Week 11. Submit a document with the usual required headers/cover, and in this document **you must** list the dates you submitted your posts and handouts where these may be found on Moodle (no need to post the handout contents into your MMS submission, just the dates where I can find them on Moodle). They must be visible on the Moodle for the days you list them. Then copy and paste in your four reflective posts that are already on Moodle into the document for submission. **Your reflective posts may vary of length, but together should be at least 2,500 words in length**. If you posted more than four posts on Moodle, select only four them for submission to MMS at the end of the semester. You should not make substantial changes to your original Moodle reflective posts, but you are permitted to correct typos, rephrase a sentence, etc. 
 
-- Please make explicit reference (with full footnote citation, no bibliography) to at least one source. 
-- Use the postings to reflect on your reading, highlight interesting arguments, put readings into conversation with eachother etc.
-- Your reading logs should ideally each aim to be between 400-1,000 words 
+**Reflective Posts - What to Write:**
+
+- You can focus on one or more required readings, elective reading. 
+- Use the postings to reflect on your reading, highlight or contrast or critique interesting arguments, put readings into conversation with eachother, etc.
+- Please make explicit reference to at least one source. You don't need formal footnotes or bibliography, but mention the title clearly in the text and include relevant page number references in parentheses. If you are mentioning a text not assigned that week.
+- Your reflective posts should ideally each aim to be between 400-1,000 words 
 - The posts should have a single overarching purpose and unified focus - if you find your post getting too long ask yourself if you have remained focused throughout.
-- The posts should be primarily focused on material in the elective or further readings, and may only be from the required set readings if it is a primary source. It may refer to additional readings from anywhere.
 - Avoid vague references to what you like and don't like; what you found interesting or not interesting - unless you follow this up with concrete and specific reasons why something is interesting or valuable.
 - Be concise and avoid repetition. 
 
@@ -245,11 +257,16 @@ Here are some ideas of what make good postings (but you aren't limited to this):
 - Write a posting on the use of language or terms in a source and why you think it is meaningful or important
 - Write a posting around a certain pattern you see across multiple texts
 
-### Online Submission
+**Reading Handouts**
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. Paper copies do not need to be submitted: let's save paper. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
+- These are required submissions but not marked. 
+- If you will submit a handout for a week, compose a 1-2 page overview or outline, or briefing sheet that will primarily be aimed at your fellow students.
+- You might have a paragraph at the top that provides a summary
+- If it is empirically dense, consider listing some key dates, events, people, or concepts
+- Consider providing an overview of the structure, the way it is divided into sections and what those sections contribute. 
+- The whole thing may be in the form of hierarchical bullet points if you like, but make most of these full sentences whenever possible, rather than fragmented phrases except when outlining structure or listing things. 
 
 ### Feedback
 
-Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (2 weeks). Presentation feedback is provided at two points in the semester so they may be marked in groups. 
+Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within two weeks. Presentation feedback is provided at two points in the semester so they may be marked in groups. Some formative feedback on Moodle posts (before they are submitted to MMS) will be made sporadically throughout the semester, especially on the first or second post made by a student. 
 
