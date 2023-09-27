@@ -574,7 +574,7 @@ GORDON Ch 8 Empire and Domestic Order
 
 \pagebreak
 
-## Week 8 - Japan's Invasion of China
+## Week 9 - Japan's Invasion of China
 
 *We will all be reading a longer chunk of Diana Lary, so we will not have a separate set of elective readings. You are also getting closer to your essay deadline so consider using sources and readings from your essay as your reflective posts, when you wish. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
 
@@ -643,7 +643,7 @@ GORDON Ch 8 Empire and Domestic Order
 
 \pagebreak
 
-## Week 9 - The Empire in Southeast Asia and Dying for the Emperor
+## Week 10 - The Empire in Southeast Asia and Dying for the Emperor
 
 *There is choice built into both the primary and secondary readings so we will not have separate elective reading this week.*
 
@@ -736,7 +736,7 @@ Review GORDON Ch 12 Japan in Wartime
 
 \pagebreak
 
-## Week 10 - The Aftermaths of War and Decolonisation
+## Week 11 - The Aftermaths of War and Decolonisation
 
 *We are getting closer to the essay deadline so no elective reading categories. Reflective posts can be on any assigned text but consider reflecting on readings or sources from your long essay research. Handouts in weeks where there are no elective readings can be from any assigned secondary source.*
 
