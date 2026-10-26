@@ -1,6 +1,7 @@
-% MO3335: The Japanese Empire and its Aftermath, 1873-1952
+% MO3335: The Japanese Empire and its Aftermath, 1873-1952:\ 
+    The Manchuria Edition
 % Tutor: Konrad M. Lawson
-% Fall, 2023
+% Fall, 2026
 
 \begin{center}
 
